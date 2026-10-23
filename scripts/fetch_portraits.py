@@ -144,7 +144,7 @@ def main():
             continue
         print(f"✓ {pid}: {f['titel']} [{f['lizenz']}] {f['seite']}")
         if nur_pruefen:
-            for x in alle[:15]:
+            for x in alle[:45]:
                 frei = "frei" if FREI.search(x["lizenz"]) else "    "
                 print(f"    {frei} {x['lizenz'] or '?':28} {x['titel']}")
             continue
