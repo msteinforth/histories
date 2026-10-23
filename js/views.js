@@ -3,6 +3,7 @@ import * as logic from './logic.js';
 import * as store from './store.js';
 import { esc, fmtDay, fmtLong, fmtWeekday, today } from './util.js';
 import { avatar, icons, ring } from './ui.js';
+import { canInstall } from './install.js';
 
 const s = () => store.get();
 
@@ -184,6 +185,12 @@ export function settings() {
         <input type="checkbox" data-action="ferien" ${logic.ferienAktiv() ? 'checked' : ''}></label>
       <label class="toggle"><span><b>Vorschau</b><small>Alle Tage sofort freischalten (für den Testlauf).</small></span>
         <input type="checkbox" data-action="vorschau-toggle" ${st.vorschau ? 'checked' : ''}></label>
+      ${canInstall() ? `
+      <div class="set-group">
+        <b>Als App installieren</b>
+        <small>Histories auf den Homescreen legen – öffnet direkt die Person des Tages.</small>
+        <div class="actions row"><button class="btn" data-action="install">Anleitung zeigen</button></div>
+      </div>` : ''}
       <div class="set-group">
         <b>Fortschritt sichern</b>
         <small>Alles liegt nur auf diesem Gerät. Vor einem Handywechsel exportieren und auf dem neuen Gerät importieren.</small>

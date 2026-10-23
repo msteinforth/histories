@@ -11,6 +11,7 @@ import { dayCards, storyCards } from './cards.js';
 import { openViewer, closeViewer } from './viewer.js';
 import { esc, isISODate, today, toast, fmtLong, addDays } from './util.js';
 import { icons } from './ui.js';
+import { initInstall, maybeShowInstallHint, showInstallSheet } from './install.js';
 
 const app = document.getElementById('app');
 let mainView = 'feed';
@@ -120,6 +121,7 @@ document.addEventListener('click', (e) => {
   const action = e.target.closest('button[data-action]')?.dataset.action;
   if (action === 'vorschau') { store.update((s) => { s.vorschau = true; }); toast('Vorschau an: alle Tage sind freigeschaltet.'); renderMain(); }
   if (action === 'export') downloadBackup();
+  if (action === 'install') showInstallSheet();
   if (action === 'reset' && confirm('Wirklich alles zurücksetzen? Das lässt sich nicht rückgängig machen.')) {
     store.reset(); toast('Zurückgesetzt.'); renderMain();
   }
@@ -167,8 +169,10 @@ async function start() {
     app.innerHTML = `<p class="empty">Inhalte konnten nicht geladen werden.<br><small>${esc(err.message)}</small></p>`;
     return;
   }
+  initInstall();
   window.addEventListener('hashchange', route);
   route();
+  maybeShowInstallHint();
   if ('serviceWorker' in navigator && !new URLSearchParams(location.search).has('nosw')) {
     navigator.serviceWorker.register('sw.js').catch(() => {});
   }
