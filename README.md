@@ -14,7 +14,7 @@ Tägliches 10-Minuten-Ritual: 9 Karten zum Durchtippen (Hook, Steckbrief, Was is
 - Streak mit 2 Jokern pro Woche, Ferienmodus, Nachholen (jeder Tageslink bleibt gültig)
 - Like & Merken, Album (Sammelkarten, Filter, Nebenfiguren), Export/Import des Fortschritts
 - PWA: Homescreen-Icon öffnet direkt die heutige Einheit, offline nutzbar
-- Initialen-Avatare in der Farbe des Bereichs, bis gemeinfreie Porträts eingesetzt sind
+- Gemeinfreie Porträts (Wikimedia Commons, Public Domain/CC0) für alle 9 Personen der Woche 1, mit Quellenangabe
 
 ## Links
 
@@ -44,6 +44,15 @@ Siehe [docs/redaktion.md](docs/redaktion.md) – Schema, Prompt-Vorlage, Checkli
 - `content/stories.json` – Bonus-Stories
 - `node scripts/validate.mjs` – prüft Wortbudget, Kartenfolge, Quiz und Verweise
 
+## Porträts
+
+`content/bilder/quellen.json` listet pro Person Commons-Dateien (oder einen Suchbegriff) plus Zuschnitt (`fokus`, `zoom`). Der Workflow **Porträts laden** (Actions → Run workflow) holt sie:
+
+- `pruefen` zeigt Kandidaten mit Lizenz im Log
+- `laden` übernimmt nur gemeinfreie/CC0-Bilder, schneidet auf 600×600 zu, trägt Credit und Quelle in Einheiten und Stories ein, committet und veröffentlicht
+
+Lokal geht dasselbe mit `python3 scripts/fetch_portraits.py [id …]` (braucht Pillow und Zugriff auf commons.wikimedia.org).
+
 ## Veröffentlichen
 
 `.github/workflows/pages.yml` prüft die Inhalte und veröffentlicht bei jedem Push auf `main` auf GitHub Pages (einmalig in den Repo-Einstellungen unter *Pages → Source: GitHub Actions* aktivieren). Achtung: Bei einem öffentlichen Repository ist die Seite unter der Pages-Adresse erreichbar, nur eben nicht verlinkt/indexiert.
@@ -60,7 +69,6 @@ js/viewer.js     Story-Viewer             js/store.js   Fortschritt in localStor
 
 ## Nächste Schritte (Konzept, Stufe 1)
 
-- Gemeinfreie Porträts für Woche 1 einsetzen
 - Woche 1 gemeinsam testen, Ton und Kartenlänge abstimmen
 - Redaktionsplan Staffel 1 (90 Kernpersonen) anlegen und in Batches produzieren
 - Automatischer Versand des Tageslinks (z. B. GitHub Action + E-Mail-Dienst)
