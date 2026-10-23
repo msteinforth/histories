@@ -77,137 +77,231 @@
   },
   "aischylos": {
     "kandidaten": [
-      "File:Aischylos Büste.jpg"
-    ],
-    "suche": "Aeschylus bust"
+      "File:Aischylos Büste.jpg",
+      "File:Aeschylus Ny Carlsberg Glyptotek IN1841.jpg"
+    ]
   },
   "hippokrates": {
     "kandidaten": [
       "File:Hippocrates rubens.jpg"
-    ],
-    "suche": "Hippocrates engraving portrait"
+    ]
   },
   "aristoteles": {
     "kandidaten": [
       "File:Aristotle Altemps Inv8575.jpg"
-    ],
-    "suche": "Aristotle bust"
+    ]
   },
   "alexander": {
     "kandidaten": [
-      "File:Alexander the Great mosaic.jpg",
-      "File:Alexander1256.jpg"
-    ],
-    "suche": "Alexander the Great bust"
+      "File:Alexander1256.jpg",
+      "File:Alexander The Great Bust (2).jpg"
+    ]
   },
   "archimedes": {
     "kandidaten": [
       "File:Domenico-Fetti Archimedes 1620.jpg"
     ],
-    "suche": "Archimedes painting"
+    "fokus": [
+      0.5,
+      0.3
+    ],
+    "zoom": 0.7
   },
   "shihuangdi": {
     "kandidaten": [
       "File:Qinshihuang.jpg"
     ],
-    "suche": "Qin Shi Huang portrait"
+    "fokus": [
+      0.5,
+      0.3
+    ],
+    "zoom": 0.7
   },
   "caesar": {
-    "kandidaten": [],
-    "suche": "Julius Caesar bust"
+    "kandidaten": [
+      "File:Bust of Julius Caesar British Museum.jpg",
+      "File:Julius Caesar MET DP-12755-001.jpg"
+    ]
   },
   "augustus": {
     "kandidaten": [
       "File:Statue-Augustus.jpg"
     ],
-    "suche": "Augustus of Prima Porta"
+    "fokus": [
+      0.5,
+      0.12
+    ],
+    "zoom": 0.45
   },
   "jesus": {
     "kandidaten": [
+      "File:Christ Pantocrator Deesis mosaic Hagia Sophia.jpg",
       "File:Christ Pantocrator mosaic from Hagia Sophia 2744 x 2900 pixels 3.1 MB.jpg"
     ],
-    "suche": "Christ Pantocrator mosaic"
+    "fokus": [
+      0.5,
+      0.35
+    ],
+    "zoom": 0.6
   },
   "augustinus": {
     "kandidaten": [
+      "File:Philippe de Champaigne - Saint Augustine - LACMA - without frame.jpg",
       "File:Sandro Botticelli 050.jpg"
     ],
-    "suche": "Saint Augustine painting"
+    "fokus": [
+      0.5,
+      0.3
+    ],
+    "zoom": 0.6
   },
   "attila": {
-    "kandidaten": [],
-    "suche": "Attila the Hun portrait"
+    "kandidaten": [
+      "File:Attila portrait (imaginary), by Giovio Paolo, 1483-1552, published 1575.jpg"
+    ],
+    "fokus": [
+      0.5,
+      0.35
+    ],
+    "zoom": 0.8
   },
   "karl": {
     "kandidaten": [
-      "File:Albrecht Dürer - Emperor Charlemagne - Google Art Project.jpg"
+      "File:Albrecht Dürer - Emperor Charlemagne (cropped).jpg",
+      "File:Albrecht Dürer - Emperor Charlemagne.jpg"
     ],
-    "suche": "Charlemagne Dürer"
+    "fokus": [
+      0.5,
+      0.25
+    ],
+    "zoom": 0.6
   },
   "ibnsina": {
-    "kandidaten": [],
-    "suche": "Avicenna portrait"
+    "kandidaten": [
+      "File:Avicenna.jpg",
+      "File:Avicenna-miniatur.jpg"
+    ],
+    "fokus": [
+      0.5,
+      0.3
+    ],
+    "zoom": 0.8
   },
   "gregor": {
-    "kandidaten": [],
-    "suche": "Pope Gregory VII"
+    "kandidaten": [
+      "File:Pope Gregory VII.jpg",
+      "File:Gregorius (Vita Gregorii VII).jpg"
+    ],
+    "fokus": [
+      0.5,
+      0.3
+    ],
+    "zoom": 0.8
   },
   "sophokles": {
-    "kandidaten": [],
-    "suche": "Sophocles bust"
+    "kandidaten": [
+      "File:Head of Sophocles, Museo Barracco.jpg",
+      "File:Bust of Sophocles in the Colonnade of the Muses in the Achilleion, Corfu Greece.jpg"
+    ]
   },
   "galen": {
-    "kandidaten": [],
-    "suche": "Galen portrait lithograph"
+    "kandidaten": [
+      "File:Galen detail.jpg"
+    ]
   },
   "perikles": {
     "kandidaten": [
       "File:Pericles Pio-Clementino Inv269.jpg"
-    ],
-    "suche": "Pericles bust"
+    ]
   },
   "euklid": {
-    "kandidaten": [],
-    "suche": "Euclid portrait"
+    "kandidaten": [
+      "File:Jusepe de Ribera - Euclid - 2001.26 - J. Paul Getty Museum.jpg",
+      "File:Euclid by Andre Thevet 1584.webp"
+    ],
+    "fokus": [
+      0.5,
+      0.3
+    ],
+    "zoom": 0.7
   },
   "hannibal": {
-    "kandidaten": [],
-    "suche": "Hannibal bust"
+    "kandidaten": [
+      "File:Hannibal Barca bust from Capua photo.jpg",
+      "File:Mommsen p265.jpg"
+    ]
   },
   "kleopatra": {
-    "kandidaten": [],
-    "suche": "Cleopatra VII bust"
+    "kandidaten": [
+      "File:Cleopatra-VII-Antikensammlung-Berlin.jpg",
+      "File:Bust of Cleopatra at the Royal Ontario Museum.jpg"
+    ]
   },
   "nero": {
-    "kandidaten": [],
-    "suche": "Nero bust"
+    "kandidaten": [
+      "File:443px-Nero bust-fr.jpg"
+    ]
   },
   "paulus": {
     "kandidaten": [
-      "File:Rembrandt - The Apostle Paul - WGA19122.jpg"
+      "File:Rembrandt - Apostle Paul - WGA19120.jpg"
     ],
-    "suche": "Apostle Paul painting"
+    "fokus": [
+      0.5,
+      0.3
+    ],
+    "zoom": 0.7
   },
   "konstantin": {
-    "kandidaten": [],
-    "suche": "Constantine the Great head Capitoline"
+    "kandidaten": [
+      "File:Rome-Capitole-StatueConstantin.jpg",
+      "File:Colossal head of Constantine.jpg"
+    ],
+    "suche": [
+      "Constantine the Great colossal head",
+      "Constantine I bust",
+      "Constantine the Great portrait engraving"
+    ]
   },
   "theoderich": {
-    "kandidaten": [],
-    "suche": "Theoderic the Great"
+    "kandidaten": [
+      "File:Hermann Knackfuß - Theoderic the Great.jpg",
+      "File:Theodorich Ostrogot.jpg"
+    ],
+    "fokus": [
+      0.5,
+      0.3
+    ],
+    "zoom": 0.6
   },
   "justinian": {
     "kandidaten": [
       "File:Meister von San Vitale in Ravenna 003.jpg"
     ],
-    "suche": "Justinian mosaic Ravenna"
+    "fokus": [
+      0.5,
+      0.3
+    ],
+    "zoom": 0.7
   },
   "einhard": {
-    "kandidaten": [],
-    "suche": "Einhard"
+    "kandidaten": [
+      "File:Einhard.jpg"
+    ],
+    "fokus": [
+      0.5,
+      0.35
+    ],
+    "zoom": 0.8
   },
   "heinrichiv": {
-    "kandidaten": [],
-    "suche": "Henry IV Holy Roman Emperor"
+    "kandidaten": [
+      "File:Heinrich 4 g.jpg"
+    ],
+    "fokus": [
+      0.5,
+      0.35
+    ],
+    "zoom": 0.8
   }
 }
