@@ -92,10 +92,10 @@ def choose(entry):
     return None, list(found.values())
 
 
-def save(img_bytes, target, fokus):
+def save(img_bytes, target, fokus, zoom=1.0):
     im = ImageOps.exif_transpose(Image.open(io.BytesIO(img_bytes))).convert("RGB")
     w, h = im.size
-    side = min(w, h)
+    side = int(min(w, h) * zoom)
     fx, fy = fokus
     left = int(min(max(fx * w - side / 2, 0), w - side))
     top = int(min(max(fy * h - side / 2, 0), h - side))
@@ -148,7 +148,7 @@ def main():
                 frei = "frei" if FREI.search(x["lizenz"]) else "    "
                 print(f"    {frei} {x['lizenz'] or '?':28} {x['titel']}")
             continue
-        save(get(f["thumb"]), BILDER / f"{pid}.jpg", entry.get("fokus", [0.5, 0.35]))
+        save(get(f["thumb"]), BILDER / f"{pid}.jpg", entry.get("fokus", [0.5, 0.35]), entry.get("zoom", 1.0))
         eintragen(pid, {"datei": f"{pid}.jpg", "credit": credit(f), "quelle": f["seite"]})
     sys.exit(1 if fehler else 0)
 

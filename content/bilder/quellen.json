@@ -1,13 +1,17 @@
 {
-  "_hinweis": "Bildquellen für scripts/fetch_portraits.py. Nur gemeinfreie oder CC0-Dateien werden übernommen. 'fokus' = Bildmitte für den quadratischen Zuschnitt (x, y von 0 bis 1).",
+  "_hinweis": "Bildquellen für scripts/fetch_portraits.py. Nur gemeinfreie oder CC0-Dateien werden übernommen. 'fokus' = Bildmitte für den quadratischen Zuschnitt (x, y von 0 bis 1). 'zoom' < 1 schneidet enger zu (Anteil der kürzeren Bildseite).",
   "imhotep": {
     "kandidaten": [
       "File:Imhotep statuette, bronze - Museo Egizio, Turin C 112 p01.jpg"
-    ]
+    ],
+    "fokus": [
+      0.5,
+      0.28
+    ],
+    "zoom": 0.55
   },
   "nebukadnezar": {
     "kandidaten": [
-      "File:Nebuchadnezzar II crop.png",
       "File:Nebukadnessar II.jpg"
     ]
   },
@@ -19,19 +23,34 @@
   "siddhartha": {
     "kandidaten": [
       "File:Gandhara Buddha (tnm).jpeg"
-    ]
+    ],
+    "fokus": [
+      0.5,
+      0.2
+    ],
+    "zoom": 0.42
   },
   "konfuzius": {
     "kandidaten": [
       "File:Confucius Tang Dynasty.jpg",
       "File:Konfuzius-1770.jpg"
-    ]
+    ],
+    "fokus": [
+      0.5,
+      0.27
+    ],
+    "zoom": 0.6
   },
   "laotse": {
     "kandidaten": [
       "File:Zhang Lu-Laozi Riding an Ox (cropped).jpg",
       "File:Zhang Lu-Laozi Riding an Ox.jpg"
-    ]
+    ],
+    "fokus": [
+      0.45,
+      0.3
+    ],
+    "zoom": 0.55
   },
   "platon": {
     "kandidaten": [
@@ -49,6 +68,11 @@
     "kandidaten": [
       "File:Jean-Léon Gérôme - Diogenes - Walters 37131.jpg",
       "File:Waterhouse-Diogenes.jpg"
-    ]
+    ],
+    "fokus": [
+      0.47,
+      0.55
+    ],
+    "zoom": 0.55
   }
 }
