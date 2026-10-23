@@ -1,0 +1,22 @@
+{
+  "id": "w01-7-meta-ruhm",
+  "variante": "meta",
+  "titel": "Wer wird berühmt?",
+  "kurz": "★",
+  "bereich": "meta",
+  "quelle": { "buch": "Kapitel 1 (Was verhilft zu historischem Ruhm?)" },
+  "hook": "Jeder kennt die Cheops-Pyramide. Aber was weißt du über Cheops?",
+  "karten": [
+    { "typ": "hook", "text": "Jeder kennt die Cheops-Pyramide. Aber was weißt du über Cheops? Eben. Heute geht es um eine Frage hinter allen anderen: Warum erinnern wir uns an manche Menschen – und an andere nicht?" },
+    { "typ": "text", "titel": "Bauwerk schlägt Mensch", "text": "Selbst Fachleute wissen über Pharao Cheops kaum mehr als seine Namen und seine Verwandten. Die Pyramide ist weltberühmt, ihr Bauherr nicht. Die alten Griechen hielten ihn deshalb einfach für einen größenwahnsinnigen Tyrannen – Beweise dafür gibt es keine." },
+    { "typ": "text", "titel": "Gute PR", "text": "Richard Löwenherz war als König eher mittelmäßig. Aber an seinem Hof sangen Troubadoure, die ihn als perfekten Ritter feierten. Das wirkt bis heute, etwa in Robin-Hood-Filmen. Ruhm hängt also auch davon ab, wer über dich erzählt." },
+    { "typ": "text", "titel": "Eine gute Geschichte", "text": "Von Diogenes ist kein einziges Werk erhalten. Trotzdem kennt man ihn – wegen einer Anekdote: Er soll in einer Tonne gelebt und Alexander dem Großen gesagt haben: „Geh mir aus der Sonne!“ Gute Geschichten überleben." },
+    { "typ": "text", "titel": "Der westliche Blick", "text": "Den griechischen Arzt Hippokrates kennen viele. Die indischen Ärzte Sushruta und Charaka kaum jemand – obwohl ihre Medizin im frühen Mittelalter sensationell gut war. Ihre Schriften kamen nur nie rechtzeitig nach Europa." },
+    { "typ": "text", "titel": "Und diese Woche?", "text": "Imhotep: berühmt durch ein Bauwerk. Konfuzius: durch seine Schüler. Laotse: Vielleicht hat es ihn nie gegeben – berühmt ist er trotzdem. Wenn du von „großen“ Personen hörst, frag ruhig mal: Warum gerade die?" }
+  ],
+  "quiz": [
+    { "frage": "Warum kennen so viele Richard Löwenherz, obwohl er kein bedeutender König war?", "optionen": ["Er gewann alle seine Kriege", "Troubadoure an seinem Hof machten ihn zum Ritter-Idol", "Er war der erste König Englands", "Er erfand das Wappen"], "richtig": 1, "erklaerung": "Gute PR: Seine Hofsänger feierten ihn als Idealbild des Ritters – das wirkt bis heute." },
+    { "frage": "Was hat Diogenes berühmt gemacht?", "optionen": ["Eine Anekdote mit Alexander dem Großen", "Seine vielen Bücher", "Eine Erfindung", "Sein großer Reichtum"], "richtig": 0, "erklaerung": "Kein Werk von ihm ist erhalten – aber der Spruch „Geh mir aus der Sonne!“ hat überlebt." }
+  ],
+  "teaser": "Nächste Woche geht es weiter mit dem antiken Griechenland: Dramen, Medizin und ein Eroberer, der bis nach Indien kam."
+}

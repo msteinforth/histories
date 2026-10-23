@@ -1,0 +1,39 @@
+{
+  "id": "w01-3-siddhartha",
+  "variante": "person",
+  "person": {
+    "id": "siddhartha",
+    "name": "Siddhartha Gautama",
+    "kurz": "Si",
+    "lebensdaten": "um 563–493 v. Chr.",
+    "jahr": -530,
+    "rolle": "Stifter des Buddhismus",
+    "bereich": "geist",
+    "epoche": "Antike",
+    "region": "Indien / Nepal",
+    "geschlecht": "m"
+  },
+  "quelle": { "buch": "Kapitel 9 (Religionsgründer), Kapitel 10 (Heilige)" },
+  "bild": null,
+  "hook": "Er hatte Palast, Familie und Reichtum. Dann sah er zum ersten Mal einen Toten – und warf alles hin.",
+  "karten": [
+    { "typ": "hook", "text": "Er hatte alles: einen Palast, eine Familie, Reichtum. Dann verließ er mit 29 zum ersten Mal sein goldenes Gefängnis, sah einen Toten – und warf sein ganzes Leben hin." },
+    { "typ": "steckbrief", "fakten": [
+      ["Lebte", "um 563–493 v. Chr. (vielleicht auch später)"],
+      ["Herkunft", "Prinz aus Lumbini, heute Nepal"],
+      ["Bekannt als", "Buddha, „der Erwachte“"],
+      ["Gründete", "den Buddhismus"]
+    ] },
+    { "typ": "passiert", "text": "Kurz nach der Geburt seines Sohnes sah der Prinz draußen Alte, Kranke, Verkrüppelte und Tote. Er gab alles auf und lebte sechs Jahre als Asket: Meditation, Yoga, Verzicht. Schließlich soll er nachts unter einem Feigenbaum die Erleuchtung erlebt haben." },
+    { "typ": "wichtig", "text": "Seine Botschaft war radikal: Jeder Mensch kann sich vom Leiden befreien – ohne Priester, ohne Opfer, ohne Götter. Man muss nur lernen, seine Begierden loszulassen. Daraus wurde eine Weltreligion, der heute Hunderte Millionen Menschen folgen." },
+    { "typ": "anekdote", "text": "Siddhartha war nicht der einzige Aussteiger. Damals zogen viele Wandermönche durch Indien, die einen Weg zur Erlösung suchten – an den mächtigen Priestern, den Brahmanen, vorbei. Eine ähnliche, aber strengere Religion aus dieser Zeit gibt es heute noch: den Jainismus." },
+    { "typ": "mythos", "mythos": "Wir wissen ziemlich genau, wann und wie Buddha gelebt hat.", "wahrheit": "Leider nein. In Indien gab es damals keine Schrift. Sein Leben wurde jahrhundertelang nur weitererzählt, die erste echte Biografie entstand erst im 2. Jahrhundert n. Chr. Manche Forscher datieren ihn sogar auf etwa 480–400 v. Chr." },
+    { "typ": "heute", "text": "Achtsamkeit ist ein Riesentrend – mit Meditations-Apps und Yoga-Kursen. „Rechte Achtsamkeit“ ist einer der acht Schritte, die Buddha lehrte. Und Hermann Hesses Roman „Siddhartha“ ist bis heute beliebte Schullektüre." }
+  ],
+  "quiz": [
+    { "frage": "Was sah Siddhartha, als er mit 29 den Palast verließ?", "optionen": ["Eine feindliche Armee", "Alte, Kranke und Tote", "Einen Tempel aus Gold", "Seinen späteren Lehrer"], "richtig": 1, "erklaerung": "Die Begegnung mit Alter, Krankheit und Tod stürzte den Prinzen in eine Sinnkrise – er wurde Asket." },
+    { "frage": "Was war neu an Buddhas Lehre?", "optionen": ["Nur Priester können Erlösung finden", "Erlösung braucht teure Opfer", "Jeder kann sich ohne Priester, Opfer oder Götter vom Leid befreien", "Man muss einen König verehren"], "richtig": 2, "erklaerung": "Buddha lehrte, dass jeder Mensch selbst seine Begierden loslassen und so vom Leiden frei werden kann." },
+    { "frage": "Warum sind Buddhas Lebensdaten so unsicher?", "optionen": ["In Indien gab es damals keine Schrift", "Seine Schüler verbrannten alle Texte", "Er lebte im Verborgenen", "Er hielt sein Alter geheim"], "richtig": 0, "erklaerung": "Sein Leben wurde jahrhundertelang nur mündlich weitergegeben." }
+  ],
+  "teaser": "Morgen: ein erfolgloser Beamter aus China, dessen Ideen ein Riesenreich 2000 Jahre lang prägten."
+}

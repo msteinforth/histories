@@ -1,0 +1,14 @@
+{
+  "id": "w01-6-wochenquiz",
+  "variante": "wiederholung",
+  "titel": "Wochen-Quiz",
+  "kurz": "?",
+  "bereich": "quiz",
+  "hook": "Fünf Menschen, 2500 Jahre, zehn Fragen. Wie viel ist hängen geblieben?",
+  "karten": [
+    { "typ": "hook", "text": "Imhotep, Nebukadnezar, Buddha, Konfuzius, Platon: Diese Woche bist du durch 2500 Jahre Geschichte gereist. Jetzt kommen zehn Fragen – keine Noten, kein Druck. Was du falsch hast, taucht einfach später wieder auf." }
+  ],
+  "einheiten": ["w01-1-imhotep", "w01-2-nebukadnezar", "w01-3-siddhartha", "w01-4-konfuzius", "w01-5-platon"],
+  "anzahl": 10,
+  "teaser": "Morgen: Warum kennt jeder die Cheops-Pyramide – aber kaum jemand Cheops?"
+}

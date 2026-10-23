@@ -1,0 +1,39 @@
+{
+  "id": "w01-1-imhotep",
+  "variante": "person",
+  "person": {
+    "id": "imhotep",
+    "name": "Imhotep",
+    "kurz": "Im",
+    "lebensdaten": "26. Jh. v. Chr.",
+    "jahr": -2650,
+    "rolle": "ägyptischer Baumeister",
+    "bereich": "kunst",
+    "epoche": "Antike",
+    "region": "Ägypten",
+    "geschlecht": "m"
+  },
+  "quelle": { "buch": "Kapitel 16 (Architekten), Kapitel 15 (Ärzte der Antike)" },
+  "bild": null,
+  "hook": "Er trägt den ältesten Künstlernamen der Welt – und Hollywood hat ihn zur Horror-Mumie gemacht.",
+  "karten": [
+    { "typ": "hook", "text": "Sein Name ist der älteste Künstlername, den die Menschheit kennt. Er hat etwas gebaut, das nach 4600 Jahren noch steht. Und trotzdem kennen ihn die meisten nur als Horror-Mumie aus dem Kino. Wer ist das?" },
+    { "typ": "steckbrief", "fakten": [
+      ["Lebte", "26. Jahrhundert v. Chr."],
+      ["Land", "Altes Ägypten"],
+      ["Job", "Spitzenbeamter von König Djoser – vielleicht sogar verwandt"],
+      ["Bekannt für", "die erste Pyramide der Welt"]
+    ] },
+    { "typ": "passiert", "text": "Für König Djoser ließ Imhotep die allererste Pyramide bauen: einen über 60 Meter hohen Stufenbau in Sakkara. Innen ein Labyrinth aus Gängen, außen ein riesiger Tempelbezirk. Ob er selbst geplant oder „nur“ die Bauleitung hatte, weiß niemand genau." },
+    { "typ": "wichtig", "text": "Vor Imhotep gab es keine Pyramiden – danach wurden sie zum Markenzeichen Ägyptens. Und normalerweise blieben von solchen Bauten nur die Namen der Könige übrig, nie die der Baumeister. Dass wir seinen Namen kennen, ist eine echte Ausnahme." },
+    { "typ": "anekdote", "text": "Später machten die Ägypter Imhotep zum Superhelden: Er soll die Baukunst, die Medizin und die Hieroglyphen erfunden haben. Am Ende verehrten sie ihn als Gott. So wurde aus einem Beamten ein „Kulturheld“ – wie Prometheus bei den Griechen, der den Menschen das Feuer brachte." },
+    { "typ": "mythos", "mythos": "Imhotep hat die Hieroglyphen erfunden.", "wahrheit": "Falsch. Die Schrift ist deutlich älter als er. Auch dass er die Medizin erfunden hat, ist unwahrscheinlich. Lange galt er sogar als reine Sagengestalt – bis Inschriften mit seinen Titeln auftauchten. An Plätzen, die sonst nur Königen gehörten." },
+    { "typ": "heute", "text": "Im Film „Die Mumie“ (1999) heißt der untote Bösewicht Imhotep – mit dem echten Baumeister hat er wenig zu tun. Seine Stufenpyramide in Sakkara kannst du dagegen immer noch besuchen." }
+  ],
+  "quiz": [
+    { "frage": "Was hat Imhotep für König Djoser gebaut?", "optionen": ["Die Cheops-Pyramide", "Die erste Pyramide überhaupt", "Die Sphinx von Gizeh", "Einen Leuchtturm"], "richtig": 1, "erklaerung": "Djosers Stufenpyramide in Sakkara gilt als erste Pyramide – über 60 Meter hoch." },
+    { "frage": "Warum ist es so besonders, dass wir Imhoteps Namen kennen?", "optionen": ["Er war selbst Pharao", "Er schrieb eine Autobiografie", "Von Baumeistern blieben meist keine Namen übrig – nur die der Herrscher", "Er wurde über 100 Jahre alt"], "richtig": 2, "erklaerung": "Meist kennt man nur den Auftraggeber eines Bauwerks – Imhotep ist der älteste namentlich bekannte Künstler." },
+    { "frage": "Was stimmt NICHT über Imhotep?", "optionen": ["Er hat die Hieroglyphen erfunden", "Er wurde später als Gott verehrt", "Er war ein hoher Beamter", "Inschriften nennen seine Titel"], "richtig": 0, "erklaerung": "Die Hieroglyphen sind älter als Imhotep – die Erfindung wurde ihm erst später zugeschrieben." }
+  ],
+  "teaser": "Morgen: ein König, nach dem in „Matrix“ ein Schiff benannt ist – und dessen Stadt bis heute für Chaos steht."
+}

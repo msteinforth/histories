@@ -1,0 +1,13 @@
+{
+  "titel": "Histories – Redaktionsplan",
+  "hinweis": "Einzige Steuerungsdatei: Eine Zeile pro Tag. 'einheit' verweist auf content/einheiten/<einheit>.json. Nur Einheiten mit Status 'freigegeben' erscheinen in der App.",
+  "tage": [
+    { "datum": "2026-10-26", "woche": 1, "staffel": 1, "einheit": "w01-1-imhotep",      "buchseite": "Kap. 16, Architekten; Kap. 15, Ärzte",      "bildquelle": null, "status": "freigegeben" },
+    { "datum": "2026-10-27", "woche": 1, "staffel": 1, "einheit": "w01-2-nebukadnezar", "buchseite": "Kap. 4, Giganten der Geschichte",           "bildquelle": null, "status": "freigegeben" },
+    { "datum": "2026-10-28", "woche": 1, "staffel": 1, "einheit": "w01-3-siddhartha",   "buchseite": "Kap. 9, Religionsgründer; Kap. 10, Heilige", "bildquelle": null, "status": "freigegeben" },
+    { "datum": "2026-10-29", "woche": 1, "staffel": 1, "einheit": "w01-4-konfuzius",    "buchseite": "Kap. 11, Philosophen",                       "bildquelle": null, "status": "freigegeben" },
+    { "datum": "2026-10-30", "woche": 1, "staffel": 1, "einheit": "w01-5-platon",       "buchseite": "Kap. 11, Philosophen",                       "bildquelle": null, "status": "freigegeben" },
+    { "datum": "2026-10-31", "woche": 1, "staffel": 1, "einheit": "w01-6-wochenquiz",   "buchseite": "–",                                          "bildquelle": null, "status": "freigegeben" },
+    { "datum": "2026-11-01", "woche": 1, "staffel": 1, "einheit": "w01-7-meta-ruhm",    "buchseite": "Kap. 1, Was verhilft zu historischem Ruhm?", "bildquelle": null, "status": "freigegeben" }
+  ]
+}

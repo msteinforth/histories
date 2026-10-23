@@ -1,0 +1,40 @@
+{
+  "id": "w01-5-platon",
+  "variante": "person",
+  "person": {
+    "id": "platon",
+    "name": "Platon",
+    "kurz": "Pl",
+    "lebensdaten": "427–347 v. Chr.",
+    "jahr": -387,
+    "rolle": "griechischer Philosoph",
+    "bereich": "geist",
+    "epoche": "Antike",
+    "region": "Griechenland",
+    "geschlecht": "m"
+  },
+  "quelle": { "buch": "Kapitel 11 (Philosophen: Die Weisheiten der großen Drei)" },
+  "bild": null,
+  "hook": "Wir benutzen seine Wörter jeden Tag. Dabei wäre er auf einer Reise fast als Sklave geendet.",
+  "karten": [
+    { "typ": "hook", "text": "Du benutzt seine Wörter, ohne es zu merken: „Akademie“, „platonische Liebe“. Er hat das Denken des Westens geprägt wie kaum jemand. Dabei wäre er auf einer Reise beinahe als Sklave geendet." },
+    { "typ": "steckbrief", "fakten": [
+      ["Lebte", "427–347 v. Chr."],
+      ["Stadt", "Athen"],
+      ["Lehrer", "Sokrates"],
+      ["Schüler", "Aristoteles"],
+      ["Bekannt für", "Höhlengleichnis, Ideenlehre, die erste Akademie"]
+    ] },
+    { "typ": "passiert", "text": "Platon kam aus reichem Haus und sollte Politiker werden. Doch als Athen seinen Lehrer Sokrates zum Tode verurteilte, kehrte er der Politik den Rücken. Er reiste umher, wäre auf Sizilien fast versklavt worden und kam 387 v. Chr. zurück – um eine Schule zu gründen." },
+    { "typ": "wichtig", "text": "Platon fragte: Wie erkennt man das wahre Wesen der Dinge – die „Idee“ dahinter? Er schrieb mit der „Politeia“ die erste Utopie eines idealen Staates. Fast alle seine Werke sind erhalten, und kein Philosoph vor ihm hat die Nachwelt so stark geprägt." },
+    { "typ": "anekdote", "text": "Sein berühmtestes Bild: Menschen sitzen gefesselt in einer Höhle und halten Schatten an der Wand für die echte Welt. Wer sich befreit und hinaus in die Sonne geht, ist erst geblendet – und erkennt dann die Wirklichkeit. Das ist das Höhlengleichnis." },
+    { "typ": "mythos", "mythos": "Platonische Liebe heißt: Freundschaft ohne Gefühle.", "wahrheit": "Nicht ganz. In Platons „Gastmahl“ geht es um leidenschaftliches Begehren – nur eben auf geistiger Ebene. Auch die Liebe zu Gedanken und Ideen konnte für ihn etwas Erotisches und Schöpferisches haben." },
+    { "typ": "heute", "text": "Jede „Akademie“ trägt Platons Schule im Namen: Er gründete sie im Hain eines Helden namens Akademos. Und falls du „Matrix“ kennst: Die Frage, ob unsere Welt nur Schein ist, stellte Platon schon mit seiner Höhle." }
+  ],
+  "quiz": [
+    { "frage": "Wer war Platons Lehrer?", "optionen": ["Aristoteles", "Sokrates", "Konfuzius", "Diogenes"], "richtig": 1, "erklaerung": "Sokrates – nach dessen Todesurteil wandte sich Platon von der Politik ab." },
+    { "frage": "Was will das Höhlengleichnis zeigen?", "optionen": ["Dass Höhlen die ersten Schulen waren", "Dass grelles Licht den Augen schadet", "Dass wir oft Schatten für die Wirklichkeit halten"], "richtig": 2, "erklaerung": "Erkenntnis ist für Platon wie der Weg aus der dunklen Höhle hinaus ins Sonnenlicht." },
+    { "frage": "Woher hat die „Akademie“ ihren Namen?", "optionen": ["Vom Hain des Helden Akademos, wo Platons Schule lag", "Von einem griechischen Wort für Prüfung", "Von Aristoteles’ Lieblingsschüler", "Von einer Göttin der Weisheit"], "richtig": 0, "erklaerung": "Platon gründete seine Philosophenschule im Hain des Akademos – die erste Akademie." }
+  ],
+  "teaser": "Morgen ist Samstag: zehn Fragen zu deiner Woche. Schaffst du alle?"
+}

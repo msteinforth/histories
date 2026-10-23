@@ -1,0 +1,39 @@
+{
+  "id": "w01-2-nebukadnezar",
+  "variante": "person",
+  "person": {
+    "id": "nebukadnezar",
+    "name": "Nebukadnezar II.",
+    "kurz": "Ne",
+    "lebensdaten": "reg. um 605–562 v. Chr.",
+    "jahr": -600,
+    "rolle": "König von Babylon",
+    "bereich": "macht",
+    "epoche": "Antike",
+    "region": "Babylon (heute Irak)",
+    "geschlecht": "m"
+  },
+  "quelle": { "buch": "Kapitel 4 (Giganten der Geschichte und ihre Reiche)" },
+  "bild": null,
+  "hook": "Er ließ ein Weltwunder bauen, von dem niemand weiß, wie es aussah – und wurde für ein ganzes Volk zum Albtraum.",
+  "karten": [
+    { "typ": "hook", "text": "Er ließ eines der sieben Weltwunder bauen – aber niemand weiß, wie es aussah. Seine Hauptstadt ist bis heute ein Wort für Chaos. Und für ein ganzes Volk wurde er zum Albtraum." },
+    { "typ": "steckbrief", "fakten": [
+      ["Regierte", "um 605–562 v. Chr."],
+      ["Reich", "Babylon, im heutigen Irak"],
+      ["Job", "König"],
+      ["Bekannt für", "Prachtbauten und das „Babylonische Exil“"]
+    ] },
+    { "typ": "passiert", "text": "Sein Vater hatte mit Persern und Medern die Großmacht Assyrien gestürzt. Nebukadnezar führte Feldzug um Feldzug, bis ihm alles vom Mittelmeer bis Mesopotamien gehörte. 597 v. Chr. eroberte er Jerusalem und verschleppte die Bewohner nach Babylon." },
+    { "typ": "wichtig", "text": "Nach den Kriegen ordnete er sein Reich, und Babylon blühte auf: gewaltige Stadtmauern, ein über 90 Meter hoher Tempelturm. Sein Trick: Er zerstörte die Kultur der Eroberten nicht, sondern übernahm sie. Genau so machten es später viele Großreiche." },
+    { "typ": "anekdote", "text": "Für die Juden war das Exil ein Trauma, das in der Bibel nachhallt. Für Nebukadnezar war es eher eine Randnotiz. Übrigens hieß er eigentlich Nabû-kudurrī-uṣur. „Nebukadnezar“ ist nur die Version, die sich bei uns eingebürgert hat." },
+    { "typ": "mythos", "mythos": "Die Hängenden Gärten von Babylon sind gut erforscht.", "wahrheit": "Leider nein. Sie zählen zu den sieben Weltwundern, aber Genaueres weiß man nicht – weder, wie sie aussahen, noch, ob sie wirklich „hingen“. Gut belegt ist dagegen der Turm von Babel: ein echter Stufenturm mit Tempel obendrauf." },
+    { "typ": "heute", "text": "Ein Teil seines blauen Ischtar-Tors steht im Pergamonmuseum in Berlin (wird gerade saniert). In „Matrix“ heißt Morpheus’ Schiff „Nebuchadnezzar“. Und der Song „Rivers of Babylon“ besingt die Verschleppten, die an Babylons Flüssen um ihre Heimat weinen." }
+  ],
+  "quiz": [
+    { "frage": "Welche Stadt eroberte Nebukadnezar 597 v. Chr.?", "optionen": ["Athen", "Jerusalem", "Rom", "Memphis"], "richtig": 1, "erklaerung": "Er eroberte Jerusalem und zwang die Bewohner ins „Babylonische Exil“." },
+    { "frage": "Was war sein Erfolgsrezept bei Eroberungen?", "optionen": ["Er übernahm die Kultur der Eroberten, statt sie zu zerstören", "Er verzichtete auf eine Armee", "Er heiratete in jedes Königshaus ein", "Er ließ alle Städte neu bauen"], "richtig": 0, "erklaerung": "Wie andere große Herrscher der Region übernahm er die Kultur der unterworfenen Reiche." },
+    { "frage": "Was war der „Turm von Babel“ wirklich?", "optionen": ["Ein Leuchtturm am Euphrat", "Ein Gefängnis", "Ein über 90 Meter hoher Stufenturm mit Tempel", "Eine Sternwarte"], "richtig": 2, "erklaerung": "Die Zikkurat Etemenanki trug ganz oben einen Tempel für den Stadtgott Marduk." }
+  ],
+  "teaser": "Morgen: ein Prinz, der seinen Palast verließ – und eine Weltreligion ins Rollen brachte."
+}
