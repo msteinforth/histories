@@ -143,7 +143,13 @@ function reviewQuestions(day) {
     .filter((q) => answers[q.id]?.right === false);
   const wrong = [...pool.filter((q) => answers[q.id]?.right === false), ...earlierWrong];
   const rest = shuffle(pool.filter((q) => !wrong.includes(q)), rand);
-  const picked = [...wrong, ...rest].slice(0, unit.anzahl || 10);
+  // Reicht das nicht für ein volles Quiz, wird mit anderen schon erledigten Tagen aufgefüllt.
+  const done = store.get().done;
+  const extra = shuffle(content.days
+    .filter((d) => d.unit.variante === 'person' && done[d.unit.id] && !ids.includes(d.unit.id))
+    .flatMap((d) => questionsOf(d.unit))
+    .filter((q) => !wrong.some((w) => w.id === q.id)), rand);
+  const picked = [...wrong, ...rest, ...extra].slice(0, unit.anzahl || 10);
   return shuffle(picked, rand).map((q) => ({ ...q, wiederholung: true }));
 }
 
