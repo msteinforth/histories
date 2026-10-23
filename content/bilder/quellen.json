@@ -93,7 +93,7 @@
   },
   "alexander": {
     "kandidaten": [
-      "File:Alexander1256.jpg",
+      "File:Alejandro Magno, Alexander The Great Bust Alexander BM 1857 (cropped).jpg",
       "File:Alexander The Great Bust (2).jpg"
     ]
   },
@@ -113,9 +113,9 @@
     ],
     "fokus": [
       0.5,
-      0.3
+      0.17
     ],
-    "zoom": 0.7
+    "zoom": 0.45
   },
   "caesar": {
     "kandidaten": [
@@ -128,10 +128,10 @@
       "File:Statue-Augustus.jpg"
     ],
     "fokus": [
-      0.5,
-      0.12
+      0.6,
+      0.1
     ],
-    "zoom": 0.45
+    "zoom": 0.32
   },
   "jesus": {
     "kandidaten": [
@@ -220,10 +220,10 @@
       "File:Euclid by Andre Thevet 1584.webp"
     ],
     "fokus": [
-      0.5,
-      0.3
+      0.47,
+      0.24
     ],
-    "zoom": 0.7
+    "zoom": 0.45
   },
   "hannibal": {
     "kandidaten": [
@@ -279,20 +279,20 @@
       "File:Meister von San Vitale in Ravenna 003.jpg"
     ],
     "fokus": [
-      0.5,
-      0.3
+      0.485,
+      0.22
     ],
-    "zoom": 0.7
+    "zoom": 0.22
   },
   "einhard": {
     "kandidaten": [
       "File:Einhard.jpg"
     ],
     "fokus": [
-      0.5,
-      0.35
+      0.48,
+      0.55
     ],
-    "zoom": 0.8
+    "zoom": 0.5
   },
   "heinrichiv": {
     "kandidaten": [
