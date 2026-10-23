@@ -1,0 +1,104 @@
+{
+  "id": "w02-4-alexander",
+  "variante": "person",
+  "person": {
+    "id": "alexander",
+    "name": "Alexander der Große",
+    "kurz": "Al",
+    "lebensdaten": "356–323 v. Chr.",
+    "jahr": -334,
+    "rolle": "makedonischer König",
+    "bereich": "macht",
+    "epoche": "Antike",
+    "region": "Makedonien",
+    "geschlecht": "m"
+  },
+  "quelle": {
+    "buch": "Kapitel 4 (Kyros, Alexander und das Perserreich), Kapitel 3 (Heroen und ihre Biografen), Kapitel 16 (Die verschollenen Maler)"
+  },
+  "bild": null,
+  "hook": "In sieben Jahren eroberte er ein Weltreich. Aber wie viel von seiner Legende stimmt?",
+  "karten": [
+    {
+      "typ": "hook",
+      "text": "In nur sieben Jahren eroberte er das mächtigste Reich seiner Zeit. Seinen Beinamen kennt fast jeder. Doch um sein Leben ranken sich so viele Legenden, dass selbst Fachleute vieles nicht sicher sagen können. Was weiß man wirklich?"
+    },
+    {
+      "typ": "steckbrief",
+      "fakten": [
+        [
+          "Lebte",
+          "356–323 v. Chr."
+        ],
+        [
+          "Herkunft",
+          "Makedonien, dort König als Alexander III."
+        ],
+        [
+          "Eroberte",
+          "das Perserreich"
+        ],
+        [
+          "Starb",
+          "in Babylon"
+        ]
+      ]
+    },
+    {
+      "typ": "passiert",
+      "text": "Ab 334 v. Chr. besiegte Alexander die Perser am Granikos, bei Issos und bei Gaugamela. Er nahm Ägypten ein und jagte König Dareios III. bis nach Zentralasien. 326 v. Chr. scheiterte sein Feldzug nach Indien mit hohen Verlusten. 323 v. Chr. starb er in Babylon."
+    },
+    {
+      "typ": "wichtig",
+      "text": "Alexander war ohne Frage ein militärisches Genie. Doch er profitierte auch davon, dass die Perserkönige ihre Statthalter durch Misswirtschaft verprellt hatten – viele liefen zu ihm über. Seine Feldzüge kosteten unzählige Menschen das Leben. Und seine Generäle verärgerte er, weil er immer mehr persische Sitten übernahm."
+    },
+    {
+      "typ": "anekdote",
+      "text": "Ein Orakel soll prophezeit haben: Wer den Gordischen Knoten löst, herrscht über Asien. Alexander soll ihn einfach durchgehauen haben. Ob das passiert ist? Unklar. Genauso wie die Geschichte vom Pferd Bukephalos, das außer ihm niemand reiten konnte. Sein Tod dagegen war wohl unspektakulär: giftige Arznei nach einem Trinkgelage."
+    },
+    {
+      "typ": "mythos",
+      "mythos": "Alexander brachte den Völkern Asiens die Zivilisation.",
+      "wahrheit": "Das ist ein westlicher Blick. Das Perserreich war kulturell und wirtschaftlich hoch entwickelt. Beide Seiten lernten voneinander: Auch die griechische Kultur veränderte sich durch Einflüsse aus dem Orient. Diese neue Mischkultur nennt man Hellenismus."
+    },
+    {
+      "typ": "heute",
+      "text": "Wenn jemand ein verzwicktes Problem mit einem kühnen Schritt löst, sagt man: Er hat den gordischen Knoten durchschlagen. Und vielleicht kennst du das Mosaik der Alexanderschlacht aus Pompeji – es ist in vielen Geschichtsbüchern abgebildet."
+    }
+  ],
+  "quiz": [
+    {
+      "frage": "Wie lange brauchte Alexander, um das Perserreich zu erobern?",
+      "optionen": [
+        "Drei Monate",
+        "30 Jahre",
+        "Sieben Jahre",
+        "Ein ganzes Jahrhundert"
+      ],
+      "richtig": 2,
+      "erklaerung": "In nur sieben Jahren eroberte er das Perserreich – deshalb nennt man ihn „den Großen“."
+    },
+    {
+      "frage": "Was half Alexander gegen die Perser – außer seinem Talent?",
+      "optionen": [
+        "Die Perser hatten keine Armee",
+        "Viele persische Statthalter waren unzufrieden und liefen zu ihm über",
+        "Ein Erdbeben hatte Persien verwüstet"
+      ],
+      "richtig": 1,
+      "erklaerung": "Durch Misswirtschaft hatten die Perserkönige die Treue ihrer Statthalter verspielt."
+    },
+    {
+      "frage": "Was bedeutet „den gordischen Knoten durchschlagen“?",
+      "optionen": [
+        "Einen Streit anfangen",
+        "Etwas Wertvolles verlieren",
+        "Sich hoffnungslos verirren",
+        "Ein schwieriges Problem mit einem kühnen Schritt lösen"
+      ],
+      "richtig": 3,
+      "erklaerung": "Die Redewendung geht auf die Legende zurück, nach der Alexander den Knoten einfach durchhieb."
+    }
+  ],
+  "teaser": "Morgen: ein Tüftler, der angeblich ein beladenes Kriegsschiff anheben ließ – von einem einzigen Menschen."
+}

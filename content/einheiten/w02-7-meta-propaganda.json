@@ -1,0 +1,66 @@
+{
+  "id": "w02-7-meta-propaganda",
+  "variante": "meta",
+  "titel": "Wer schreibt das – und warum?",
+  "kurz": "✎",
+  "bereich": "meta",
+  "quelle": {
+    "buch": "Kapitel 2 (Wahrheit und Verklärung: Im Dienst der Sache), Kapitel 3 (Heroen und ihre Biografen)"
+  },
+  "hook": "Alexander der Große hatte einen eigenen Geschichtsschreiber. Würdest du dem alles glauben?",
+  "karten": [
+    {
+      "typ": "hook",
+      "text": "Alexander der Große hatte einen eigenen Hofhistoriker. In dessen Berichten wurde er zum Halbgott. Überrascht? Heute geht es um eine Grundregel im Umgang mit Geschichte: Wer über einen Menschen schreibt, hat fast immer einen Grund dafür."
+    },
+    {
+      "typ": "text",
+      "titel": "Warum wurde das aufgeschrieben?",
+      "text": "Früher war Schreibmaterial teuer, und nur wenige konnten überhaupt schreiben. Wer sich die Mühe machte, wollte meist etwas erreichen: einen Herrscher feiern oder einen Gegner schlechtmachen. Kennst du den Grund, kannst du viel besser einschätzen, wie glaubwürdig ein Bericht ist."
+    },
+    {
+      "typ": "text",
+      "titel": "Der Drei-Fragen-Check",
+      "text": "Erstens: Ist das plausibel – und konnte der Autor das überhaupt wissen? Zweitens: Ist es ausgewogen? Kein Mensch ist nur gut, kein Gegner nur böse. Drittens: Was sagt die Gegenseite? Wer mehrere Berichte vergleicht, kommt der Wahrheit oft deutlich näher."
+    },
+    {
+      "typ": "text",
+      "titel": "Der Sieg, der keiner war",
+      "text": "Dreizehn ägyptische Quellen feiern Ramses II.: 1274 v. Chr. habe er bei Kadesch die Hethiter besiegt. Dann entzifferte man Keilschrifttafeln der Hethiter. Danach wehrten sie den Angriff ab und boten Frieden an. Glaubwürdiger sind die Hethiter – ihr Text war ein vertraulicher Bericht an die Götter."
+    },
+    {
+      "typ": "text",
+      "titel": "So erkennst du Schurken-Geschichten",
+      "text": "Kein gutes Haar am Gegner, immer dieselben Tyrannen-Klischees, angebliche Insider-Details, die der Autor gar nicht kennen konnte. Und Wanderlegenden: Ein Mönch erzählte über König Heinrich IV. eine Geschichte, die auch im Märchen „Der Teufel mit den drei goldenen Haaren“ vorkommt."
+    },
+    {
+      "typ": "text",
+      "titel": "Und diese Woche?",
+      "text": "Nach Alexanders Hofhistoriker machten spätere Autoren ihn mal zum Helden, mal zum Bösewicht – je nachdem, was die bessere Story war. Plutarch stellte ihn neben Caesar, als Lehrstück über Charakter. Wenn du eine Heldengeschichte hörst, frag ruhig: Wer erzählt das – und warum?"
+    }
+  ],
+  "quiz": [
+    {
+      "frage": "Warum gilt der hethitische Bericht über die Schlacht bei Kadesch als glaubwürdiger als die ägyptischen?",
+      "optionen": [
+        "Er ist älter",
+        "Er war ein vertraulicher Bericht an die Götter, keine Propaganda",
+        "Ein neutrales Land hat ihn geschrieben",
+        "Es gibt mehr Kopien davon"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die ägyptischen Texte sollten Ramses öffentlich feiern – der hethitische Bericht musste niemanden beeindrucken."
+    },
+    {
+      "frage": "Woran erkennst du eine typische Schurken-Erzählung?",
+      "optionen": [
+        "Sie nennt auch Stärken des Gegners",
+        "Sie vergleicht viele Quellen",
+        "Sie lässt kein gutes Haar am Gegner"
+      ],
+      "richtig": 2,
+      "erklaerung": "Einseitigkeit ist das erste Warnzeichen – kein Mensch ist nur böse."
+    }
+  ],
+  "teaser": "Nächste Woche geht es nach China und Rom: ein Kaiser mit einer Armee aus Ton, ein Feldherr mit einem berühmten letzten Satz, den er wohl nie gesagt hat – und ein Mann, nach dem wir bis heute die Jahre zählen."
+}

@@ -1,0 +1,104 @@
+{
+  "id": "w02-1-aischylos",
+  "variante": "person",
+  "person": {
+    "id": "aischylos",
+    "name": "Aischylos",
+    "kurz": "Ai",
+    "lebensdaten": "525–456 v. Chr.",
+    "jahr": -472,
+    "rolle": "griechischer Dramatiker",
+    "bereich": "kunst",
+    "epoche": "Antike",
+    "region": "Griechenland",
+    "geschlecht": "m"
+  },
+  "quelle": {
+    "buch": "Kapitel 17 (Bühnenwirksam: die Dramatiker), Kapitel 14 (Telekommunikation)"
+  },
+  "bild": null,
+  "hook": "Er kämpfte selbst in einer Seeschlacht – und schrieb danach ein Stück, in dem die Verlierer die Hauptrolle spielen.",
+  "karten": [
+    {
+      "typ": "hook",
+      "text": "Stell dir vor, du hast in einem Krieg gekämpft und gewonnen. Dann schreibst du ein Theaterstück darüber – aber nicht über die Sieger, sondern über das Leid der Verlierer. Genau das hat dieser Mann getan. Und damit einen großen Wettbewerb gewonnen."
+    },
+    {
+      "typ": "steckbrief",
+      "fakten": [
+        [
+          "Lebte",
+          "525–456 v. Chr."
+        ],
+        [
+          "Bühne",
+          "Dionysos-Festspiele in Athen"
+        ],
+        [
+          "Werk",
+          "angeblich 90 Stücke, 7 erhalten"
+        ],
+        [
+          "Bekannt für",
+          "„Die Perser“"
+        ]
+      ]
+    },
+    {
+      "typ": "passiert",
+      "text": "472 v. Chr. gewann Aischylos zum ersten Mal den Wettstreit der Tragödiendichter in Athen. Sein Stück „Die Perser“ handelt von der Seeschlacht bei Salamis acht Jahre zuvor, bei der er selbst mitgekämpft hatte. Im Mittelpunkt: Atossa, die Mutter des Perserkönigs Xerxes, und trauernde Witwen."
+    },
+    {
+      "typ": "wichtig",
+      "text": "Das Theater war damals noch jung: Anfangs sang vor allem ein Chor, dazu kam ein einzelner Darsteller. Bei Aischylos tritt der Chor zurück, zwei Schauspieler tragen die Handlung. So rückt das Geschehen zwischen Menschen nach vorn. Den Wettstreit gewann er danach noch oft."
+    },
+    {
+      "typ": "anekdote",
+      "text": "Jahrzehnte nach seinem Tod schickte der Komödiendichter Aristophanes in „Die Frösche“ den Gott Dionysos in die Unterwelt, um einen Dichter zurückzuholen. Dort streiten sich Aischylos und Euripides und machen sich gegenseitig über ihre Stücke lustig. Und wer gewinnt am Ende? Aischylos."
+    },
+    {
+      "typ": "mythos",
+      "mythos": "Theater wurde erfunden, um die Leute zu unterhalten.",
+      "wahrheit": "Ursprünglich nicht. Die ersten Stücke sollten die Götter rühmen – aufgeführt bei den Festspielen für Dionysos in Athen. Erst nach und nach rückten spannende Geschichten und menschliche Schicksale in den Mittelpunkt."
+    },
+    {
+      "typ": "heute",
+      "text": "„Mach doch kein Drama!“ – das Wort stammt aus dem Griechischen und heißt einfach „Handlung“. Auch „Tragödie“ und „Chor“ hast du von den Griechen. Und griechische Tragödien stehen bis heute auf den Spielplänen der Theater."
+    }
+  ],
+  "quiz": [
+    {
+      "frage": "Worum geht es in Aischylos’ Stück „Die Perser“?",
+      "optionen": [
+        "Um den Bau der Akropolis",
+        "Um die Seeschlacht bei Salamis – aus Sicht der Verlierer",
+        "Um den Trojanischen Krieg",
+        "Um das Leben des Gottes Dionysos"
+      ],
+      "richtig": 1,
+      "erklaerung": "Aischylos zeigte die Schlacht, in der er selbst gekämpft hatte, aus persischer Sicht – mit Xerxes’ Mutter Atossa im Mittelpunkt."
+    },
+    {
+      "frage": "Was war neu an Aischylos’ Theater?",
+      "optionen": [
+        "Er schaffte den Chor ganz ab",
+        "Er spielte alle Rollen selbst",
+        "Zwei Schauspieler trugen die Handlung, der Chor trat zurück"
+      ],
+      "richtig": 2,
+      "erklaerung": "Mit zwei Darstellern statt einem wurde das Geschehen auf der Bühne viel lebendiger."
+    },
+    {
+      "frage": "Wozu dienten die ersten Theaterstücke in Athen?",
+      "optionen": [
+        "Sie sollten die Götter rühmen",
+        "Sie sollten Geld für den Krieg einbringen",
+        "Sie waren Unterricht für Kinder",
+        "Sie sollten Könige verspotten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Theater entstand bei den Festspielen zu Ehren des Gottes Dionysos."
+    }
+  ],
+  "teaser": "Morgen: ein Arzt, nach dem ein berühmter Eid benannt ist – den in Deutschland aber kaum jemand schwört."
+}

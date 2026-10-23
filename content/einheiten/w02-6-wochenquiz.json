@@ -1,0 +1,23 @@
+{
+  "id": "w02-6-wochenquiz",
+  "variante": "wiederholung",
+  "titel": "Wochen-Quiz",
+  "kurz": "?",
+  "bereich": "quiz",
+  "hook": "Theater, Medizin, Philosophie, Feldzüge, Erfindungen – wie viel Griechenland ist hängen geblieben?",
+  "karten": [
+    {
+      "typ": "hook",
+      "text": "Aischylos, Hippokrates, Aristoteles, Alexander, Archimedes: Diese Woche warst du im antiken Griechenland unterwegs – auf der Bühne, am Krankenbett, auf dem Schlachtfeld. Jetzt kommen zehn Fragen. Keine Noten, kein Druck. Was du falsch hast, taucht einfach später wieder auf."
+    }
+  ],
+  "einheiten": [
+    "w02-1-aischylos",
+    "w02-2-hippokrates",
+    "w02-3-aristoteles",
+    "w02-4-alexander",
+    "w02-5-archimedes"
+  ],
+  "anzahl": 10,
+  "teaser": "Morgen: Alexander hatte einen eigenen Geschichtsschreiber. Würdest du dem alles glauben?"
+}

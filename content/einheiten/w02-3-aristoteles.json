@@ -1,0 +1,104 @@
+{
+  "id": "w02-3-aristoteles",
+  "variante": "person",
+  "person": {
+    "id": "aristoteles",
+    "name": "Aristoteles",
+    "kurz": "Ar",
+    "lebensdaten": "384–322 v. Chr.",
+    "jahr": -350,
+    "rolle": "griechischer Universalgelehrter",
+    "bereich": "geist",
+    "epoche": "Antike",
+    "region": "Griechenland",
+    "geschlecht": "m"
+  },
+  "quelle": {
+    "buch": "Kapitel 11 (Die Weisheiten der großen Drei; Philosophen des Mittelalters), Kapitel 13 (Biologen)"
+  },
+  "bild": null,
+  "hook": "Er lernte beim berühmtesten Philosophen seiner Zeit – und machte dann vieles ganz anders.",
+  "karten": [
+    {
+      "typ": "hook",
+      "text": "Er war Schüler des berühmtesten Philosophen Athens. Und widersprach ihm in einem entscheidenden Punkt. Daraus entstand etwas, das heute jede Woche in deinem Stundenplan steht. Was könnte das sein?"
+    },
+    {
+      "typ": "steckbrief",
+      "fakten": [
+        [
+          "Lebte",
+          "384–322 v. Chr."
+        ],
+        [
+          "Lehrer",
+          "Platon"
+        ],
+        [
+          "Ruf",
+          "Universalgenie der Antike"
+        ],
+        [
+          "Bekannt für",
+          "Logik, Ethik und den Grundstein der Naturwissenschaft"
+        ]
+      ]
+    },
+    {
+      "typ": "passiert",
+      "text": "Platon suchte die Wahrheit in abstrakten Ideen. Aristoteles sah das anders: Alles Denken beginnt mit dem, was wir mit den Sinnen erfahren. Also muss man die echten Dinge erforschen. Bei allem fragte er: Woraus besteht es? Welche Form hat es? Wie bewegt es sich? Wozu ist es da?"
+    },
+    {
+      "typ": "wichtig",
+      "text": "Aristoteles teilte die Philosophie als Erster in verschiedene Fachgebiete auf. Er schrieb über Natur, Logik, Redekunst, Dichtung und Staatsformen. Seine Werke prägten die ganze abendländische Wissenschaft. Noch im Mittelalter arbeiteten sich muslimische, jüdische und christliche Gelehrte an ihm ab."
+    },
+    {
+      "typ": "anekdote",
+      "text": "Seinem Sohn widmete er ein Buch über das richtige Handeln, die „Nikomachische Ethik“. Sein Rat: Such immer die rechte Mitte zwischen zwei Extremen. Also weder Geiz noch Verschwendung, weder Feigheit noch Leichtsinn. Als höchstes Gut im Leben galt ihm die Glückseligkeit."
+    },
+    {
+      "typ": "mythos",
+      "mythos": "Philosophen sitzen nur am Schreibtisch und denken nach.",
+      "wahrheit": "Aristoteles nicht. Er beschrieb über 500 Tierarten und schnitt einen Teil davon auf, um sie genau zu untersuchen. So legte er den Grundstein für die Naturwissenschaft."
+    },
+    {
+      "typ": "heute",
+      "text": "Biologie, Physik, Logik: Viele Fächer gehen auf Fragen zurück, die er geordnet hat. Und wenn du in einer Erörterung Pro und Contra abwägst: Ganz ähnlich diskutierten die Gelehrten des Mittelalters jede Frage – nach einer Methode, die auf Aristoteles zurückgeht."
+    }
+  ],
+  "quiz": [
+    {
+      "frage": "Wer war der Lehrer von Aristoteles?",
+      "optionen": [
+        "Sokrates",
+        "Hippokrates",
+        "Pythagoras",
+        "Platon"
+      ],
+      "richtig": 3,
+      "erklaerung": "Aristoteles war Platons Schüler – und wurde selbst zum großen Universalgenie der Antike."
+    },
+    {
+      "frage": "Worin unterschied sich Aristoteles von Platon?",
+      "optionen": [
+        "Er suchte Erkenntnis in der Erforschung echter Dinge statt in abstrakten Ideen",
+        "Er lehnte jede Wissenschaft ab",
+        "Er glaubte, nur Götter könnten etwas erkennen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Für Aristoteles beruhte alles Denken auf Sinneseindrücken – deshalb erforschte er die Natur."
+    },
+    {
+      "frage": "Was empfahl Aristoteles für das richtige Verhalten?",
+      "optionen": [
+        "Immer dem Bauchgefühl folgen",
+        "Die rechte Mitte zwischen zwei Extremen suchen",
+        "Möglichst viel Besitz anhäufen",
+        "Allen Vergnügungen aus dem Weg gehen"
+      ],
+      "richtig": 1,
+      "erklaerung": "In der „Nikomachischen Ethik“ rät er zur Mitte, etwa zwischen Geiz und Verschwendung."
+    }
+  ],
+  "teaser": "Morgen: ein junger König, der in nur sieben Jahren ein Weltreich eroberte."
+}

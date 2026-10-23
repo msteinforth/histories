@@ -1,0 +1,104 @@
+{
+  "id": "w02-5-archimedes",
+  "variante": "person",
+  "person": {
+    "id": "archimedes",
+    "name": "Archimedes von Syrakus",
+    "kurz": "Ac",
+    "lebensdaten": "um 287–212 v. Chr.",
+    "jahr": -250,
+    "rolle": "griechischer Naturwissenschaftler",
+    "bereich": "entdeckung",
+    "epoche": "Antike",
+    "region": "Griechenland",
+    "geschlecht": "m"
+  },
+  "quelle": {
+    "buch": "Kapitel 14 (Die Produktiven), Kapitel 13 (Mathematiker)"
+  },
+  "bild": null,
+  "hook": "Er verteidigte eine ganze Stadt mit seinen Erfindungen – warum konnte die Nachwelt trotzdem so wenig damit anfangen?",
+  "karten": [
+    {
+      "typ": "hook",
+      "text": "Ein Mensch, ein Flaschenzug, ein beladenes Kriegsschiff: Er soll Maschinen gebaut haben, mit denen eine einzige Person ein Schiff anheben konnte. Er gilt als einer der größten Erfinder der Antike. Warum hatten seine Erfindungen dann so wenig Folgen?"
+    },
+    {
+      "typ": "steckbrief",
+      "fakten": [
+        [
+          "Lebte",
+          "um 287–212 v. Chr."
+        ],
+        [
+          "Stadt",
+          "Syrakus"
+        ],
+        [
+          "Studium",
+          "Universität von Alexandria"
+        ],
+        [
+          "Bekannt für",
+          "„Heureka!“, Hebelgesetze, Archimedische Schraube"
+        ]
+      ]
+    },
+    {
+      "typ": "passiert",
+      "text": "Archimedes lebte am Hof von Hieron II., dem Herrscher von Syrakus. Er entdeckte: Der Auftrieb eines Körpers hängt vom Gewicht der Flüssigkeit ab, die er verdrängt. „Heureka!“ – „Ich hab’s!“ soll er gerufen haben. So überführte er Hierons Krone: Sie war nicht aus reinem Gold."
+    },
+    {
+      "typ": "wichtig",
+      "text": "Am wichtigsten waren seine Hebelgesetze: Je länger der Hebel, desto leichter lässt sich eine Last bewegen. Er berechnete Flächen und Rauminhalte und nahm Grundlagen der Integralrechnung vorweg. Seine Archimedische Schraube, ein Gewinde in einem Rohr, befördert Wasser durch bloßes Drehen bergauf."
+    },
+    {
+      "typ": "anekdote",
+      "text": "214 v. Chr. belagerten die Römer Syrakus. Archimedes baute große Katapulte und angeblich Kräne, die Schiffe packten und fallen ließen. Die Stadt fiel trotzdem. Ein Soldat tötete ihn, obwohl der römische Feldherr ihn verschonen wollte. Seine letzten Worte sollen gewesen sein: „Störe meine Kreise nicht!“"
+    },
+    {
+      "typ": "mythos",
+      "mythos": "Archimedes’ Maschinen veränderten die Technik der Antike.",
+      "wahrheit": "Kaum. Er hinterließ nur Berechnungen, aber keine Beschreibungen seiner Maschinen. Viele Autoren lobten ihn, doch praktisch blieb sein Einfluss begrenzt. Auch die Brennspiegel, mit denen er römische Schiffe angezündet haben soll, sind nur überliefert."
+    },
+    {
+      "typ": "heute",
+      "text": "„Heureka!“ ruft man bis heute, wenn einem plötzlich die Lösung einfällt. Im Physikunterricht begegnet dir das archimedische Prinzip zum Auftrieb. Und jedes Mal, wenn du mit einer langen Stange etwas Schweres anhebst, nutzt du seine Hebelgesetze."
+    }
+  ],
+  "quiz": [
+    {
+      "frage": "Wie erkannte Archimedes, dass Hierons Krone nicht aus reinem Gold war?",
+      "optionen": [
+        "Er biss hinein",
+        "Er schmolz sie ein",
+        "Er wog sie gegen Silber auf",
+        "Sie verdrängte mehr Wasser als ein gleich schwerer Goldbarren"
+      ],
+      "richtig": 3,
+      "erklaerung": "Weil die Krone mehr Wasser verdrängte als reines Gold gleichen Gewichts, musste etwas anderes beigemischt sein."
+    },
+    {
+      "frage": "Warum hatten Archimedes’ Maschinen in der Antike wenig praktischen Einfluss?",
+      "optionen": [
+        "Die Römer verboten sie",
+        "Er hinterließ nur Berechnungen, keine Beschreibungen der Maschinen",
+        "Sie haben nie funktioniert"
+      ],
+      "richtig": 1,
+      "erklaerung": "Ohne Beschreibungen konnte niemand seine Apparate nachbauen."
+    },
+    {
+      "frage": "Was leistet die Archimedische Schraube?",
+      "optionen": [
+        "Sie befördert Wasser durch Drehen bergauf",
+        "Sie misst die Zeit",
+        "Sie hält Schiffsplanken zusammen",
+        "Sie zeigt die Himmelsrichtung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein schneckenförmiges Gewinde im Rohr hebt das Wasser, wenn man es dreht."
+    }
+  ],
+  "teaser": "Morgen ist Samstag: zehn Fragen zu deiner Griechenland-Woche. Schaffst du alle?"
+}

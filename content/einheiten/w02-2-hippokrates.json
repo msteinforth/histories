@@ -1,0 +1,104 @@
+{
+  "id": "w02-2-hippokrates",
+  "variante": "person",
+  "person": {
+    "id": "hippokrates",
+    "name": "Hippokrates von Kos",
+    "kurz": "Hi",
+    "lebensdaten": "um 460–370 v. Chr.",
+    "jahr": -430,
+    "rolle": "griechischer Arzt",
+    "bereich": "entdeckung",
+    "epoche": "Antike",
+    "region": "Griechenland",
+    "geschlecht": "m"
+  },
+  "quelle": {
+    "buch": "Kapitel 15 (Hippokrates war nicht allein: die Ärzte der Antike)"
+  },
+  "bild": null,
+  "hook": "Sein Name steht über dem berühmtesten Versprechen der Medizin – aber was davon stammt wirklich von ihm?",
+  "karten": [
+    {
+      "typ": "hook",
+      "text": "Fast jeder kennt seinen Namen, denn nach ihm ist der berühmteste Eid der Medizin benannt. Trotzdem weiß man erstaunlich wenig über ihn. Nicht einmal, welche Schriften unter seinem Namen wirklich von ihm sind. Wer war dieser Arzt?"
+    },
+    {
+      "typ": "steckbrief",
+      "fakten": [
+        [
+          "Lebte",
+          "um 460–370 v. Chr."
+        ],
+        [
+          "Heimat",
+          "Insel Kos"
+        ],
+        [
+          "Familie",
+          "Ärzte – Ahnherr angeblich der Heilgott Asklepios"
+        ],
+        [
+          "Bekannt für",
+          "den Hippokratischen Eid"
+        ]
+      ]
+    },
+    {
+      "typ": "passiert",
+      "text": "Hippokrates kam aus einer Ärztefamilie, auch seine beiden Söhne wurden Ärzte. Er wartete nicht auf Patienten, sondern reiste durch Griechenland und Anatolien. Unter seinem Namen sind über 60 Schriften überliefert. Sicher nicht alle von ihm – aber alle gehören zu seiner Schule."
+    },
+    {
+      "typ": "wichtig",
+      "text": "Seine Schule sah Heilkunst als Wissenschaft: genau beobachten, vernünftig denken, keine übernatürlichen Erklärungen. Jeden Kranken gründlich untersuchen und befragen, auch nach Vorgeschichte und Seele. Vor allem zählte die richtige Therapie – von Diät und Bewegung über Arznei bis zur Operation."
+    },
+    {
+      "typ": "anekdote",
+      "text": "Epilepsie nannte man damals die „heilige Krankheit“, viele machten die Götter dafür verantwortlich. Eine Schrift, die vielleicht von Hippokrates selbst stammt, hält das für pure Unwissenheit. Ihre Erklärung: Schleim verstopft die Adern im Gehirn. Das stimmt zwar nicht – aber es ist ein Versuch, die Natur zu verstehen."
+    },
+    {
+      "typ": "mythos",
+      "mythos": "Alle Ärztinnen und Ärzte schwören heute den Hippokratischen Eid.",
+      "wahrheit": "In Deutschland war das nie allgemein üblich, anders als an amerikanischen Unis. Aber die Genfer Erklärung des Weltärztebundes von 1948 ist dem alten Eid nachempfunden. Sie steht der Berufsordnung deutscher Ärzte voran."
+    },
+    {
+      "typ": "heute",
+      "text": "Dass deine Ärztin niemandem erzählen darf, was du ihr anvertraust, ist die Schweigepflicht – sie stand schon im alten Eid. Und wenn sie dich zuerst fragt, seit wann du Beschwerden hast, folgt sie einer Idee seiner Schule: erst genau hinschauen, dann behandeln."
+    }
+  ],
+  "quiz": [
+    {
+      "frage": "Woher stammte Hippokrates?",
+      "optionen": [
+        "Aus Athen",
+        "Aus Alexandria",
+        "Von der Insel Kos",
+        "Aus Sparta"
+      ],
+      "richtig": 2,
+      "erklaerung": "Hippokrates wurde auf Kos geboren und kam aus einer Ärztefamilie."
+    },
+    {
+      "frage": "Was war typisch für die Medizin der Hippokrates-Schule?",
+      "optionen": [
+        "Krankheiten mit Beobachtung und Vernunft erklären statt mit Göttern",
+        "Krankheiten vor allem mit Gebeten heilen",
+        "Nur operieren, nie Arzneien geben"
+      ],
+      "richtig": 0,
+      "erklaerung": "Übernatürliche Erklärungen wurden meist zurückgewiesen – zum Beispiel bei der Epilepsie."
+    },
+    {
+      "frage": "Was gilt für den Hippokratischen Eid in Deutschland?",
+      "optionen": [
+        "Alle Medizinstudierenden müssen ihn schwören",
+        "Er wurde 1948 verboten",
+        "Er gilt nur für Zahnärzte",
+        "Er war nie allgemein üblich – die Genfer Erklärung ist ihm aber nachempfunden"
+      ],
+      "richtig": 3,
+      "erklaerung": "Die Genfer Erklärung von 1948 steht der Berufsordnung der Ärzte voran und greift den alten Eid auf."
+    }
+  ],
+  "teaser": "Morgen: Platons berühmtester Schüler – der seinem Lehrer kräftig widersprach."
+}
