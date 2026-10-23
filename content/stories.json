@@ -5,108 +5,270 @@
       "id": "imhotep-mehr",
       "typ": "haupt",
       "freischaltung": "w01-1-imhotep",
-      "person": { "id": "imhotep", "name": "Imhotep", "kurz": "Im", "lebensdaten": "26. Jh. v. Chr.", "rolle": "ägyptischer Baumeister", "bereich": "kunst" },
+      "person": {
+        "id": "imhotep",
+        "name": "Imhotep",
+        "kurz": "Im",
+        "lebensdaten": "26. Jh. v. Chr.",
+        "rolle": "ägyptischer Baumeister",
+        "bereich": "kunst",
+        "bild": {
+          "datei": "imhotep.jpg",
+          "credit": "unbekannt · Wikimedia Commons (Imhotep statuette, bronze - Museo Egizio, Turin C 112 p01.jpg) · CC0",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Imhotep_statuette,_bronze_-_Museo_Egizio,_Turin_C_112_p01.jpg"
+        }
+      },
       "titel": "3 Dinge über Imhotep",
       "karten": [
-        { "text": "Imhotep baute nicht nur eine Pyramide. Für Djosers Nachfolger errichtete er eine zweite – sogar noch etwas höher. Erhalten ist sie leider nicht." },
-        { "text": "Ägyptens Medizin war damals Weltspitze: Ärzte richteten Knochen, nähten Wunden und fertigten Zahnprothesen. Es gab sogar Spezialisten für Augen, Zähne und Frauenleiden." },
-        { "text": "Und seit wann gibt es Ärztinnen? Die älteste bekannte Erwähnung ist rund 4700 Jahre alt – aus Ägypten, ungefähr aus Imhoteps Zeit." }
+        {
+          "text": "Imhotep baute nicht nur eine Pyramide. Für Djosers Nachfolger errichtete er eine zweite – sogar noch etwas höher. Erhalten ist sie leider nicht."
+        },
+        {
+          "text": "Ägyptens Medizin war damals Weltspitze: Ärzte richteten Knochen, nähten Wunden und fertigten Zahnprothesen. Es gab sogar Spezialisten für Augen, Zähne und Frauenleiden."
+        },
+        {
+          "text": "Und seit wann gibt es Ärztinnen? Die älteste bekannte Erwähnung ist rund 4700 Jahre alt – aus Ägypten, ungefähr aus Imhoteps Zeit."
+        }
       ]
     },
     {
       "id": "nebukadnezar-mehr",
       "typ": "haupt",
       "freischaltung": "w01-2-nebukadnezar",
-      "person": { "id": "nebukadnezar", "name": "Nebukadnezar II.", "kurz": "Ne", "lebensdaten": "reg. um 605–562 v. Chr.", "rolle": "König von Babylon", "bereich": "macht" },
+      "person": {
+        "id": "nebukadnezar",
+        "name": "Nebukadnezar II.",
+        "kurz": "Ne",
+        "lebensdaten": "reg. um 605–562 v. Chr.",
+        "rolle": "König von Babylon",
+        "bereich": "macht",
+        "bild": {
+          "datei": "nebukadnezar.jpg",
+          "credit": "unbekannt · Wikimedia Commons (Nebuchadnezzar II crop.png) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Nebuchadnezzar_II_crop.png"
+        }
+      },
       "titel": "3 Dinge über Babylon",
       "karten": [
-        { "text": "Den Turm von Babel gab es wirklich: die Zikkurat Etemenanki, ein über 90 Meter hoher Stufenturm. Ganz oben stand ein Tempel für Marduk, den Gott der Stadt." },
-        { "text": "Babylons Stadtmauern waren so gewaltig, dass sie in der Antike teilweise selbst als Weltwunder galten. Vom Ischtar-Tor blieb der vordere, kleinere Teil erhalten." },
-        { "text": "Schon über 1000 Jahre vor Nebukadnezar ließ König Hammurapi 282 Gesetze in eine schwarze Steinsäule meißeln. Wer seinen Damm verfallen ließ und Nachbarfelder flutete, musste als Schuldsklave abarbeiten." }
+        {
+          "text": "Den Turm von Babel gab es wirklich: die Zikkurat Etemenanki, ein über 90 Meter hoher Stufenturm. Ganz oben stand ein Tempel für Marduk, den Gott der Stadt."
+        },
+        {
+          "text": "Babylons Stadtmauern waren so gewaltig, dass sie in der Antike teilweise selbst als Weltwunder galten. Vom Ischtar-Tor blieb der vordere, kleinere Teil erhalten."
+        },
+        {
+          "text": "Schon über 1000 Jahre vor Nebukadnezar ließ König Hammurapi 282 Gesetze in eine schwarze Steinsäule meißeln. Wer seinen Damm verfallen ließ und Nachbarfelder flutete, musste als Schuldsklave abarbeiten."
+        }
       ]
     },
     {
       "id": "kyros",
       "typ": "neben",
       "freischaltung": "w01-2-nebukadnezar",
-      "person": { "id": "kyros", "name": "Kyros II.", "kurz": "Ky", "lebensdaten": "reg. um 559–530 v. Chr.", "rolle": "persischer König", "bereich": "macht" },
+      "person": {
+        "id": "kyros",
+        "name": "Kyros II.",
+        "kurz": "Ky",
+        "lebensdaten": "reg. um 559–530 v. Chr.",
+        "rolle": "persischer König",
+        "bereich": "macht",
+        "bild": {
+          "datei": "kyros.jpg",
+          "credit": "Attributed to Jérôme David / Alessandro Varotari · Wikimedia Commons (Cyrus the Great by Jerome David, after Alessandro Varotari.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Cyrus_the_Great_by_Jerome_David,_after_Alessandro_Varotari.jpg"
+        }
+      },
       "titel": "Der König, der Babylon schluckte",
       "karten": [
-        { "text": "Kyros II. machte aus einem kleinen persischen Königreich ein Weltreich – vom Bosporus bis hinter den Aralsee. Dabei eroberte er auch das Babylonische Reich." },
-        { "text": "Griechische Geschichtsschreiber schwärmten von ihm, weil er Besiegte gut behandelte. Die Juden verehrten ihn, weil er ihre Rückkehr aus dem Babylonischen Exil unterstützte." },
-        { "text": "Legende bei Herodot: Sein Großvater träumte, der Enkel werde ihn stürzen, und ließ das Baby aussetzen. Kyros überlebte – und stürzte ihn. Klingt nach Sage? Ist es wohl auch." }
+        {
+          "text": "Kyros II. machte aus einem kleinen persischen Königreich ein Weltreich – vom Bosporus bis hinter den Aralsee. Dabei eroberte er auch das Babylonische Reich."
+        },
+        {
+          "text": "Griechische Geschichtsschreiber schwärmten von ihm, weil er Besiegte gut behandelte. Die Juden verehrten ihn, weil er ihre Rückkehr aus dem Babylonischen Exil unterstützte."
+        },
+        {
+          "text": "Legende bei Herodot: Sein Großvater träumte, der Enkel werde ihn stürzen, und ließ das Baby aussetzen. Kyros überlebte – und stürzte ihn. Klingt nach Sage? Ist es wohl auch."
+        }
       ]
     },
     {
       "id": "siddhartha-mehr",
       "typ": "haupt",
       "freischaltung": "w01-3-siddhartha",
-      "person": { "id": "siddhartha", "name": "Siddhartha Gautama", "kurz": "Si", "lebensdaten": "um 563–493 v. Chr.", "rolle": "Stifter des Buddhismus", "bereich": "geist" },
+      "person": {
+        "id": "siddhartha",
+        "name": "Siddhartha Gautama",
+        "kurz": "Si",
+        "lebensdaten": "um 563–493 v. Chr.",
+        "rolle": "Stifter des Buddhismus",
+        "bereich": "geist",
+        "bild": {
+          "datei": "siddhartha.jpg",
+          "credit": "World Imaging · Wikimedia Commons (Gandhara Buddha (tnm).jpeg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Gandhara_Buddha_(tnm).jpeg"
+        }
+      },
       "titel": "3 Dinge über Buddha",
       "karten": [
-        { "text": "Der Edle Achtfache Pfad: rechte Einsicht, Absicht, Rede, Handeln, Lebenserwerb, Streben, Achtsamkeit und Versenkung. Acht Schritte, um das Leiden hinter sich zu lassen." },
-        { "text": "Als Buddha mit 80 Jahren starb, hatte er schon viele Anhänger. Kurz danach sollen sie sich zu einem ersten Konzil getroffen haben, um über sein Erbe zu beraten." },
-        { "text": "Rund 110 Jahre später kam es zur Spaltung. Die Mahayana-Richtung verehrt den Bodhisattva: jemanden, der auf die eigene Erlösung verzichtet, solange andere noch leiden." }
+        {
+          "text": "Der Edle Achtfache Pfad: rechte Einsicht, Absicht, Rede, Handeln, Lebenserwerb, Streben, Achtsamkeit und Versenkung. Acht Schritte, um das Leiden hinter sich zu lassen."
+        },
+        {
+          "text": "Als Buddha mit 80 Jahren starb, hatte er schon viele Anhänger. Kurz danach sollen sie sich zu einem ersten Konzil getroffen haben, um über sein Erbe zu beraten."
+        },
+        {
+          "text": "Rund 110 Jahre später kam es zur Spaltung. Die Mahayana-Richtung verehrt den Bodhisattva: jemanden, der auf die eigene Erlösung verzichtet, solange andere noch leiden."
+        }
       ]
     },
     {
       "id": "konfuzius-mehr",
       "typ": "haupt",
       "freischaltung": "w01-4-konfuzius",
-      "person": { "id": "konfuzius", "name": "Konfuzius", "kurz": "Ko", "lebensdaten": "um 551–479 v. Chr.", "rolle": "chinesischer Philosoph", "bereich": "geist" },
+      "person": {
+        "id": "konfuzius",
+        "name": "Konfuzius",
+        "kurz": "Ko",
+        "lebensdaten": "um 551–479 v. Chr.",
+        "rolle": "chinesischer Philosoph",
+        "bereich": "geist",
+        "bild": {
+          "datei": "konfuzius.jpg",
+          "credit": "Wu Daozi, 685-758, Tang Dynasty. · Wikimedia Commons (Confucius Tang Dynasty.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Confucius_Tang_Dynasty.jpg"
+        }
+      },
       "titel": "3 Dinge über Konfuzius",
       "karten": [
-        { "text": "Konfuzius lebte in der „Zeit der Hundert Schulen“: Vom 6. bis zum 3. Jahrhundert v. Chr. stritten in China unzählige Denker darüber, wie man richtig lebt und regiert." },
-        { "text": "Sein späterer Gegenspieler Han Fei hielt den Menschen für von Natur aus schlecht. Nur strenge Gesetze, harte Strafen und ständige Überwachung könnten ihn bändigen." },
-        { "text": "Konfuzius’ vier Grundtugenden: Menschenliebe, Gerechtigkeit, Respekt der Kinder vor Eltern und Älteren – und das genaue Befolgen der Rituale." }
+        {
+          "text": "Konfuzius lebte in der „Zeit der Hundert Schulen“: Vom 6. bis zum 3. Jahrhundert v. Chr. stritten in China unzählige Denker darüber, wie man richtig lebt und regiert."
+        },
+        {
+          "text": "Sein späterer Gegenspieler Han Fei hielt den Menschen für von Natur aus schlecht. Nur strenge Gesetze, harte Strafen und ständige Überwachung könnten ihn bändigen."
+        },
+        {
+          "text": "Konfuzius’ vier Grundtugenden: Menschenliebe, Gerechtigkeit, Respekt der Kinder vor Eltern und Älteren – und das genaue Befolgen der Rituale."
+        }
       ]
     },
     {
       "id": "laotse",
       "typ": "neben",
       "freischaltung": "w01-4-konfuzius",
-      "person": { "id": "laotse", "name": "Laotse", "kurz": "La", "lebensdaten": "6. Jh. v. Chr. (?)", "rolle": "Begründer des Daoismus", "bereich": "geist" },
+      "person": {
+        "id": "laotse",
+        "name": "Laotse",
+        "kurz": "La",
+        "lebensdaten": "6. Jh. v. Chr. (?)",
+        "rolle": "Begründer des Daoismus",
+        "bereich": "geist",
+        "bild": {
+          "datei": "laotse.jpg",
+          "credit": "Zhang Lu · Wikimedia Commons (Zhang Lu-Laozi Riding an Ox (cropped).jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Zhang_Lu-Laozi_Riding_an_Ox_(cropped).jpg"
+        }
+      },
       "titel": "Der Meister, den es vielleicht nie gab",
       "karten": [
-        { "text": "Laotse heißt „Alter Meister“. Angeblich war er Archivar am Königshof, floh vor dem politischen Chaos und diktierte auf einem Gebirgspass seine Lehre: das Daodejing." },
-        { "text": "Der Haken: Die meisten Forscher glauben, dass es ihn nie gab. In den gründlichen Beamtenlisten seiner Zeit taucht er nirgends auf. Schon ein Historiker vor über 2000 Jahren zweifelte." },
-        { "text": "Seine Lehre lebt trotzdem: sich dem natürlichen Fluss der Welt, dem Dao, anpassen. Yin und Yang, Tai-Chi, Qigong und Feng-Shui stammen aus dieser Tradition." }
+        {
+          "text": "Laotse heißt „Alter Meister“. Angeblich war er Archivar am Königshof, floh vor dem politischen Chaos und diktierte auf einem Gebirgspass seine Lehre: das Daodejing."
+        },
+        {
+          "text": "Der Haken: Die meisten Forscher glauben, dass es ihn nie gab. In den gründlichen Beamtenlisten seiner Zeit taucht er nirgends auf. Schon ein Historiker vor über 2000 Jahren zweifelte."
+        },
+        {
+          "text": "Seine Lehre lebt trotzdem: sich dem natürlichen Fluss der Welt, dem Dao, anpassen. Yin und Yang, Tai-Chi, Qigong und Feng-Shui stammen aus dieser Tradition."
+        }
       ]
     },
     {
       "id": "platon-mehr",
       "typ": "haupt",
       "freischaltung": "w01-5-platon",
-      "person": { "id": "platon", "name": "Platon", "kurz": "Pl", "lebensdaten": "427–347 v. Chr.", "rolle": "griechischer Philosoph", "bereich": "geist" },
+      "person": {
+        "id": "platon",
+        "name": "Platon",
+        "kurz": "Pl",
+        "lebensdaten": "427–347 v. Chr.",
+        "rolle": "griechischer Philosoph",
+        "bereich": "geist",
+        "bild": {
+          "datei": "platon.jpg",
+          "credit": "Marie-Lan Nguyen · Wikimedia Commons (Plato Silanion Musei Capitolini MC1377 (cropped).jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377_(cropped).jpg"
+        }
+      },
       "titel": "Platons Lehrer und Schüler",
       "karten": [
-        { "text": "Platons Lehrer Sokrates nervte die Leute auf dem Marktplatz mit bohrenden Fragen. Wie eine Hebamme wollte er Einsichten „zur Welt bringen“ – seine Mutter war tatsächlich Hebamme." },
-        { "text": "Athen verurteilte Sokrates wegen Gottlosigkeit und „Verführung der Jugend“ zum Tode. Gelassen trank er im Kreis seiner Schüler den Giftbecher. Das machte ihn erst recht unsterblich." },
-        { "text": "Platons Schüler Aristoteles widersprach ihm: Erkenntnis finde man nicht in abstrakten Ideen, sondern beim Erforschen echter Dinge. Damit legte er den Grundstein der Naturwissenschaft." }
+        {
+          "text": "Platons Lehrer Sokrates nervte die Leute auf dem Marktplatz mit bohrenden Fragen. Wie eine Hebamme wollte er Einsichten „zur Welt bringen“ – seine Mutter war tatsächlich Hebamme."
+        },
+        {
+          "text": "Athen verurteilte Sokrates wegen Gottlosigkeit und „Verführung der Jugend“ zum Tode. Gelassen trank er im Kreis seiner Schüler den Giftbecher. Das machte ihn erst recht unsterblich."
+        },
+        {
+          "text": "Platons Schüler Aristoteles widersprach ihm: Erkenntnis finde man nicht in abstrakten Ideen, sondern beim Erforschen echter Dinge. Damit legte er den Grundstein der Naturwissenschaft."
+        }
       ]
     },
     {
       "id": "dareios",
       "typ": "neben",
       "freischaltung": "w01-5-platon",
-      "person": { "id": "dareios", "name": "Dareios I.", "kurz": "Da", "lebensdaten": "reg. 522–486 v. Chr.", "rolle": "persischer König", "bereich": "macht" },
+      "person": {
+        "id": "dareios",
+        "name": "Dareios I.",
+        "kurz": "Da",
+        "lebensdaten": "reg. 522–486 v. Chr.",
+        "rolle": "persischer König",
+        "bereich": "macht",
+        "bild": {
+          "datei": "dareios.jpg",
+          "credit": "British Museum. Dept. of Egyptian and Assyrian Antiquities; King, L. W. (Leonard William), 1869-1919; Thompson, R. Campbell (Reginald Campbell), 1876-1941 · Wikimedia Commons (Portrait of Darius the Great at Behistun.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Portrait_of_Darius_the_Great_at_Behistun.jpg"
+        }
+      },
       "titel": "Der Perser, den die Griechen nicht mochten",
       "karten": [
-        { "text": "Dareios I. war der Organisator des Perserreichs: neue Verwaltung, Gerichte und Steuern, bessere Straßen. Sein System hielt Jahrhunderte. Er rühmte sich, über mehr Völker zu herrschen als jeder vor ihm." },
-        { "text": "490 v. Chr. griff er Griechenland an und begann die Perserkriege. Bei Marathon wurde sein Heer geschlagen – daran erinnert bis heute der Marathonlauf." },
-        { "text": "Die Griechen mochten ihn nicht, deshalb heißt er kaum „der Große“. Ihre Gruselgeschichten über ihn sind mit Vorsicht zu genießen: Wer gegen jemanden Krieg führt, erzählt selten fair." }
+        {
+          "text": "Dareios I. war der Organisator des Perserreichs: neue Verwaltung, Gerichte und Steuern, bessere Straßen. Sein System hielt Jahrhunderte. Er rühmte sich, über mehr Völker zu herrschen als jeder vor ihm."
+        },
+        {
+          "text": "490 v. Chr. griff er Griechenland an und begann die Perserkriege. Bei Marathon wurde sein Heer geschlagen – daran erinnert bis heute der Marathonlauf."
+        },
+        {
+          "text": "Die Griechen mochten ihn nicht, deshalb heißt er kaum „der Große“. Ihre Gruselgeschichten über ihn sind mit Vorsicht zu genießen: Wer gegen jemanden Krieg führt, erzählt selten fair."
+        }
       ]
     },
     {
       "id": "diogenes",
       "typ": "neben",
       "freischaltung": "w01-7-meta-ruhm",
-      "person": { "id": "diogenes", "name": "Diogenes", "kurz": "Di", "lebensdaten": "404–323 v. Chr.", "rolle": "griechischer Philosoph", "bereich": "geist" },
+      "person": {
+        "id": "diogenes",
+        "name": "Diogenes",
+        "kurz": "Di",
+        "lebensdaten": "404–323 v. Chr.",
+        "rolle": "griechischer Philosoph",
+        "bereich": "geist",
+        "bild": {
+          "datei": "diogenes.jpg",
+          "credit": "Jean-Léon Gérôme · Wikimedia Commons (Jean-Léon Gérôme - Diogenes - Walters 37131.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Diogenes_-_Walters_37131.jpg"
+        }
+      },
       "titel": "Der Mann in der Tonne",
       "karten": [
-        { "text": "Diogenes von Sinope gehörte zu den Kynikern: besitzlose Wanderprediger, die Eigentum, Ehe, Regierung und Religion für belanglos hielten – und über alles spotteten. Daher kommt unser Wort „zynisch“." },
-        { "text": "Angeblich lebte er in einer Tonne. Als Alexander der Große ihm einen Wunsch erfüllen wollte, soll er nur gesagt haben: „Geh mir aus der Sonne!“" },
-        { "text": "Von seinen Werken ist kein einziges erhalten. Trotzdem ist er einer der bekanntesten Philosophen der Antike – dank einer richtig guten Anekdote." }
+        {
+          "text": "Diogenes von Sinope gehörte zu den Kynikern: besitzlose Wanderprediger, die Eigentum, Ehe, Regierung und Religion für belanglos hielten – und über alles spotteten. Daher kommt unser Wort „zynisch“."
+        },
+        {
+          "text": "Angeblich lebte er in einer Tonne. Als Alexander der Große ihm einen Wunsch erfüllen wollte, soll er nur gesagt haben: „Geh mir aus der Sonne!“"
+        },
+        {
+          "text": "Von seinen Werken ist kein einziges erhalten. Trotzdem ist er einer der bekanntesten Philosophen der Antike – dank einer richtig guten Anekdote."
+        }
       ]
     }
   ]

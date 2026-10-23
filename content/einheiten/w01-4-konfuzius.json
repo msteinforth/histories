@@ -13,27 +13,96 @@
     "region": "China",
     "geschlecht": "m"
   },
-  "quelle": { "buch": "Kapitel 11 (Philosophen: Jenseits von Rom und Griechenland)" },
-  "bild": null,
+  "quelle": {
+    "buch": "Kapitel 11 (Philosophen: Jenseits von Rom und Griechenland)"
+  },
+  "bild": {
+    "datei": "konfuzius.jpg",
+    "credit": "Wu Daozi, 685-758, Tang Dynasty. · Wikimedia Commons (Confucius Tang Dynasty.jpg) · Public domain",
+    "quelle": "https://commons.wikimedia.org/wiki/File:Confucius_Tang_Dynasty.jpg"
+  },
   "hook": "Zu Lebzeiten ziemlich erfolglos. Nach seinem Tod bestimmten seine Ideen China – über 2000 Jahre lang.",
   "karten": [
-    { "typ": "hook", "text": "Zu Lebzeiten fand er keinen Chef, der auf ihn hören wollte. Nach seinem Tod bestimmten seine Ideen ein Riesenreich – über 2000 Jahre lang. Und einen seiner Sätze kennst du garantiert." },
-    { "typ": "steckbrief", "fakten": [
-      ["Lebte", "um 551–479 v. Chr."],
-      ["Eigentlich", "Kong Qiu, „Meister Kong“"],
-      ["Herkunft", "Staat Lu, heute Provinz Shandong (China)"],
-      ["Job", "Beamter, dann Wanderlehrer"]
-    ] },
-    { "typ": "passiert", "text": "China war in viele streitende Staaten zerfallen, und die Herrscher enttäuschten ihn. Also zog Konfuzius von Hof zu Hof und suchte einen Fürsten, der seine Ideen umsetzt. Seine Antwort auf das Chaos: Wenn jeder Einzelne anständig lebt, kommt die Welt wieder in Ordnung." },
-    { "typ": "wichtig", "text": "Seine Schüler gaben die Lehre weiter. Ab 206 v. Chr. machte die Han-Dynastie den Konfuzianismus zur Staatslehre – mit Unterbrechungen bis 1912. Menschenliebe, Gerechtigkeit, Respekt vor Älteren und feste Rituale prägten so unzählige Generationen in China." },
-    { "typ": "anekdote", "text": "Die Kehrseite: Am Ende der Kaiserzeit hieß „Respekt vor Älteren“ vor allem, dass die Jungen zu gehorchen hatten. Reformen hatten kaum eine Chance – das trug zum Untergang des Kaiserreichs bei. Auch eine gute Idee wird starr, wenn sie niemand mehr hinterfragt." },
-    { "typ": "mythos", "mythos": "Konfuzius war schon zu Lebzeiten ein gefeierter Star.", "wahrheit": "Nein. Er fand keinen Herrscher, der auf ihn hörte, und lebte als Wanderlehrer. Berühmt machten ihn erst seine Schüler – sie sorgten dafür, dass sich seine Lehre nach und nach durchsetzte." },
-    { "typ": "heute", "text": "„Was du nicht willst, dass man dir tu, das füg auch keinem andern zu.“ Kennst du? Genau das ist die Goldene Regel des Konfuzius – rund 2500 Jahre alt. Und „Konfuzius sagt …“ ist bis heute der Klassiker für weise Sprüche." }
+    {
+      "typ": "hook",
+      "text": "Zu Lebzeiten fand er keinen Chef, der auf ihn hören wollte. Nach seinem Tod bestimmten seine Ideen ein Riesenreich – über 2000 Jahre lang. Und einen seiner Sätze kennst du garantiert."
+    },
+    {
+      "typ": "steckbrief",
+      "fakten": [
+        [
+          "Lebte",
+          "um 551–479 v. Chr."
+        ],
+        [
+          "Eigentlich",
+          "Kong Qiu, „Meister Kong“"
+        ],
+        [
+          "Herkunft",
+          "Staat Lu, heute Provinz Shandong (China)"
+        ],
+        [
+          "Job",
+          "Beamter, dann Wanderlehrer"
+        ]
+      ]
+    },
+    {
+      "typ": "passiert",
+      "text": "China war in viele streitende Staaten zerfallen, und die Herrscher enttäuschten ihn. Also zog Konfuzius von Hof zu Hof und suchte einen Fürsten, der seine Ideen umsetzt. Seine Antwort auf das Chaos: Wenn jeder Einzelne anständig lebt, kommt die Welt wieder in Ordnung."
+    },
+    {
+      "typ": "wichtig",
+      "text": "Seine Schüler gaben die Lehre weiter. Ab 206 v. Chr. machte die Han-Dynastie den Konfuzianismus zur Staatslehre – mit Unterbrechungen bis 1912. Menschenliebe, Gerechtigkeit, Respekt vor Älteren und feste Rituale prägten so unzählige Generationen in China."
+    },
+    {
+      "typ": "anekdote",
+      "text": "Die Kehrseite: Am Ende der Kaiserzeit hieß „Respekt vor Älteren“ vor allem, dass die Jungen zu gehorchen hatten. Reformen hatten kaum eine Chance – das trug zum Untergang des Kaiserreichs bei. Auch eine gute Idee wird starr, wenn sie niemand mehr hinterfragt."
+    },
+    {
+      "typ": "mythos",
+      "mythos": "Konfuzius war schon zu Lebzeiten ein gefeierter Star.",
+      "wahrheit": "Nein. Er fand keinen Herrscher, der auf ihn hörte, und lebte als Wanderlehrer. Berühmt machten ihn erst seine Schüler – sie sorgten dafür, dass sich seine Lehre nach und nach durchsetzte."
+    },
+    {
+      "typ": "heute",
+      "text": "„Was du nicht willst, dass man dir tu, das füg auch keinem andern zu.“ Kennst du? Genau das ist die Goldene Regel des Konfuzius – rund 2500 Jahre alt. Und „Konfuzius sagt …“ ist bis heute der Klassiker für weise Sprüche."
+    }
   ],
   "quiz": [
-    { "frage": "Wie lautet die Goldene Regel des Konfuzius sinngemäß?", "optionen": ["Der Stärkere hat immer recht", "Was du für dich nicht willst, tu auch keinem anderen an", "Jeder ist sich selbst der Nächste", "Gehorche nur dem Kaiser"], "richtig": 1, "erklaerung": "Die Regel steckt bis heute in unserem Sprichwort „Was du nicht willst, dass man dir tu …“." },
-    { "frage": "Wann wurde der Konfuzianismus Staatslehre in China?", "optionen": ["Noch zu Konfuzius’ Lebzeiten", "Erst im Jahr 1912", "Unter der Han-Dynastie ab 206 v. Chr."], "richtig": 2, "erklaerung": "Die Han-Kaiser machten seine Lehre zur Staatsdoktrin – mit Unterbrechungen blieb sie es bis 1912." },
-    { "frage": "Was war Konfuzius’ Rezept gegen das Chaos seiner Zeit?", "optionen": ["Jeder Einzelne muss tugendhaft leben", "Ein starker Kaiser mit harten Strafen", "Alle Rituale abschaffen", "Rückzug in die Natur"], "richtig": 0, "erklaerung": "Für Konfuzius begann Ordnung beim anständigen Verhalten jedes Einzelnen." }
+    {
+      "frage": "Wie lautet die Goldene Regel des Konfuzius sinngemäß?",
+      "optionen": [
+        "Der Stärkere hat immer recht",
+        "Was du für dich nicht willst, tu auch keinem anderen an",
+        "Jeder ist sich selbst der Nächste",
+        "Gehorche nur dem Kaiser"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die Regel steckt bis heute in unserem Sprichwort „Was du nicht willst, dass man dir tu …“."
+    },
+    {
+      "frage": "Wann wurde der Konfuzianismus Staatslehre in China?",
+      "optionen": [
+        "Noch zu Konfuzius’ Lebzeiten",
+        "Erst im Jahr 1912",
+        "Unter der Han-Dynastie ab 206 v. Chr."
+      ],
+      "richtig": 2,
+      "erklaerung": "Die Han-Kaiser machten seine Lehre zur Staatsdoktrin – mit Unterbrechungen blieb sie es bis 1912."
+    },
+    {
+      "frage": "Was war Konfuzius’ Rezept gegen das Chaos seiner Zeit?",
+      "optionen": [
+        "Jeder Einzelne muss tugendhaft leben",
+        "Ein starker Kaiser mit harten Strafen",
+        "Alle Rituale abschaffen",
+        "Rückzug in die Natur"
+      ],
+      "richtig": 0,
+      "erklaerung": "Für Konfuzius begann Ordnung beim anständigen Verhalten jedes Einzelnen."
+    }
   ],
   "teaser": "Morgen: ein Philosoph, nach dessen Schule jede „Akademie“ heißt – und der beinahe als Sklave verkauft worden wäre."
 }
