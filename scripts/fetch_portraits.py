@@ -131,6 +131,7 @@ def main():
     nur_pruefen = "--nur-pruefen" in sys.argv
     quellen = json.loads((BILDER / "quellen.json").read_text(encoding="utf-8"))
     fehler = 0
+    zusammenfassung = []
     for pid, entry in quellen.items():
         if pid.startswith("_") or (args and pid not in args):
             continue
@@ -138,18 +139,21 @@ def main():
         f, alle = choose(entry)
         if not f:
             fehler += 1
+            zusammenfassung.append(f"✗ {pid}")
             print(f"✗ {pid}: kein gemeinfreies Bild gefunden. Geprüft:")
             for x in alle[:10]:
                 print(f"    {x['lizenz'] or '?':28} {x['titel']}")
             continue
+        zusammenfassung.append(f"✓ {pid}: {f['titel']} [{f['lizenz']}]")
         print(f"✓ {pid}: {f['titel']} [{f['lizenz']}] {f['seite']}")
         if nur_pruefen:
-            for x in alle[:45]:
-                frei = "frei" if FREI.search(x["lizenz"]) else "    "
-                print(f"    {frei} {x['lizenz'] or '?':28} {x['titel']}")
+            for x in [x for x in alle if FREI.search(x["lizenz"])][:8]:
+                print(f"    frei {x['lizenz']:16} {x['titel']}")
             continue
         save(get(f["thumb"]), BILDER / f"{pid}.jpg", entry.get("fokus", [0.5, 0.35]), entry.get("zoom", 1.0))
         eintragen(pid, {"datei": f"{pid}.jpg", "credit": credit(f), "quelle": f["seite"]})
+    print("\n=== Zusammenfassung ===")
+    print("\n".join(zusammenfassung))
     sys.exit(1 if fehler else 0)
 
 
