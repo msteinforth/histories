@@ -16,7 +16,11 @@
   "quelle": {
     "buch": "Kapitel 4 (Giganten der Geschichte und ihre Reiche), Kapitel 11 (Philosophen)"
   },
-  "bild": null,
+  "bild": {
+    "datei": "shihuangdi.jpg",
+    "credit": "Unknown artistUnknown artist · Wikimedia Commons (Qinshihuang.jpg) · Public domain",
+    "quelle": "https://commons.wikimedia.org/wiki/File:Qinshihuang.jpg"
+  },
   "hook": "Rund 8000 Soldaten bewachen sein Grab – und keiner von ihnen hat je geatmet.",
   "karten": [
     {
@@ -26,10 +30,22 @@
     {
       "typ": "steckbrief",
       "fakten": [
-        ["Lebte", "259–210 v. Chr."],
-        ["Geboren als", "Ying Zheng, Fürst von Qin"],
-        ["Titel", "„Erster erhabener Gottkaiser von Qin“"],
-        ["Bekannt für", "die Terrakotta-Armee"]
+        [
+          "Lebte",
+          "259–210 v. Chr."
+        ],
+        [
+          "Geboren als",
+          "Ying Zheng, Fürst von Qin"
+        ],
+        [
+          "Titel",
+          "„Erster erhabener Gottkaiser von Qin“"
+        ],
+        [
+          "Bekannt für",
+          "die Terrakotta-Armee"
+        ]
       ]
     },
     {
@@ -57,7 +73,12 @@
   "quiz": [
     {
       "frage": "Aus wie vielen Figuren besteht die bisher ausgegrabene Terrakotta-Armee ungefähr?",
-      "optionen": ["800", "8000", "80.000", "800.000"],
+      "optionen": [
+        "800",
+        "8000",
+        "80.000",
+        "800.000"
+      ],
       "richtig": 1,
       "erklaerung": "Rund 8000 Tonsoldaten bewachen das Grab – und das Mausoleum selbst ist noch gar nicht ausgegraben."
     },

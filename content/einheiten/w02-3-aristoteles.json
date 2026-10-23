@@ -16,7 +16,11 @@
   "quelle": {
     "buch": "Kapitel 11 (Die Weisheiten der großen Drei; Philosophen des Mittelalters), Kapitel 13 (Biologen)"
   },
-  "bild": null,
+  "bild": {
+    "datei": "aristoteles.jpg",
+    "credit": "After Lysippos · Wikimedia Commons (Aristotle Altemps Inv8575.jpg) · Public domain",
+    "quelle": "https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg"
+  },
   "hook": "Er lernte beim berühmtesten Philosophen seiner Zeit – und machte dann vieles ganz anders.",
   "karten": [
     {

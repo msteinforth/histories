@@ -16,7 +16,11 @@
   "quelle": {
     "buch": "Kapitel 17 (Bühnenwirksam: die Dramatiker), Kapitel 14 (Telekommunikation)"
   },
-  "bild": null,
+  "bild": {
+    "datei": "aischylos.jpg",
+    "credit": "unbekannt · Wikimedia Commons (Aischylos Büste.jpg) · Public domain",
+    "quelle": "https://commons.wikimedia.org/wiki/File:Aischylos_B%C3%BCste.jpg"
+  },
   "hook": "Er kämpfte selbst in einer Seeschlacht – und schrieb danach ein Stück, in dem die Verlierer die Hauptrolle spielen.",
   "karten": [
     {

@@ -16,7 +16,11 @@
   "quelle": {
     "buch": "Kapitel 15 (Hippokrates war nicht allein: die Ärzte der Antike)"
   },
-  "bild": null,
+  "bild": {
+    "datei": "hippokrates.jpg",
+    "credit": "Paulus Pontius / After Peter Paul Rubens · Wikimedia Commons (Hippocrates rubens.jpg) · Public domain",
+    "quelle": "https://commons.wikimedia.org/wiki/File:Hippocrates_rubens.jpg"
+  },
   "hook": "Sein Name steht über dem berühmtesten Versprechen der Medizin – aber was davon stammt wirklich von ihm?",
   "karten": [
     {

@@ -16,7 +16,11 @@
   "quelle": {
     "buch": "Kapitel 4 (Kyros, Alexander und das Perserreich), Kapitel 3 (Heroen und ihre Biografen), Kapitel 16 (Die verschollenen Maler)"
   },
-  "bild": null,
+  "bild": {
+    "datei": "alexander.jpg",
+    "credit": "Tkbwikmed · Wikimedia Commons (Alexander1256.jpg) · Public domain",
+    "quelle": "https://commons.wikimedia.org/wiki/File:Alexander1256.jpg"
+  },
   "hook": "In sieben Jahren eroberte er ein Weltreich. Aber wie viel von seiner Legende stimmt?",
   "karten": [
     {

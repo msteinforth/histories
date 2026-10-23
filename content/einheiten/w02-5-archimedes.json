@@ -16,7 +16,11 @@
   "quelle": {
     "buch": "Kapitel 14 (Die Produktiven), Kapitel 13 (Mathematiker)"
   },
-  "bild": null,
+  "bild": {
+    "datei": "archimedes.jpg",
+    "credit": "Domenico Fetti · Wikimedia Commons (Domenico-Fetti Archimedes 1620.jpg) · Public domain",
+    "quelle": "https://commons.wikimedia.org/wiki/File:Domenico-Fetti_Archimedes_1620.jpg"
+  },
   "hook": "Er verteidigte eine ganze Stadt mit seinen Erfindungen – warum konnte die Nachwelt trotzdem so wenig damit anfangen?",
   "karten": [
     {

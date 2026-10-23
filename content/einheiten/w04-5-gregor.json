@@ -16,7 +16,11 @@
   "quelle": {
     "buch": "Kapitel 10 (Zwischen Religion und Politik: Die bedeutenden Päpste), Kapitel 1, Kapitel 2, Kapitel 5 (Robert Guiskard)"
   },
-  "bild": null,
+  "bild": {
+    "datei": "gregor.jpg",
+    "credit": "unbekannt · Wikimedia Commons (Pope Gregory VII.jpg) · Public domain",
+    "quelle": "https://commons.wikimedia.org/wiki/File:Pope_Gregory_VII.jpg"
+  },
   "hook": "Ein Papst zwingt einen König zum Bittgang – und das ist nicht mal das Wichtigste, was er verändert hat.",
   "karten": [
     {
@@ -26,11 +30,26 @@
     {
       "typ": "steckbrief",
       "fakten": [
-        ["Lebte", "um 1027–1085"],
-        ["Eigentlicher Name", "Hildebrand von Soana"],
-        ["Amt", "Papst"],
-        ["Gegenspieler", "der deutsche König Heinrich IV."],
-        ["Bekannt für", "den Gang nach Canossa"]
+        [
+          "Lebte",
+          "um 1027–1085"
+        ],
+        [
+          "Eigentlicher Name",
+          "Hildebrand von Soana"
+        ],
+        [
+          "Amt",
+          "Papst"
+        ],
+        [
+          "Gegenspieler",
+          "der deutsche König Heinrich IV."
+        ],
+        [
+          "Bekannt für",
+          "den Gang nach Canossa"
+        ]
       ]
     },
     {
@@ -58,19 +77,33 @@
   "quiz": [
     {
       "frage": "Wie hieß Gregor VII. ursprünglich?",
-      "optionen": ["Otto von Freising", "Odo de Châtillon", "Hildebrand von Soana", "Robert Guiskard"],
+      "optionen": [
+        "Otto von Freising",
+        "Odo de Châtillon",
+        "Hildebrand von Soana",
+        "Robert Guiskard"
+      ],
       "richtig": 2,
       "erklaerung": "Bevor er Papst wurde, hieß Gregor VII. Hildebrand von Soana."
     },
     {
       "frage": "Was bedeutet die Redewendung „nach Canossa gehen“?",
-      "optionen": ["Eine lange Pilgerreise antreten", "Sich demütig entschuldigen oder unterwerfen müssen", "Jemandem den Krieg erklären"],
+      "optionen": [
+        "Eine lange Pilgerreise antreten",
+        "Sich demütig entschuldigen oder unterwerfen müssen",
+        "Jemandem den Krieg erklären"
+      ],
       "richtig": 1,
       "erklaerung": "Wie Heinrich IV., der als Gebannter zum Papst ziehen musste, beugt man sich dabei einem Gegner."
     },
     {
       "frage": "Wer darf seit Gregors Zeit den Papst wählen?",
-      "optionen": ["Der Kaiser", "Alle Bischöfe", "Das Volk von Rom", "Nur die Kardinäle"],
+      "optionen": [
+        "Der Kaiser",
+        "Alle Bischöfe",
+        "Das Volk von Rom",
+        "Nur die Kardinäle"
+      ],
       "richtig": 3,
       "erklaerung": "Diese Regel setzte Gregor schon vor seiner eigenen Wahl durch – sie gilt bis heute."
     }

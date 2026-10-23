@@ -16,7 +16,11 @@
   "quelle": {
     "buch": "Kapitel 4 (Giganten der Geschichte und ihre Reiche), Kapitel 5, Kapitel 17 (Literaten)"
   },
-  "bild": null,
+  "bild": {
+    "datei": "augustus.jpg",
+    "credit": "Till Niermann · Wikimedia Commons (Statue-Augustus.jpg) · Public domain",
+    "quelle": "https://commons.wikimedia.org/wiki/File:Statue-Augustus.jpg"
+  },
   "hook": "Er schaffte die Republik ab – und ließ sich genau dafür als ihr Retter feiern.",
   "karten": [
     {
@@ -26,10 +30,22 @@
     {
       "typ": "steckbrief",
       "fakten": [
-        ["Lebte", "63 v. Chr.–14 n. Chr."],
-        ["Eigentlich", "Gaius Octavius"],
-        ["Familie", "Großneffe von Caesar"],
-        ["Bekannt für", "erster römischer Kaiser"]
+        [
+          "Lebte",
+          "63 v. Chr.–14 n. Chr."
+        ],
+        [
+          "Eigentlich",
+          "Gaius Octavius"
+        ],
+        [
+          "Familie",
+          "Großneffe von Caesar"
+        ],
+        [
+          "Bekannt für",
+          "erster römischer Kaiser"
+        ]
       ]
     },
     {
@@ -57,7 +73,12 @@
   "quiz": [
     {
       "frage": "Wie hieß Augustus eigentlich?",
-      "optionen": ["Gaius Octavius", "Marcus Antonius", "Marcus Iunius Brutus", "Gnaeus Pompeius"],
+      "optionen": [
+        "Gaius Octavius",
+        "Marcus Antonius",
+        "Marcus Iunius Brutus",
+        "Gnaeus Pompeius"
+      ],
       "richtig": 0,
       "erklaerung": "Gaius Octavius war Caesars Großneffe – „Augustus“ war ein Ehrentitel."
     },

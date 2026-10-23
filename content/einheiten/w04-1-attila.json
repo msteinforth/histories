@@ -16,7 +16,11 @@
   "quelle": {
     "buch": "Kapitel 5 (Eroberer: Geißeln Gottes)"
   },
-  "bild": null,
+  "bild": {
+    "datei": "attila.jpg",
+    "credit": "Giovio, Paolo, 1483-1552 · Wikimedia Commons (Attila portrait (imaginary), by Giovio Paolo, 1483-1552, published 1575.jpg) · Public domain",
+    "quelle": "https://commons.wikimedia.org/wiki/File:Attila_portrait_(imaginary),_by_Giovio_Paolo,_1483-1552,_published_1575.jpg"
+  },
   "hook": "Die Kirche nannte ihn „Geißel Gottes“ – doch wer ihn persönlich besuchte, erlebte etwas ganz anderes.",
   "karten": [
     {
@@ -26,10 +30,22 @@
     {
       "typ": "steckbrief",
       "fakten": [
-        ["Lebte", "gestorben 453"],
-        ["Volk", "die Hunnen, ein Reitervolk"],
-        ["Machtbereich", "vom heutigen Moldawien bis ins Burgenland"],
-        ["Bekannt für", "seinen Feldzug gegen Westrom 451"]
+        [
+          "Lebte",
+          "gestorben 453"
+        ],
+        [
+          "Volk",
+          "die Hunnen, ein Reitervolk"
+        ],
+        [
+          "Machtbereich",
+          "vom heutigen Moldawien bis ins Burgenland"
+        ],
+        [
+          "Bekannt für",
+          "seinen Feldzug gegen Westrom 451"
+        ]
       ]
     },
     {
@@ -57,19 +73,33 @@
   "quiz": [
     {
       "frage": "Wo stellte sich der Römer Aëtius Attila 451 entgegen?",
-      "optionen": ["Am Rubikon", "Auf den Katalaunischen Feldern", "Vor Konstantinopel", "Im Teutoburger Wald"],
+      "optionen": [
+        "Am Rubikon",
+        "Auf den Katalaunischen Feldern",
+        "Vor Konstantinopel",
+        "Im Teutoburger Wald"
+      ],
       "richtig": 1,
       "erklaerung": "Auf den Katalaunischen Feldern, vermutlich bei Troyes, gab es auf beiden Seiten hohe Verluste – Attila zog sich zurück."
     },
     {
       "frage": "Warum wandte sich Attila 451 vermutlich gegen Westrom?",
-      "optionen": ["Er wollte selbst römischer Kaiser werden", "Er wollte das Christentum auslöschen", "Ostrom zahlte keinen Tribut mehr, und der Balkan bot keine Beute mehr"],
+      "optionen": [
+        "Er wollte selbst römischer Kaiser werden",
+        "Er wollte das Christentum auslöschen",
+        "Ostrom zahlte keinen Tribut mehr, und der Balkan bot keine Beute mehr"
+      ],
       "richtig": 2,
       "erklaerung": "Ohne Beute konnte Attila seine Gefolgsleute nicht bei der Stange halten – also brauchte er ein neues Ziel."
     },
     {
       "frage": "Unter welchem Namen taucht Attila in den germanischen Sagen auf?",
-      "optionen": ["Etzel", "Dietrich", "Siegfried", "Rüdiger"],
+      "optionen": [
+        "Etzel",
+        "Dietrich",
+        "Siegfried",
+        "Rüdiger"
+      ],
       "richtig": 0,
       "erklaerung": "Als König Etzel kommt Attila zum Beispiel im Nibelungenlied vor – und zwar keineswegs als Monster."
     }

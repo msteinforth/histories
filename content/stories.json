@@ -281,7 +281,12 @@
         "kurz": "Ai",
         "lebensdaten": "525–456 v. Chr.",
         "rolle": "griechischer Dramatiker",
-        "bereich": "kunst"
+        "bereich": "kunst",
+        "bild": {
+          "datei": "aischylos.jpg",
+          "credit": "unbekannt · Wikimedia Commons (Aischylos Büste.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Aischylos_B%C3%BCste.jpg"
+        }
       },
       "titel": "3 Dinge über das erste Theater",
       "karten": [
@@ -306,7 +311,12 @@
         "kurz": "So",
         "lebensdaten": "um 496–406 v. Chr.",
         "rolle": "griechischer Dramatiker",
-        "bereich": "kunst"
+        "bereich": "kunst",
+        "bild": {
+          "datei": "sophokles.jpg",
+          "credit": "Gavingaebe · Wikimedia Commons (Head of Sophocles, Museo Barracco.jpg) · CC0",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Head_of_Sophocles,_Museo_Barracco.jpg"
+        }
       },
       "titel": "Der Erfolgreichste auf Athens Bühne",
       "karten": [
@@ -331,7 +341,12 @@
         "kurz": "Hi",
         "lebensdaten": "um 460–370 v. Chr.",
         "rolle": "griechischer Arzt",
-        "bereich": "entdeckung"
+        "bereich": "entdeckung",
+        "bild": {
+          "datei": "hippokrates.jpg",
+          "credit": "Paulus Pontius / After Peter Paul Rubens · Wikimedia Commons (Hippocrates rubens.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Hippocrates_rubens.jpg"
+        }
       },
       "titel": "3 Dinge über Hippokrates",
       "karten": [
@@ -356,7 +371,12 @@
         "kurz": "Ga",
         "lebensdaten": "um 130–210",
         "rolle": "Arzt aus Pergamon",
-        "bereich": "entdeckung"
+        "bereich": "entdeckung",
+        "bild": {
+          "datei": "galen.jpg",
+          "credit": "Pierre-Roch Vigneron · Wikimedia Commons (Galen detail.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Galen_detail.jpg"
+        }
       },
       "titel": "Der Arzt der Gladiatoren",
       "karten": [
@@ -381,7 +401,12 @@
         "kurz": "Ar",
         "lebensdaten": "384–322 v. Chr.",
         "rolle": "griechischer Universalgelehrter",
-        "bereich": "geist"
+        "bereich": "geist",
+        "bild": {
+          "datei": "aristoteles.jpg",
+          "credit": "After Lysippos · Wikimedia Commons (Aristotle Altemps Inv8575.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg"
+        }
       },
       "titel": "3 Dinge über Aristoteles",
       "karten": [
@@ -406,7 +431,12 @@
         "kurz": "Pe",
         "lebensdaten": "um 490–429 v. Chr.",
         "rolle": "Athener Politiker",
-        "bereich": "macht"
+        "bereich": "macht",
+        "bild": {
+          "datei": "perikles.jpg",
+          "credit": "Copy of Ktesilas · Wikimedia Commons (Pericles Pio-Clementino Inv269.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Pericles_Pio-Clementino_Inv269.jpg"
+        }
       },
       "titel": "Der Redner von Athen",
       "karten": [
@@ -431,7 +461,12 @@
         "kurz": "Al",
         "lebensdaten": "356–323 v. Chr.",
         "rolle": "makedonischer König",
-        "bereich": "macht"
+        "bereich": "macht",
+        "bild": {
+          "datei": "alexander.jpg",
+          "credit": "Tkbwikmed · Wikimedia Commons (Alexander1256.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Alexander1256.jpg"
+        }
       },
       "titel": "3 Dinge über Alexander",
       "karten": [
@@ -456,7 +491,12 @@
         "kurz": "Ac",
         "lebensdaten": "um 287–212 v. Chr.",
         "rolle": "griechischer Naturwissenschaftler",
-        "bereich": "entdeckung"
+        "bereich": "entdeckung",
+        "bild": {
+          "datei": "archimedes.jpg",
+          "credit": "Domenico Fetti · Wikimedia Commons (Domenico-Fetti Archimedes 1620.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Domenico-Fetti_Archimedes_1620.jpg"
+        }
       },
       "titel": "3 Dinge über Archimedes",
       "karten": [
@@ -481,7 +521,12 @@
         "kurz": "Eu",
         "lebensdaten": "spätes 4. oder 3. Jh. v. Chr.",
         "rolle": "griechischer Mathematiker",
-        "bereich": "entdeckung"
+        "bereich": "entdeckung",
+        "bild": {
+          "datei": "euklid.jpg",
+          "credit": "Jusepe de Ribera · Wikimedia Commons (Jusepe de Ribera - Euclid - 2001.26 - J. Paul Getty Museum.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Jusepe_de_Ribera_-_Euclid_-_2001.26_-_J._Paul_Getty_Museum.jpg"
+        }
       },
       "titel": "Der Mann hinter dem Mathebuch",
       "karten": [
@@ -506,7 +551,12 @@
         "kurz": "Sh",
         "lebensdaten": "259–210 v. Chr.",
         "rolle": "erster Kaiser von China",
-        "bereich": "macht"
+        "bereich": "macht",
+        "bild": {
+          "datei": "shihuangdi.jpg",
+          "credit": "Unknown artistUnknown artist · Wikimedia Commons (Qinshihuang.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Qinshihuang.jpg"
+        }
       },
       "titel": "3 Dinge über Shihuangdi",
       "karten": [
@@ -531,7 +581,12 @@
         "kurz": "Ha",
         "lebensdaten": "3./2. Jh. v. Chr.",
         "rolle": "karthagischer Feldherr",
-        "bereich": "macht"
+        "bereich": "macht",
+        "bild": {
+          "datei": "hannibal.jpg",
+          "credit": "Fratelli Alinari · Wikimedia Commons (Hannibal Barca bust from Capua photo.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Hannibal_Barca_bust_from_Capua_photo.jpg"
+        }
       },
       "titel": "Roms großer Albtraum",
       "karten": [
@@ -556,7 +611,12 @@
         "kurz": "Ca",
         "lebensdaten": "100–44 v. Chr.",
         "rolle": "römischer Feldherr und Politiker",
-        "bereich": "macht"
+        "bereich": "macht",
+        "bild": {
+          "datei": "caesar.jpg",
+          "credit": "- · Wikimedia Commons (Bust of Julius Caesar British Museum.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Bust_of_Julius_Caesar_British_Museum.jpg"
+        }
       },
       "titel": "3 Dinge über Caesar",
       "karten": [
@@ -581,7 +641,12 @@
         "kurz": "Kl",
         "lebensdaten": "69–30 v. Chr.",
         "rolle": "Königin von Ägypten",
-        "bereich": "macht"
+        "bereich": "macht",
+        "bild": {
+          "datei": "kleopatra.jpg",
+          "credit": "Marco21274 · Wikimedia Commons (Cleopatra-VII-Antikensammlung-Berlin.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Cleopatra-VII-Antikensammlung-Berlin.jpg"
+        }
       },
       "titel": "Die Königin im Teppich",
       "karten": [
@@ -606,7 +671,12 @@
         "kurz": "Au",
         "lebensdaten": "63 v. Chr.–14 n. Chr.",
         "rolle": "erster römischer Kaiser",
-        "bereich": "macht"
+        "bereich": "macht",
+        "bild": {
+          "datei": "augustus.jpg",
+          "credit": "Till Niermann · Wikimedia Commons (Statue-Augustus.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Statue-Augustus.jpg"
+        }
       },
       "titel": "3 Dinge über Augustus",
       "karten": [
@@ -631,7 +701,12 @@
         "kurz": "Ne",
         "lebensdaten": "37–68",
         "rolle": "römischer Kaiser",
-        "bereich": "macht"
+        "bereich": "macht",
+        "bild": {
+          "datei": "nero.jpg",
+          "credit": "Ewan ar Born · Wikimedia Commons (443px-Nero bust-fr.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:443px-Nero_bust-fr.jpg"
+        }
       },
       "titel": "Der Kaiser und das Feuer",
       "karten": [
@@ -656,7 +731,12 @@
         "kurz": "Je",
         "lebensdaten": "um 7 v. Chr.–30 n. Chr.",
         "rolle": "Stifter des Christentums",
-        "bereich": "geist"
+        "bereich": "geist",
+        "bild": {
+          "datei": "jesus.jpg",
+          "credit": "Photograph: Myrabella · Wikimedia Commons (Christ Pantocrator Deesis mosaic Hagia Sophia.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Christ_Pantocrator_Deesis_mosaic_Hagia_Sophia.jpg"
+        }
       },
       "titel": "3 Dinge über Jesu Umfeld",
       "karten": [
@@ -681,7 +761,12 @@
         "kurz": "Pa",
         "lebensdaten": "1. Jh. n. Chr.",
         "rolle": "Apostel und Missionar",
-        "bereich": "geist"
+        "bereich": "geist",
+        "bild": {
+          "datei": "paulus.jpg",
+          "credit": "Rembrandt · Wikimedia Commons (Rembrandt - Apostle Paul - WGA19120.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Rembrandt_-_Apostle_Paul_-_WGA19120.jpg"
+        }
       },
       "titel": "Vom Verfolger zum Missionar",
       "karten": [
@@ -706,7 +791,12 @@
         "kurz": "Ag",
         "lebensdaten": "354–430",
         "rolle": "christlicher Theologe",
-        "bereich": "geist"
+        "bereich": "geist",
+        "bild": {
+          "datei": "augustinus.jpg",
+          "credit": "Philippe de Champaigne · Wikimedia Commons (Philippe de Champaigne - Saint Augustine - LACMA - without frame.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Philippe_de_Champaigne_-_Saint_Augustine_-_LACMA_-_without_frame.jpg"
+        }
       },
       "titel": "3 Dinge über Augustinus",
       "karten": [
@@ -731,7 +821,12 @@
         "kurz": "Ko",
         "lebensdaten": "um 270–337",
         "rolle": "römischer Kaiser",
-        "bereich": "macht"
+        "bereich": "macht",
+        "bild": {
+          "datei": "konstantin.jpg",
+          "credit": "Marie-Lan Nguyen · Wikimedia Commons (Constantine Chiaramonti Inv1749.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Constantine_Chiaramonti_Inv1749.jpg"
+        }
       },
       "titel": "Der Kaiser, der die Christen erlaubte",
       "karten": [
@@ -756,7 +851,12 @@
         "kurz": "At",
         "lebensdaten": "gest. 453",
         "rolle": "König der Hunnen",
-        "bereich": "macht"
+        "bereich": "macht",
+        "bild": {
+          "datei": "attila.jpg",
+          "credit": "Giovio, Paolo, 1483-1552 · Wikimedia Commons (Attila portrait (imaginary), by Giovio Paolo, 1483-1552, published 1575.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Attila_portrait_(imaginary),_by_Giovio_Paolo,_1483-1552,_published_1575.jpg"
+        }
       },
       "titel": "3 Dinge über die Hunnen",
       "karten": [
@@ -781,7 +881,12 @@
         "kurz": "Th",
         "lebensdaten": "um 451–526",
         "rolle": "König der Ostgoten in Italien",
-        "bereich": "macht"
+        "bereich": "macht",
+        "bild": {
+          "datei": "theoderich.jpg",
+          "credit": "Hermann Knackfuß · Wikimedia Commons (Hermann Knackfuß - Theoderic the Great.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Hermann_Knackfu%C3%9F_-_Theoderic_the_Great.jpg"
+        }
       },
       "titel": "Der gute König von Ravenna",
       "karten": [
@@ -831,7 +936,12 @@
         "kurz": "Ju",
         "lebensdaten": "um 482–565",
         "rolle": "oströmischer Kaiser",
-        "bereich": "macht"
+        "bereich": "macht",
+        "bild": {
+          "datei": "justinian.jpg",
+          "credit": "Meister von San Vitale in Ravenna · Wikimedia Commons (Meister von San Vitale in Ravenna 003.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Meister_von_San_Vitale_in_Ravenna_003.jpg"
+        }
       },
       "titel": "Der schlaflose Kaiser",
       "karten": [
@@ -856,7 +966,12 @@
         "kurz": "Ka",
         "lebensdaten": "um 747–814",
         "rolle": "König der Franken und Kaiser",
-        "bereich": "macht"
+        "bereich": "macht",
+        "bild": {
+          "datei": "karl.jpg",
+          "credit": "Albrecht Dürer · Wikimedia Commons (Albrecht Dürer - Emperor Charlemagne (cropped).jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Emperor_Charlemagne_(cropped).jpg"
+        }
       },
       "titel": "3 Dinge über Karls Familie und Feldzüge",
       "karten": [
@@ -881,7 +996,12 @@
         "kurz": "Ei",
         "lebensdaten": "um 770–840",
         "rolle": "Biograf Karls des Großen",
-        "bereich": "kunst"
+        "bereich": "kunst",
+        "bild": {
+          "datei": "einhard.jpg",
+          "credit": "unbekannt · Wikimedia Commons (Einhard.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Einhard.jpg"
+        }
       },
       "titel": "Der Mann, der Karl berühmt machte",
       "karten": [
@@ -906,7 +1026,12 @@
         "kurz": "IS",
         "lebensdaten": "980–1037",
         "rolle": "persischer Arzt und Gelehrter",
-        "bereich": "entdeckung"
+        "bereich": "entdeckung",
+        "bild": {
+          "datei": "ibnsina.jpg",
+          "credit": "Beckwith · Wikimedia Commons (Avicenna.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Avicenna.jpg"
+        }
       },
       "titel": "3 Dinge über Medizin im Orient",
       "karten": [
@@ -931,7 +1056,12 @@
         "kurz": "Gr",
         "lebensdaten": "um 1027–1085",
         "rolle": "Papst",
-        "bereich": "geist"
+        "bereich": "geist",
+        "bild": {
+          "datei": "gregor.jpg",
+          "credit": "unbekannt · Wikimedia Commons (Pope Gregory VII.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Pope_Gregory_VII.jpg"
+        }
       },
       "titel": "3 Dinge über die Päpste vor Gregor",
       "karten": [
@@ -956,7 +1086,12 @@
         "kurz": "He",
         "lebensdaten": "1050–1106",
         "rolle": "römisch-deutscher König und Kaiser",
-        "bereich": "macht"
+        "bereich": "macht",
+        "bild": {
+          "datei": "heinrichiv.jpg",
+          "credit": "AnonymousUnknown author · Wikimedia Commons (Heinrich 4 g.jpg) · Public domain",
+          "quelle": "https://commons.wikimedia.org/wiki/File:Heinrich_4_g.jpg"
+        }
       },
       "titel": "Der König, der nach Canossa ging",
       "karten": [

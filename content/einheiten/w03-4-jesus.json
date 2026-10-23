@@ -16,7 +16,11 @@
   "quelle": {
     "buch": "Kapitel 9 (Die bunte Riege der Religionsgründer), Kapitel 10 (Heilige)"
   },
-  "bild": null,
+  "bild": {
+    "datei": "jesus.jpg",
+    "credit": "Photograph: Myrabella · Wikimedia Commons (Christ Pantocrator Deesis mosaic Hagia Sophia.jpg) · Public domain",
+    "quelle": "https://commons.wikimedia.org/wiki/File:Christ_Pantocrator_Deesis_mosaic_Hagia_Sophia.jpg"
+  },
   "hook": "Die halbe Welt zählt die Jahre nach seiner Geburt – und hat sich dabei wohl verrechnet.",
   "karten": [
     {
@@ -26,10 +30,22 @@
     {
       "typ": "steckbrief",
       "fakten": [
-        ["Lebte", "um 7 v. Chr.–30 n. Chr."],
-        ["Herkunft", "Nazareth, Sohn eines Bauhandwerkers"],
-        ["Gefolge", "zwölf Apostel und eine Gruppe von Frauen"],
-        ["Quellen", "vier Evangelien, um 70–100 n. Chr."]
+        [
+          "Lebte",
+          "um 7 v. Chr.–30 n. Chr."
+        ],
+        [
+          "Herkunft",
+          "Nazareth, Sohn eines Bauhandwerkers"
+        ],
+        [
+          "Gefolge",
+          "zwölf Apostel und eine Gruppe von Frauen"
+        ],
+        [
+          "Quellen",
+          "vier Evangelien, um 70–100 n. Chr."
+        ]
       ]
     },
     {
@@ -57,7 +73,12 @@
   "quiz": [
     {
       "frage": "Wann wurde Jesus nach heutiger Forschung vermutlich geboren?",
-      "optionen": ["Im Jahr 1", "Im Jahr 0", "Um 30 v. Chr.", "Zwischen 7 und 4 v. Chr."],
+      "optionen": [
+        "Im Jahr 1",
+        "Im Jahr 0",
+        "Um 30 v. Chr.",
+        "Zwischen 7 und 4 v. Chr."
+      ],
       "richtig": 3,
       "erklaerung": "Unsere Zeitrechnung orientiert sich an seinem mutmaßlichen Geburtsjahr – das aber wohl ein paar Jahre früher lag."
     },
@@ -73,7 +94,12 @@
     },
     {
       "frage": "Wann entstanden die vier Evangelien?",
-      "optionen": ["Noch zu Jesu Lebzeiten", "Im Mittelalter", "Zwischen 70 und 100 n. Chr.", "Um 300 n. Chr."],
+      "optionen": [
+        "Noch zu Jesu Lebzeiten",
+        "Im Mittelalter",
+        "Zwischen 70 und 100 n. Chr.",
+        "Um 300 n. Chr."
+      ],
       "richtig": 2,
       "erklaerung": "Sie wurden nicht lange nach seinem Tod verfasst und sind historisch-kritisch gründlich erforscht."
     }

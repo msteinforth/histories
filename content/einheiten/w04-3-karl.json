@@ -16,7 +16,11 @@
   "quelle": {
     "buch": "Kapitel 4 (Nationalhelden: Die drei Großen des Frankenreichs)"
   },
-  "bild": null,
+  "bild": {
+    "datei": "karl.jpg",
+    "credit": "Albrecht Dürer · Wikimedia Commons (Albrecht Dürer - Emperor Charlemagne (cropped).jpg) · Public domain",
+    "quelle": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Emperor_Charlemagne_(cropped).jpg"
+  },
   "hook": "Er bekam an Weihnachten eine Kaiserkrone – und soll davon völlig überrascht gewesen sein. Glaubst du das?",
   "karten": [
     {
@@ -26,10 +30,22 @@
     {
       "typ": "steckbrief",
       "fakten": [
-        ["Lebte", "um 747–814"],
-        ["Reich", "das Frankenreich – von ihm stark vergrößert"],
-        ["Vater", "Pippin, der den letzten Merowingerkönig absetzte"],
-        ["Bekannt für", "die Kaiserkrönung am Weihnachtstag 800"]
+        [
+          "Lebte",
+          "um 747–814"
+        ],
+        [
+          "Reich",
+          "das Frankenreich – von ihm stark vergrößert"
+        ],
+        [
+          "Vater",
+          "Pippin, der den letzten Merowingerkönig absetzte"
+        ],
+        [
+          "Bekannt für",
+          "die Kaiserkrönung am Weihnachtstag 800"
+        ]
       ]
     },
     {
@@ -57,19 +73,33 @@
   "quiz": [
     {
       "frage": "Wer krönte Karl am Weihnachtstag 800 zum Kaiser?",
-      "optionen": ["Papst Gregor VII.", "Sein Vater Pippin", "Der Kaiser von Byzanz", "Papst Leo III."],
+      "optionen": [
+        "Papst Gregor VII.",
+        "Sein Vater Pippin",
+        "Der Kaiser von Byzanz",
+        "Papst Leo III."
+      ],
       "richtig": 3,
       "erklaerung": "Papst Leo III. setzte Karl im Jahr 800 in Rom die Kaiserkrone auf."
     },
     {
       "frage": "Welchen Anspruch verband Karl mit der Kaiserkrönung?",
-      "optionen": ["Er wollte auf weitere Eroberungen verzichten", "Er sah sich als Erneuerer des weströmischen Reichs", "Er wollte selbst Papst werden"],
+      "optionen": [
+        "Er wollte auf weitere Eroberungen verzichten",
+        "Er sah sich als Erneuerer des weströmischen Reichs",
+        "Er wollte selbst Papst werden"
+      ],
       "richtig": 1,
       "erklaerung": "Karl wollte das untergegangene (west-)römische Reich erneuern – daher der spätere Name „Heiliges Römisches Reich“."
     },
     {
       "frage": "Welcher Feldzug war Karls blutigster?",
-      "optionen": ["Der Krieg in Spanien", "Der Kampf gegen die Langobarden", "Die Sachsenkriege", "Der Zug gegen die Bretagne"],
+      "optionen": [
+        "Der Krieg in Spanien",
+        "Der Kampf gegen die Langobarden",
+        "Die Sachsenkriege",
+        "Der Zug gegen die Bretagne"
+      ],
       "richtig": 2,
       "erklaerung": "Die Sachsenkriege zogen sich mit Unterbrechungen 32 Jahre hin – selbst Karls Vertraute fanden sein Vorgehen zu brutal."
     }

@@ -16,7 +16,11 @@
   "quelle": {
     "buch": "Kapitel 15 (Klöster und Akademien: die Medizin im Mittelalter), Kapitel 11, Kapitel 1, Kapitel 2"
   },
-  "bild": null,
+  "bild": {
+    "datei": "ibnsina.jpg",
+    "credit": "Beckwith · Wikimedia Commons (Avicenna.jpg) · Public domain",
+    "quelle": "https://commons.wikimedia.org/wiki/File:Avicenna.jpg"
+  },
   "hook": "Sein Medizinbuch war über 500 Jahre lang Standard – bis ein Schweizer Arzt es ins Feuer warf.",
   "karten": [
     {
@@ -26,11 +30,26 @@
     {
       "typ": "steckbrief",
       "fakten": [
-        ["Lebte", "980–1037"],
-        ["Herkunft", "Persien"],
-        ["Namen", "Ibn Sina, im Westen Avicenna"],
-        ["Beruf", "Arzt, Naturforscher, Philosoph"],
-        ["Bekannt für", "den „Kanon der Medizin“"]
+        [
+          "Lebte",
+          "980–1037"
+        ],
+        [
+          "Herkunft",
+          "Persien"
+        ],
+        [
+          "Namen",
+          "Ibn Sina, im Westen Avicenna"
+        ],
+        [
+          "Beruf",
+          "Arzt, Naturforscher, Philosoph"
+        ],
+        [
+          "Bekannt für",
+          "den „Kanon der Medizin“"
+        ]
       ]
     },
     {
@@ -58,19 +77,33 @@
   "quiz": [
     {
       "frage": "Wie heißt Ibn Sinas berühmtes Lehrbuch?",
-      "optionen": ["Sushruta Samhita", "Kanon der Medizin", "Corpus iuris civilis", "Vita Karoli Magni"],
+      "optionen": [
+        "Sushruta Samhita",
+        "Kanon der Medizin",
+        "Corpus iuris civilis",
+        "Vita Karoli Magni"
+      ],
       "richtig": 1,
       "erklaerung": "Der „Kanon der Medizin“ war in Europa über 500 Jahre lang das medizinische Standardwerk."
     },
     {
       "frage": "Warum sagt man heute meist „Ibn Sina“ statt „Avicenna“?",
-      "optionen": ["Weil Avicenna ein anderer Arzt war", "Weil er sich selbst umbenannt hat", "Weil westlich angepasste Namen heute als nicht mehr korrekt gelten"],
+      "optionen": [
+        "Weil Avicenna ein anderer Arzt war",
+        "Weil er sich selbst umbenannt hat",
+        "Weil westlich angepasste Namen heute als nicht mehr korrekt gelten"
+      ],
       "richtig": 2,
       "erklaerung": "„Avicenna“ ist eine europäische Anpassung seines Namens – heute bevorzugt man die ursprüngliche Form."
     },
     {
       "frage": "Was tat Paracelsus mit Ibn Sinas Büchern?",
-      "optionen": ["Er übersetzte sie ins Deutsche", "Er ließ sie drucken", "Er schenkte sie dem Papst", "Er verbrannte sie"],
+      "optionen": [
+        "Er übersetzte sie ins Deutsche",
+        "Er ließ sie drucken",
+        "Er schenkte sie dem Papst",
+        "Er verbrannte sie"
+      ],
       "richtig": 3,
       "erklaerung": "Paracelsus hielt die Ausbildung seiner Zeit für zu theorielastig und verbrannte in Basel die Bücher von Galen und Ibn Sina."
     }

@@ -16,7 +16,11 @@
   "quelle": {
     "buch": "Kapitel 10 (Heilige: Stars ihrer Zeit), Kapitel 9 (Glaubenseifer und Gewissensqualen)"
   },
-  "bild": null,
+  "bild": {
+    "datei": "augustinus.jpg",
+    "credit": "Philippe de Champaigne · Wikimedia Commons (Philippe de Champaigne - Saint Augustine - LACMA - without frame.jpg) · Public domain",
+    "quelle": "https://commons.wikimedia.org/wiki/File:Philippe_de_Champaigne_-_Saint_Augustine_-_LACMA_-_without_frame.jpg"
+  },
   "hook": "Er schrieb offen über seine wilde Jugend – und wurde einer der mächtigsten Denker des Christentums.",
   "karten": [
     {
@@ -26,10 +30,22 @@
     {
       "typ": "steckbrief",
       "fakten": [
-        ["Lebte", "354–430"],
-        ["Herkunft", "Numidien, Nordafrika"],
-        ["Amt", "Bischof von Hippo, heute Annaba in Algerien"],
-        ["Bekannt für", "die „Bekenntnisse“ (Confessiones)"]
+        [
+          "Lebte",
+          "354–430"
+        ],
+        [
+          "Herkunft",
+          "Numidien, Nordafrika"
+        ],
+        [
+          "Amt",
+          "Bischof von Hippo, heute Annaba in Algerien"
+        ],
+        [
+          "Bekannt für",
+          "die „Bekenntnisse“ (Confessiones)"
+        ]
       ]
     },
     {
@@ -57,7 +73,12 @@
   "quiz": [
     {
       "frage": "Wo war Augustinus Bischof?",
-      "optionen": ["In Mailand", "In Hippo in Nordafrika", "In Rom", "In Jerusalem"],
+      "optionen": [
+        "In Mailand",
+        "In Hippo in Nordafrika",
+        "In Rom",
+        "In Jerusalem"
+      ],
       "richtig": 1,
       "erklaerung": "Hippo ist das heutige Annaba in Algerien – in Mailand wurde er nur getauft."
     },
