@@ -81,8 +81,9 @@ def search(query):
 
 def choose(entry):
     titles = list(entry.get("kandidaten", []))
-    if entry.get("suche"):
-        titles += [t for t in search(entry["suche"]) if t not in titles]
+    suchen = entry.get("suche") or []
+    for q in [suchen] if isinstance(suchen, str) else suchen:
+        titles += [t for t in search(q) if t not in titles]
     found = info(titles[:50]) if titles else {}
     for t in titles:
         f = found.get(t) or found.get(t.replace("_", " "))

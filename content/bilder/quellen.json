@@ -29,25 +29,29 @@
   },
   "laotse": {
     "kandidaten": [
+      "File:Zhang Lu-Laozi Riding an Ox (cropped).jpg",
       "File:Zhang Lu-Laozi Riding an Ox.jpg"
-    ],
-    "suche": "Laozi riding ox painting"
+    ]
   },
   "platon": {
     "kandidaten": [
-      "File:Plato Silanion Musei Capitolini MC1377.jpg"
-    ],
-    "suche": "Plato bust Silanion"
+      "File:Plato Silanion Musei Capitolini MC1377 (cropped).jpg",
+      "File:Plato Silanion Musei Capitolini MC1377.png"
+    ]
   },
   "dareios": {
     "kandidaten": [],
-    "suche": "Darius I relief Persepolis"
+    "suche": [
+      "Darius the Great engraving",
+      "Behistun relief drawing Darius",
+      "Darius I king portrait",
+      "Darius vase"
+    ]
   },
   "diogenes": {
     "kandidaten": [
       "File:Jean-Léon Gérôme - Diogenes - Walters 37131.jpg",
       "File:Waterhouse-Diogenes.jpg"
-    ],
-    "suche": "Diogenes painting"
+    ]
   }
 }
