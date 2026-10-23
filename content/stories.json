@@ -270,6 +270,706 @@
           "text": "Von seinen Werken ist kein einziges erhalten. Trotzdem ist er einer der bekanntesten Philosophen der Antike – dank einer richtig guten Anekdote."
         }
       ]
+    },
+    {
+      "id": "aischylos-mehr",
+      "typ": "haupt",
+      "freischaltung": "w02-1-aischylos",
+      "person": {
+        "id": "aischylos",
+        "name": "Aischylos",
+        "kurz": "Ai",
+        "lebensdaten": "525–456 v. Chr.",
+        "rolle": "griechischer Dramatiker",
+        "bereich": "kunst"
+      },
+      "titel": "3 Dinge über das erste Theater",
+      "karten": [
+        {
+          "text": "Die Geburtsstunde des Theaters lässt sich genau datieren: 534 v. Chr. stellte ein Wanderdichter namens Thespis dem Chor einen einzelnen Darsteller gegenüber – der spielte den Gott Dionysos selbst."
+        },
+        {
+          "text": "In seinem Stück „Agamemnon“ beschreibt Aischylos, wie die Griechen den Sieg über Troja nach Hause meldeten: mit einer Kette von Feuerzeichen. Von Feuer zu Feuer, wie eine Flammenpost."
+        },
+        {
+          "text": "Euripides, ein jüngerer Kollege, schockierte das Publikum mit rachsüchtigen Frauenfiguren wie Medea und Elektra. Deshalb war er lange nicht so beliebt wie Sophokles."
+        }
+      ]
+    },
+    {
+      "id": "sophokles",
+      "typ": "neben",
+      "freischaltung": "w02-1-aischylos",
+      "person": {
+        "id": "sophokles",
+        "name": "Sophokles",
+        "kurz": "So",
+        "lebensdaten": "um 496–406 v. Chr.",
+        "rolle": "griechischer Dramatiker",
+        "bereich": "kunst"
+      },
+      "titel": "Der Erfolgreichste auf Athens Bühne",
+      "karten": [
+        {
+          "text": "Sophokles war der erfolgreichste und fleißigste Tragödiendichter Griechenlands. Er holte einen dritten Schauspieler auf die Bühne und feilte an seinen Figuren. Die Götter rückten in den Hintergrund."
+        },
+        {
+          "text": "Seine Stücke über Ödipus, der unwissentlich seinen Vater tötet und seine Mutter heiratet, und über dessen Tochter Antigone, die sich einem Tyrannen widersetzt, werden bis heute gespielt."
+        },
+        {
+          "text": "Mit seinem Konkurrenten Euripides war er befreundet und bewunderte ihn sehr – obwohl das Publikum Sophokles klar lieber mochte."
+        }
+      ]
+    },
+    {
+      "id": "hippokrates-mehr",
+      "typ": "haupt",
+      "freischaltung": "w02-2-hippokrates",
+      "person": {
+        "id": "hippokrates",
+        "name": "Hippokrates von Kos",
+        "kurz": "Hi",
+        "lebensdaten": "um 460–370 v. Chr.",
+        "rolle": "griechischer Arzt",
+        "bereich": "entdeckung"
+      },
+      "titel": "3 Dinge über Hippokrates",
+      "karten": [
+        {
+          "text": "Der alte Eid enthielt kuriose Versprechen: den eigenen Lehrer in Not wie die Eltern zu versorgen und keine Blasensteine zu operieren – dafür gab es Spezialisten. Beides fehlt in der heutigen Fassung."
+        },
+        {
+          "text": "Über sein Leben weiß man wenig. Aber sein Grab wurde Anfang des 19. Jahrhunderts gefunden: in Larisa in Thessalien."
+        },
+        {
+          "text": "Ein späterer Arzt soll am schnellen Puls eines Prinzen erkannt haben, dass der nicht krank, sondern unglücklich verliebt war. Die Geschichte kann nicht stimmen – wurde aber ein beliebtes Bildmotiv."
+        }
+      ]
+    },
+    {
+      "id": "galen",
+      "typ": "neben",
+      "freischaltung": "w02-2-hippokrates",
+      "person": {
+        "id": "galen",
+        "name": "Galen",
+        "kurz": "Ga",
+        "lebensdaten": "um 130–210",
+        "rolle": "Arzt aus Pergamon",
+        "bereich": "entdeckung"
+      },
+      "titel": "Der Arzt der Gladiatoren",
+      "karten": [
+        {
+          "text": "Galen aus Pergamon versorgte zuerst verwundete Gladiatoren und betreute Sportler bei den Olympischen Spielen. Später ging er nach Rom und war wohl Leibarzt von Kaiser Marc Aurel."
+        },
+        {
+          "text": "Er baute die Idee des Hippokrates zur Vier-Säfte-Lehre aus: Blut, gelbe Galle, schwarze Galle, Schleim. Daher stammen Wörter wie Choleriker, Melancholiker oder Phlegmatiker."
+        },
+        {
+          "text": "Seine Lehre galt bis in die Neuzeit. Erst Andreas Vesalius wies im 16. Jahrhundert viele Fehler nach – Galen hatte nämlich nur Affen seziert, keine Menschen."
+        }
+      ]
+    },
+    {
+      "id": "aristoteles-mehr",
+      "typ": "haupt",
+      "freischaltung": "w02-3-aristoteles",
+      "person": {
+        "id": "aristoteles",
+        "name": "Aristoteles",
+        "kurz": "Ar",
+        "lebensdaten": "384–322 v. Chr.",
+        "rolle": "griechischer Universalgelehrter",
+        "bereich": "geist"
+      },
+      "titel": "3 Dinge über Aristoteles",
+      "karten": [
+        {
+          "text": "Aristoteles dachte über eine Ursache aller Bewegung nach, einen „unbewegten Beweger“. Christliche Denker machten daraus später einen Beweis für Gott."
+        },
+        {
+          "text": "Der Gelehrte Ibn Ruschd aus Cordoba war ein solcher Fan, dass er das gesamte Werk von Aristoteles kommentierte – manchmal etwas zu unkritisch."
+        },
+        {
+          "text": "Auch Aristoteles lag mal daneben: Über den Perserkönig Kyros behauptete er, der habe den eroberten Völkern die Freiheit gebracht. Eine ziemlich steile These über einen Eroberer."
+        }
+      ]
+    },
+    {
+      "id": "perikles",
+      "typ": "neben",
+      "freischaltung": "w02-3-aristoteles",
+      "person": {
+        "id": "perikles",
+        "name": "Perikles",
+        "kurz": "Pe",
+        "lebensdaten": "um 490–429 v. Chr.",
+        "rolle": "Athener Politiker",
+        "bereich": "macht"
+      },
+      "titel": "Der Redner von Athen",
+      "karten": [
+        {
+          "text": "Perikles prägte Athens „Goldenes Zeitalter“. Dafür brauchte er kein mächtiges Amt – er redete so gut, dass die Volksversammlung fast allem zustimmte, was er vorschlug."
+        },
+        {
+          "text": "Er sorgte dafür, dass Politiker bezahlt wurden. So konnten auch weniger Reiche Ämter übernehmen. Außerdem ließ er die Akropolis neu bebauen, die im Krieg gegen die Perser zerstört worden war."
+        },
+        {
+          "text": "431 v. Chr. riet er zum Krieg gegen Sparta. Als der schlecht lief und eine Seuche ausbrach, setzten ihn die Athener ab und verhängten eine hohe Geldstrafe."
+        }
+      ]
+    },
+    {
+      "id": "alexander-mehr",
+      "typ": "haupt",
+      "freischaltung": "w02-4-alexander",
+      "person": {
+        "id": "alexander",
+        "name": "Alexander der Große",
+        "kurz": "Al",
+        "lebensdaten": "356–323 v. Chr.",
+        "rolle": "makedonischer König",
+        "bereich": "macht"
+      },
+      "titel": "3 Dinge über Alexander",
+      "karten": [
+        {
+          "text": "Sein Hofmaler Apelles soll sich beim Porträtieren in Alexanders Geliebte Kampaspe verliebt haben. Alexander überließ sie ihm angeblich – eine Szene, die später viele Maler darstellten."
+        },
+        {
+          "text": "Im Mittelalter erzählten Alexanderromane, er habe nach Indien noch Märchenländer erobert und sogar das Paradies gewollt. Am Ende legt er seinen Hochmut ab und wird ein gerechter König."
+        },
+        {
+          "text": "Nach seinem Tod teilten seine Generäle das Reich auf. Seleukos bekam den asiatischen Teil, Ptolemaios Ägypten – seine Familie herrschte dort danach als Dynastie der Ptolemäer."
+        }
+      ]
+    },
+    {
+      "id": "archimedes-mehr",
+      "typ": "haupt",
+      "freischaltung": "w02-5-archimedes",
+      "person": {
+        "id": "archimedes",
+        "name": "Archimedes von Syrakus",
+        "kurz": "Ac",
+        "lebensdaten": "um 287–212 v. Chr.",
+        "rolle": "griechischer Naturwissenschaftler",
+        "bereich": "entdeckung"
+      },
+      "titel": "3 Dinge über Archimedes",
+      "karten": [
+        {
+          "text": "Studiert hatte Archimedes in Alexandria in Ägypten. Die dortige Universität hatte König Ptolemaios II. gegründet – sie war ein Zentrum der griechischen Wissenschaft."
+        },
+        {
+          "text": "Sein Förderer war Hieron II., der Syrakus von 269 bis 215 v. Chr. regierte. Ihm gehörte auch die berühmte Krone, die Archimedes mit Wasser überprüfte."
+        },
+        {
+          "text": "Die Römer interessierte an der griechischen Mathematik nur, was sich praktisch nutzen ließ – etwa für ihre Bauten. Neue mathematische Erkenntnisse kamen von ihnen kaum."
+        }
+      ]
+    },
+    {
+      "id": "euklid",
+      "typ": "neben",
+      "freischaltung": "w02-5-archimedes",
+      "person": {
+        "id": "euklid",
+        "name": "Euklid",
+        "kurz": "Eu",
+        "lebensdaten": "spätes 4. oder 3. Jh. v. Chr.",
+        "rolle": "griechischer Mathematiker",
+        "bereich": "entdeckung"
+      },
+      "titel": "Der Mann hinter dem Mathebuch",
+      "karten": [
+        {
+          "text": "Über Euklid selbst weiß man fast nichts. Er lebte wohl in Alexandria, vielleicht im späten 4., vielleicht erst im 3. Jahrhundert v. Chr."
+        },
+        {
+          "text": "In den 13 Bänden seiner „Elemente“ fasste er die Mathematik seiner Zeit zusammen. Vor allem setzte er streng logische Beweise durch – die Grundlage aller späteren Mathematik."
+        },
+        {
+          "text": "Bis ins späte 19. Jahrhundert lernten Schüler mit seinen „Elementen“. Nach der Bibel galten sie als das am weitesten verbreitete Buch."
+        }
+      ]
+    },
+    {
+      "id": "shihuangdi-mehr",
+      "typ": "haupt",
+      "freischaltung": "w03-1-shihuangdi",
+      "person": {
+        "id": "shihuangdi",
+        "name": "Shihuangdi",
+        "kurz": "Sh",
+        "lebensdaten": "259–210 v. Chr.",
+        "rolle": "erster Kaiser von China",
+        "bereich": "macht"
+      },
+      "titel": "3 Dinge über Shihuangdi",
+      "karten": [
+        {
+          "text": "Einer seiner Kanäle verbindet Nordchina mit dem Perlflussdelta an der Südküste – und ist heute noch in Betrieb. Gegraben haben ihn Menschen, die zur Arbeit gezwungen wurden."
+        },
+        {
+          "text": "In seiner Hauptstadt Xianyang ließ er mehrere Hundert Paläste, Pavillons und Parks anlegen. Auch das erledigten Zwangsarbeiter."
+        },
+        {
+          "text": "Ironie der Geschichte: Er hatte die Lehre des Konfuzius verboten. Die Han-Kaiser nach ihm machten genau sie zur Staatsdoktrin – mit Unterbrechungen bis 1912."
+        }
+      ]
+    },
+    {
+      "id": "hannibal",
+      "typ": "neben",
+      "freischaltung": "w03-1-shihuangdi",
+      "person": {
+        "id": "hannibal",
+        "name": "Hannibal",
+        "kurz": "Ha",
+        "lebensdaten": "3./2. Jh. v. Chr.",
+        "rolle": "karthagischer Feldherr",
+        "bereich": "macht"
+      },
+      "titel": "Roms großer Albtraum",
+      "karten": [
+        {
+          "text": "Während Shihuangdi China einte, kämpfte im Westen Rom um die Vorherrschaft. Sein gefährlichster Gegner: Hannibal aus Karthago. 13 Jahre lang führte er in Italien Krieg."
+        },
+        {
+          "text": "Gestoppt hat ihn der Römer Scipio mit einem Trick: Er griff Karthagos Kernland in Afrika an. Hannibal musste heimkehren und verlor 202 v. Chr. bei Zama. Scipio hieß fortan „Africanus“."
+        },
+        {
+          "text": "Kurios: Berühmt gemacht haben Hannibal ausgerechnet die Geschichtsschreiber seiner Feinde. Die Römer erzählten so viel über ihn, dass sein Name bis heute bekannt ist."
+        }
+      ]
+    },
+    {
+      "id": "caesar-mehr",
+      "typ": "haupt",
+      "freischaltung": "w03-2-caesar",
+      "person": {
+        "id": "caesar",
+        "name": "Gaius Iulius Caesar",
+        "kurz": "Ca",
+        "lebensdaten": "100–44 v. Chr.",
+        "rolle": "römischer Feldherr und Politiker",
+        "bereich": "macht"
+      },
+      "titel": "3 Dinge über Caesar",
+      "karten": [
+        {
+          "text": "Sein Rivale Pompeius floh nach Ägypten. Dort ließen ihn die Leute um den 13-jährigen König Ptolemaios XIII. töten – sie wollten sich bei Caesar beliebt machen."
+        },
+        {
+          "text": "Der berühmte Redner Cicero warf Caesar vor, die Republik zu zerstören. Nach Caesars Tod ermordeten Anhänger von Marcus Antonius auch ihn."
+        },
+        {
+          "text": "Der griechische Autor Plutarch stellte in seinen Doppel-Biografien je einen Griechen und einen Römer nebeneinander. Caesars Partner: Alexander der Große."
+        }
+      ]
+    },
+    {
+      "id": "kleopatra",
+      "typ": "neben",
+      "freischaltung": "w03-2-caesar",
+      "person": {
+        "id": "kleopatra",
+        "name": "Kleopatra VII.",
+        "kurz": "Kl",
+        "lebensdaten": "69–30 v. Chr.",
+        "rolle": "Königin von Ägypten",
+        "bereich": "macht"
+      },
+      "titel": "Die Königin im Teppich",
+      "karten": [
+        {
+          "text": "Kleopatra regierte Ägypten zusammen mit ihrem Bruder und Ehemann Ptolemaios XIII. – und war seine erbitterte Feindin. Er hatte sie verjagt."
+        },
+        {
+          "text": "Also schmuggelte sie sich in Caesars Lager, angeblich in einen Teppich gewickelt, und zog ihn auf ihre Seite. Ihre Liebschaft war in Rom Klatschthema Nummer eins."
+        },
+        {
+          "text": "46 v. Chr. kam sie selbst nach Rom und hielt dort prunkvoll Hof. Später verliebte sich Marcus Antonius in sie – was Octavius gegen ihn ausnutzte."
+        }
+      ]
+    },
+    {
+      "id": "augustus-mehr",
+      "typ": "haupt",
+      "freischaltung": "w03-3-augustus",
+      "person": {
+        "id": "augustus",
+        "name": "Augustus",
+        "kurz": "Au",
+        "lebensdaten": "63 v. Chr.–14 n. Chr.",
+        "rolle": "erster römischer Kaiser",
+        "bereich": "macht"
+      },
+      "titel": "3 Dinge über Augustus",
+      "karten": [
+        {
+          "text": "Der Dichter Horaz hatte als junger Mann gegen Augustus gekämpft. Trotzdem wurde er begnadigt – und später sogar von Augustus gefördert."
+        },
+        {
+          "text": "Seine Familie wurde berühmt: Die ersten fünf Kaiser – Augustus, Tiberius, Caligula, Claudius und Nero – kennen viele bis heute. Wirklich bedeutend war von ihnen nur Augustus."
+        },
+        {
+          "text": "In seine Regierungszeit fällt eine schwere Niederlage: 9 n. Chr. vernichtete der Cherusker Arminius drei römische Legionen unter Varus. Danach versuchten die Römer kaum noch, Germanien zu erobern."
+        }
+      ]
+    },
+    {
+      "id": "nero",
+      "typ": "neben",
+      "freischaltung": "w03-3-augustus",
+      "person": {
+        "id": "nero",
+        "name": "Nero",
+        "kurz": "Ne",
+        "lebensdaten": "37–68",
+        "rolle": "römischer Kaiser",
+        "bereich": "macht"
+      },
+      "titel": "Der Kaiser und das Feuer",
+      "karten": [
+        {
+          "text": "Im Juli 64 brannte Rom neun Tage lang. Nero ließ die Stadt wieder aufbauen – und auf den frei gewordenen Flächen einen riesigen Palast für sich."
+        },
+        {
+          "text": "Bald hieß es, er habe das Feuer selbst gelegt, obwohl er gar nicht in der Stadt war. Nero schob die Schuld den Christen zu und ließ viele in der Arena ermorden."
+        },
+        {
+          "text": "Am Ende interessierte ihn Politik kaum noch. Er tourte durch Griechenland und spielte im Theater Frauenrollen. Als seine Heerführer rebellierten, ließ er sich von einem Sklaven erstechen."
+        }
+      ]
+    },
+    {
+      "id": "jesus-mehr",
+      "typ": "haupt",
+      "freischaltung": "w03-4-jesus",
+      "person": {
+        "id": "jesus",
+        "name": "Jesus von Nazareth",
+        "kurz": "Je",
+        "lebensdaten": "um 7 v. Chr.–30 n. Chr.",
+        "rolle": "Stifter des Christentums",
+        "bereich": "geist"
+      },
+      "titel": "3 Dinge über Jesu Umfeld",
+      "karten": [
+        {
+          "text": "Maria Magdalena wird in der Kunst oft als Sünderin gezeigt. In der Bibel steht das nicht. Dort gehört sie zu Jesu Gefolge – und alle vier Evangelien nennen sie als erste Zeugin der Auferstehung."
+        },
+        {
+          "text": "Jesus und Maria Magdalena als Paar mit Nachkommen? Diese Legende griff Dan Brown in „Sakrileg“ auf. Die Forschung sagt: Da ist mit ziemlicher Sicherheit nichts dran."
+        },
+        {
+          "text": "Zwei Apostel leben in Redewendungen weiter: Thomas zweifelte an der Auferstehung – der „ungläubige Thomas“. Und Petrus verleugnete Jesus, „ehe der Hahn dreimal kräht“."
+        }
+      ]
+    },
+    {
+      "id": "paulus",
+      "typ": "neben",
+      "freischaltung": "w03-4-jesus",
+      "person": {
+        "id": "paulus",
+        "name": "Paulus von Tarsus",
+        "kurz": "Pa",
+        "lebensdaten": "1. Jh. n. Chr.",
+        "rolle": "Apostel und Missionar",
+        "bereich": "geist"
+      },
+      "titel": "Vom Verfolger zum Missionar",
+      "karten": [
+        {
+          "text": "Paulus war Jude mit römischem Bürgerrecht. Anfangs verfolgte er die ersten Christen – das gibt er in seinen Briefen selbst zu."
+        },
+        {
+          "text": "Dann bekehrte ihn nach eigenen Worten ein Wunder, das Erlebnis vor Damaskus. Er wurde der eifrigste Missionar, vor allem in Anatolien und im heutigen Griechenland."
+        },
+        {
+          "text": "In seinen Briefen an die Gemeinden entwarf er eine Theologie. Wichtiger als gute Taten wurde nun der Glaube, dass Jesus göttlich ist und die Menschen durch seinen Tod erlöst hat."
+        }
+      ]
+    },
+    {
+      "id": "augustinus-mehr",
+      "typ": "haupt",
+      "freischaltung": "w03-5-augustinus",
+      "person": {
+        "id": "augustinus",
+        "name": "Augustinus von Hippo",
+        "kurz": "Ag",
+        "lebensdaten": "354–430",
+        "rolle": "christlicher Theologe",
+        "bereich": "geist"
+      },
+      "titel": "3 Dinge über Augustinus",
+      "karten": [
+        {
+          "text": "1336 stieg der Dichter Petrarca auf den Mont Ventoux und schlug oben Augustinus’ „Bekenntnisse“ auf. Die Stelle mahnte: Denk nicht nur über Berge nach, sondern auch über dich selbst."
+        },
+        {
+          "text": "Augustinus zählt zu den vier großen Kirchenlehrern, neben Ambrosius, Hieronymus und Gregor dem Großen. Hieronymus lästerte über Ambrosius, er schmücke sich mit fremden Federn."
+        },
+        {
+          "text": "Noch 1947 griff der Theologe Karl Barth auf Augustinus zurück: „Die Kirche muss sich ständig reformieren.“"
+        }
+      ]
+    },
+    {
+      "id": "konstantin",
+      "typ": "neben",
+      "freischaltung": "w03-5-augustinus",
+      "person": {
+        "id": "konstantin",
+        "name": "Konstantin der Große",
+        "kurz": "Ko",
+        "lebensdaten": "um 270–337",
+        "rolle": "römischer Kaiser",
+        "bereich": "macht"
+      },
+      "titel": "Der Kaiser, der die Christen erlaubte",
+      "karten": [
+        {
+          "text": "Konstantin stabilisierte das schon angeschlagene Römische Reich noch einmal. Berühmt wurde er aber für etwas anderes: 313 erlaubte er mit dem Mailänder Edikt das zuvor verbotene Christentum."
+        },
+        {
+          "text": "Danach förderte er die Christen, und christliche Geschichtsschreiber feierten ihn. Selbst lebte er wenig christlich: Er ließ einen seiner Söhne und seine zweite Frau umbringen."
+        },
+        {
+          "text": "Seinen Namen trug lange eine Stadt: Konstantinopel, das heutige Istanbul."
+        }
+      ]
+    },
+    {
+      "id": "attila-mehr",
+      "typ": "haupt",
+      "freischaltung": "w04-1-attila",
+      "person": {
+        "id": "attila",
+        "name": "Attila",
+        "kurz": "At",
+        "lebensdaten": "gest. 453",
+        "rolle": "König der Hunnen",
+        "bereich": "macht"
+      },
+      "titel": "3 Dinge über die Hunnen",
+      "karten": [
+        {
+          "text": "Der große Hunnen-Schock kam schon 375: Reiter auf schnellen Pferden überfielen die Ostgoten am Schwarzen Meer und schossen im Galopp Pfeile ab. Attila hatte damit noch nichts zu tun."
+        },
+        {
+          "text": "Ein seltsames Ende: Attila starb 453 ausgerechnet während seiner eigenen Hochzeit – mit einer Gotin namens Ildico."
+        },
+        {
+          "text": "Römische Geschichtsschreiber behaupteten, Attila sei 451 gekommen, weil ihn die zwangsverheiratete Kaiserschwester Honoria um Hilfe gebeten habe. Wahrscheinlicher ist: Er brauchte schlicht neue Beute."
+        }
+      ]
+    },
+    {
+      "id": "theoderich",
+      "typ": "neben",
+      "freischaltung": "w04-1-attila",
+      "person": {
+        "id": "theoderich",
+        "name": "Theoderich der Große",
+        "kurz": "Th",
+        "lebensdaten": "um 451–526",
+        "rolle": "König der Ostgoten in Italien",
+        "bereich": "macht"
+      },
+      "titel": "Der gute König von Ravenna",
+      "karten": [
+        {
+          "text": "488 schickte der Kaiser in Konstantinopel den Ostgotenprinzen Theoderich nach Italien. Er sollte Odoaker bekämpfen – den Mann, der 476 den letzten weströmischen Kaiser abgesetzt hatte."
+        },
+        {
+          "text": "Theoderich brachte Ordnung in ein Land voller Chaos. Sein Reich von Ravenna gilt als letzte Blüte römischer Kultur im Westen. Katholiken, arianische Christen und Juden lebten dort friedlich nebeneinander."
+        },
+        {
+          "text": "In der Nibelungensage lebt er als edler Held Dietrich von Bern weiter. Übrigens: Der Frankenkönig Chlodwig war sein Schwager – und sein größter Rivale."
+        }
+      ]
+    },
+    {
+      "id": "mohammed-mehr",
+      "typ": "haupt",
+      "freischaltung": "w04-2-mohammed",
+      "person": {
+        "id": "mohammed",
+        "name": "Mohammed",
+        "kurz": "Mo",
+        "lebensdaten": "um 570–632",
+        "rolle": "Prophet und Stifter des Islam",
+        "bereich": "geist"
+      },
+      "titel": "3 Menschen rund um Mohammed",
+      "karten": [
+        {
+          "text": "Chadidscha war Mohammeds erste Frau – und bis zu ihrem Tod seine einzige. Von ihren fünf Kindern starben vier früh. Ihre Tochter Fatima wurde Mutter von Hasan und Hussein."
+        },
+        {
+          "text": "Der reiche Kaufmann Abu Bakr unterstützte Mohammed von Anfang an und begleitete ihn auf der Flucht nach Medina. Nach Mohammeds Tod führte er die Gemeinschaft als erster Kalif."
+        },
+        {
+          "text": "Für die Schiiten sind nur Ali, Fatimas Ehemann, und seine Söhne rechtmäßige Nachfolger des Propheten. Alis Sohn Hussein fiel 680 bei Kerbela. Sein Grab ist heute ein Wallfahrtsort."
+        }
+      ]
+    },
+    {
+      "id": "justinian",
+      "typ": "neben",
+      "freischaltung": "w04-2-mohammed",
+      "person": {
+        "id": "justinian",
+        "name": "Justinian I.",
+        "kurz": "Ju",
+        "lebensdaten": "um 482–565",
+        "rolle": "oströmischer Kaiser",
+        "bereich": "macht"
+      },
+      "titel": "Der schlaflose Kaiser",
+      "karten": [
+        {
+          "text": "Justinian arbeitete so viel, dass man ihn den „schlaflosen Kaiser“ nannte. Dabei war er ein Bauernsohn – sein Onkel hatte es beim Militär bis auf den Kaiserthron geschafft."
+        },
+        {
+          "text": "Er ließ die Hagia Sophia mit ihrer 55 Meter hohen Kuppel bauen. Seine Sammlung des römischen Rechts, der Corpus iuris civilis, zählt zu den wichtigsten Rechtswerken überhaupt."
+        },
+        {
+          "text": "Seine Frau Theodora brachte ihn dazu, Frauen besserzustellen: mehr Rechte bei Eigentum und Scheidung, ein Verbot von Mädchenhandel und Zwangsprostitution."
+        }
+      ]
+    },
+    {
+      "id": "karl-mehr",
+      "typ": "haupt",
+      "freischaltung": "w04-3-karl",
+      "person": {
+        "id": "karl",
+        "name": "Karl der Große",
+        "kurz": "Ka",
+        "lebensdaten": "um 747–814",
+        "rolle": "König der Franken und Kaiser",
+        "bereich": "macht"
+      },
+      "titel": "3 Dinge über Karls Familie und Feldzüge",
+      "karten": [
+        {
+          "text": "Sein Großvater Karl Martell schlug 732 bei Tours und Poitiers ein arabisches Heer. Lange feierte man ihn als „Retter des Abendlandes“ – heute sehen Historiker das viel nüchterner."
+        },
+        {
+          "text": "Sein Vater Pippin setzte den letzten Merowingerkönig ab – mit Rückendeckung des Papstes. Papst Zacharias krönte ihn dafür zum König."
+        },
+        {
+          "text": "Karls einziger echter Misserfolg: Spanien. Obwohl er sich mit muslimischen Fürsten gegen den Emir von Córdoba verbündete, gewann er nur einen schmalen Streifen im Norden."
+        }
+      ]
+    },
+    {
+      "id": "einhard",
+      "typ": "neben",
+      "freischaltung": "w04-3-karl",
+      "person": {
+        "id": "einhard",
+        "name": "Einhard",
+        "kurz": "Ei",
+        "lebensdaten": "um 770–840",
+        "rolle": "Biograf Karls des Großen",
+        "bereich": "kunst"
+      },
+      "titel": "Der Mann, der Karl berühmt machte",
+      "karten": [
+        {
+          "text": "Einhard gehörte zu Karls engsten Vertrauten und schrieb seine Lebensgeschichte, die „Vita Karoli Magni“. Er kannte vieles aus erster Hand und übertrieb wenig – eine einzigartige Quelle."
+        },
+        {
+          "text": "Und weil Einhard auch noch gut schreiben konnte, hat sein Buch vermutlich viel dazu beigetragen, dass Karl bis heute so bekannt ist."
+        },
+        {
+          "text": "Einhard war außerdem Bauleiter: Er war für die achteckige Pfalzkapelle in Aachen, den heutigen Dom, und die Pfalzen von Aachen und Ingelheim verantwortlich."
+        }
+      ]
+    },
+    {
+      "id": "ibnsina-mehr",
+      "typ": "haupt",
+      "freischaltung": "w04-4-ibnsina",
+      "person": {
+        "id": "ibnsina",
+        "name": "Ibn Sina (Avicenna)",
+        "kurz": "IS",
+        "lebensdaten": "980–1037",
+        "rolle": "persischer Arzt und Gelehrter",
+        "bereich": "entdeckung"
+      },
+      "titel": "3 Dinge über Medizin im Orient",
+      "karten": [
+        {
+          "text": "Ab 531 sammelte der Perserkönig Chosrau I. Gelehrte in Gundischapur – halb Universität, halb Bibliothek und Krankenhaus. Sie wurde Vorbild für das „Haus der Weisheit“, gegründet 825 in Bagdad."
+        },
+        {
+          "text": "Auch aus Indien kam Wissen: Ein Text, der auf den Arzt Sushruta zurückgehen soll, beschreibt rund 300 Operationen – vom Zähneziehen bis zur Nasenplastik."
+        },
+        {
+          "text": "Der indische Arzt Charaka hatte klare Regeln für Kollegen: Bart tragen, vegetarisch leben, keine Waffen, nie lügen – und immer zum Wohl aller Lebewesen handeln."
+        }
+      ]
+    },
+    {
+      "id": "gregor-mehr",
+      "typ": "haupt",
+      "freischaltung": "w04-5-gregor",
+      "person": {
+        "id": "gregor",
+        "name": "Gregor VII.",
+        "kurz": "Gr",
+        "lebensdaten": "um 1027–1085",
+        "rolle": "Papst",
+        "bereich": "geist"
+      },
+      "titel": "3 Dinge über die Päpste vor Gregor",
+      "karten": [
+        {
+          "text": "Warum wurde Rom so wichtig? Der Überlieferung nach war Petrus der erste Papst – ob er je in Rom war, ist aber nicht sicher. Entscheidend war auch: Rom war Hauptstadt des Römischen Reichs."
+        },
+        {
+          "text": "Papst Leo I. sorgte dafür, dass die Vandalen 455 bei der Plünderung Roms nicht „wie die Vandalen“ hausten. Vielleicht hielt er sogar Attila von einem Einfall in Italien ab."
+        },
+        {
+          "text": "Gregor I., ein früherer Papst gleichen Namens, wollte eigentlich Politiker werden. Von ihm stammt die Idee des Fegefeuers: Sünden können nach dem Tod auch zeitlich begrenzt abgebüßt werden."
+        }
+      ]
+    },
+    {
+      "id": "heinrichiv",
+      "typ": "neben",
+      "freischaltung": "w04-5-gregor",
+      "person": {
+        "id": "heinrichiv",
+        "name": "Heinrich IV.",
+        "kurz": "He",
+        "lebensdaten": "1050–1106",
+        "rolle": "römisch-deutscher König und Kaiser",
+        "bereich": "macht"
+      },
+      "titel": "Der König, der nach Canossa ging",
+      "karten": [
+        {
+          "text": "Heinrich IV. wurde schon als Kind König. Mit elf Jahren wurde er entführt – so drängten mächtige Fürsten seine Mutter Agnes, die für ihn regierte, aus der Politik."
+        },
+        {
+          "text": "Der Kleriker Bruno von Magdeburg, ein Gegner des Königs, schrieb über Heinrichs Krieg gegen die Sachsen (1073–1075). Darin ist der König ein Bösewicht ohne jede gute Seite – eine typische Schurkenerzählung."
+        },
+        {
+          "text": "Bruno behauptet, Heinrich habe einen Vertrauten mit einem Brief zum König von Russland geschickt: „Töte den Überbringer!“ Genau dieses Motiv steckt im Märchen „Der Teufel mit den drei goldenen Haaren“."
+        }
+      ]
     }
   ]
 }

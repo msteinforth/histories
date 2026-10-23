@@ -1,0 +1,22 @@
+{
+  "id": "w04-7-meta-wandel",
+  "variante": "meta",
+  "titel": "Wie Legenden auffliegen",
+  "kurz": "★",
+  "bereich": "meta",
+  "quelle": { "buch": "Kapitel 3 (Die „Großen“ im Wandel der Zeit)" },
+  "hook": "Hat es im Mittelalter eine Päpstin gegeben? Historiker sind sich sicher – und zeigen, wie sie darauf kommen.",
+  "karten": [
+    { "typ": "hook", "text": "Eine Frau, als Mann verkleidet, wird Papst – bis sie mitten in einer Prozession ein Kind bekommt. Die Geschichte der Päpstin Johanna wird seit Jahrhunderten erzählt. Heute schaust du Historikern über die Schulter: Wie überführt man eine Legende?" },
+    { "typ": "text", "titel": "Ein wahrer Kern – vielleicht", "text": "Heinrich Schliemann glaubte schon als Kind an Homers Trojanischen Krieg. Später grub er tatsächlich eine Stadt aus, die heute als Troja gilt. König Priamos oder Agamemnon fand er aber nicht. Alte Sagen können also einen echten Kern haben – ihre Helden sind deshalb noch lange nicht echt." },
+    { "typ": "text", "titel": "Spur 1: Wann tauchen die Quellen auf?", "text": "Keine Quelle über die Päpstin stammt aus der Zeit vor 1200. Die ältesten verlegen sie ans Ende des 11. Jahrhunderts – mitten in den Streit von Gregor VII. und Heinrich IV. Damals wurde jede Papstwahl scharf beobachtet. Kein Platz für eine heimliche Päpstin." },
+    { "typ": "text", "titel": "Spur 2: Die Story wächst", "text": "Um 1277 verlegte ein Chronist die Päpstin plötzlich ins 9. Jahrhundert und schmückte sie aus: Herkunft aus Mainz, ein Liebhaber, ein Studium in Athen. Wenn eine Geschichte mit der Zeit immer mehr Details bekommt, heißt das selten, dass neue Quellen auftauchten. Meist hat jemand nachgebessert." },
+    { "typ": "text", "titel": "Spur 3: Was nicht passt", "text": "Den Frauennamen Johanna gab es im 9. Jahrhundert noch gar nicht. Und eine Gasse in Rom, die die Leute mieden, galt plötzlich als „Beweis“ – dort soll die Geburt passiert sein. Typisch Sage: Etwas Seltsames wird nachträglich mit einer Geschichte erklärt." },
+    { "typ": "text", "titel": "Und wer gilt heute als groß?", "text": "Auch Werte ändern sich. Auf den letzten D-Mark-Scheinen waren keine Herrscher, sondern etwa die Pianistin Clara Schumann und der Mathematiker Gauß. Eroberer zu feiern ist aus der Mode. Schon Voltaire fand, nichts auf der Welt sei gefährlicher als Größe." }
+  ],
+  "quiz": [
+    { "frage": "Warum halten Historiker die Päpstin Johanna für erfunden?", "optionen": ["Weil die Kirche alle Spuren vernichtet hat", "Weil es keine Quellen vor dem frühen 13. Jahrhundert gibt und vieles nicht in die Zeit passt", "Weil im Mittelalter niemand über Päpste schrieb"], "richtig": 1, "erklaerung": "Die Quellen sind viel zu jung, die Geschichte wurde immer weiter ausgeschmückt, und viele Details passen nicht in die angebliche Zeit." },
+    { "frage": "Was fand Heinrich Schliemann – und was nicht?", "optionen": ["Eine Stadt, die als Troja gilt – aber keine Spur von Agamemnon", "Das Grab von Gilgamesch – aber keine Stadt", "Den Palast von Karl dem Großen", "Gar nichts, er grub am falschen Ort"], "richtig": 0, "erklaerung": "Schliemann fand Troja und Mykene, aber nicht die Sagenhelden Priamos und Agamemnon." }
+  ],
+  "teaser": "Nächste Woche geht es ins Hochmittelalter: eine Heilige mit Visionen, ein Kaiser mit rotem Bart, ein Sultan, der Jerusalem eroberte, und ein Mongolenherrscher."
+}

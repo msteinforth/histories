@@ -1,0 +1,79 @@
+{
+  "id": "w04-5-gregor",
+  "variante": "person",
+  "person": {
+    "id": "gregor",
+    "name": "Gregor VII.",
+    "kurz": "Gr",
+    "lebensdaten": "um 1027–1085",
+    "jahr": 1076,
+    "rolle": "Papst",
+    "bereich": "geist",
+    "epoche": "Mittelalter",
+    "region": "Rom",
+    "geschlecht": "m"
+  },
+  "quelle": {
+    "buch": "Kapitel 10 (Zwischen Religion und Politik: Die bedeutenden Päpste), Kapitel 1, Kapitel 2, Kapitel 5 (Robert Guiskard)"
+  },
+  "bild": null,
+  "hook": "Ein Papst zwingt einen König zum Bittgang – und das ist nicht mal das Wichtigste, was er verändert hat.",
+  "karten": [
+    {
+      "typ": "hook",
+      "text": "Ein König muss als reuiger Bittsteller zu einem Papst ziehen. Die Szene ist so berühmt, dass daraus eine Redewendung wurde. Doch der Papst dahinter hat noch viel mehr verändert – manches davon spürt die katholische Kirche bis heute."
+    },
+    {
+      "typ": "steckbrief",
+      "fakten": [
+        ["Lebte", "um 1027–1085"],
+        ["Eigentlicher Name", "Hildebrand von Soana"],
+        ["Amt", "Papst"],
+        ["Gegenspieler", "der deutsche König Heinrich IV."],
+        ["Bekannt für", "den Gang nach Canossa"]
+      ]
+    },
+    {
+      "typ": "passiert",
+      "text": "Gregor und König Heinrich IV. gerieten in einen erbitterten Machtkampf. Ein Streitpunkt: Wer darf Bischöfe ernennen – der König oder die Kirche? Historiker nennen das den Investiturstreit. Gregor belegte Heinrich mit dem Kirchenbann und zwang ihn zum Bittgang nach Canossa."
+    },
+    {
+      "typ": "wichtig",
+      "text": "Gregor ging es um mehr als Bischofsposten. Er beanspruchte für den Papst die Autorität über alle weltlichen Herrscher. Schon vor seiner Wahl hatte er durchgesetzt, dass nur Kardinäle den Papst wählen dürfen. Und er setzte strenge Moralregeln durch – für Geistliche etwa den Zölibat, aber auch fürs einfache Volk."
+    },
+    {
+      "typ": "anekdote",
+      "text": "Ausgerechnet Heinrichs Enkel, der Mönch und spätere Bischof Otto von Freising, schrieb Jahrzehnte später über den Streit. Er ergriff weder für seinen Großvater Partei noch für seine eigene Kirche. Für ihn war es ein tragischer Bruch zwischen dem Reich Gottes und dem Reich der Welt."
+    },
+    {
+      "typ": "mythos",
+      "mythos": "Mit Canossa hatte der Papst den Streit gewonnen.",
+      "wahrheit": "Von wegen. Der Kampf ging weiter: 1083 eroberte der Normanne Robert Guiskard Rom, um Gregor aus Heinrichs Gewalt zu befreien. Und 1084 setzte Heinrich mit Clemens III. sogar einen eigenen Papst ein."
+    },
+    {
+      "typ": "heute",
+      "text": "„Nach Canossa gehen“ sagt man bis heute, wenn jemand sich demütig entschuldigen muss. Und wenn im Konklave ein neuer Papst gewählt wird – wie 2025 in echt oder im Film „Konklave“ –, dürfen nur Kardinäle abstimmen. Eine Regel aus Gregors Zeit."
+    }
+  ],
+  "quiz": [
+    {
+      "frage": "Wie hieß Gregor VII. ursprünglich?",
+      "optionen": ["Otto von Freising", "Odo de Châtillon", "Hildebrand von Soana", "Robert Guiskard"],
+      "richtig": 2,
+      "erklaerung": "Bevor er Papst wurde, hieß Gregor VII. Hildebrand von Soana."
+    },
+    {
+      "frage": "Was bedeutet die Redewendung „nach Canossa gehen“?",
+      "optionen": ["Eine lange Pilgerreise antreten", "Sich demütig entschuldigen oder unterwerfen müssen", "Jemandem den Krieg erklären"],
+      "richtig": 1,
+      "erklaerung": "Wie Heinrich IV., der als Gebannter zum Papst ziehen musste, beugt man sich dabei einem Gegner."
+    },
+    {
+      "frage": "Wer darf seit Gregors Zeit den Papst wählen?",
+      "optionen": ["Der Kaiser", "Alle Bischöfe", "Das Volk von Rom", "Nur die Kardinäle"],
+      "richtig": 3,
+      "erklaerung": "Diese Regel setzte Gregor schon vor seiner eigenen Wahl durch – sie gilt bis heute."
+    }
+  ],
+  "teaser": "Morgen: Wochen-Quiz! Fünf Menschen zwischen Hunnenreich und Kirchenbann – wie viel ist hängen geblieben?"
+}

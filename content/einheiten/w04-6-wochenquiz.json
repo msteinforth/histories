@@ -1,0 +1,14 @@
+{
+  "id": "w04-6-wochenquiz",
+  "variante": "wiederholung",
+  "titel": "Wochen-Quiz",
+  "kurz": "?",
+  "bereich": "quiz",
+  "hook": "Ein Reiterkönig, ein Prophet, ein Kaiser, ein Arzt, ein Papst – zehn Fragen zu deiner Woche.",
+  "karten": [
+    { "typ": "hook", "text": "Attila, Mohammed, Karl der Große, Ibn Sina, Gregor VII.: Diese Woche bist du gut 600 Jahre durch Völkerwanderung und frühes Mittelalter gereist. Jetzt kommen zehn Fragen – keine Noten, kein Druck. Was du falsch hast, taucht einfach später wieder auf." }
+  ],
+  "einheiten": ["w04-1-attila", "w04-2-mohammed", "w04-3-karl", "w04-4-ibnsina", "w04-5-gregor"],
+  "anzahl": 10,
+  "teaser": "Morgen: Gab es im Mittelalter wirklich eine Päpstin? Wie Historiker einer Legende auf die Schliche kommen."
+}

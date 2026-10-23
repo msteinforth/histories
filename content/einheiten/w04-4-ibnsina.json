@@ -1,0 +1,79 @@
+{
+  "id": "w04-4-ibnsina",
+  "variante": "person",
+  "person": {
+    "id": "ibnsina",
+    "name": "Ibn Sina (Avicenna)",
+    "kurz": "IS",
+    "lebensdaten": "980–1037",
+    "jahr": 1020,
+    "rolle": "persischer Arzt und Gelehrter",
+    "bereich": "entdeckung",
+    "epoche": "Mittelalter",
+    "region": "Persien",
+    "geschlecht": "m"
+  },
+  "quelle": {
+    "buch": "Kapitel 15 (Klöster und Akademien: die Medizin im Mittelalter), Kapitel 11, Kapitel 1, Kapitel 2"
+  },
+  "bild": null,
+  "hook": "Sein Medizinbuch war über 500 Jahre lang Standard – bis ein Schweizer Arzt es ins Feuer warf.",
+  "karten": [
+    {
+      "typ": "hook",
+      "text": "Mit 19 soll er schon Leibarzt eines Fürsten gewesen sein. Sein Lehrbuch nutzten Ärzte in Europa über 500 Jahre lang. Trotzdem kennen ihn viele bei uns nur als Nebenfigur aus einem Roman. Wer war er?"
+    },
+    {
+      "typ": "steckbrief",
+      "fakten": [
+        ["Lebte", "980–1037"],
+        ["Herkunft", "Persien"],
+        ["Namen", "Ibn Sina, im Westen Avicenna"],
+        ["Beruf", "Arzt, Naturforscher, Philosoph"],
+        ["Bekannt für", "den „Kanon der Medizin“"]
+      ]
+    },
+    {
+      "typ": "passiert",
+      "text": "Schon mit 19 soll Ibn Sina Leibarzt des Emirs von Chorasan geworden sein. In dessen Bibliothek lernte er weiter. Dann zwangen ihn Unruhen zu einem Wanderleben. Erst 1024 fand er einen festen Platz: als Leibarzt und Vertrauter des Emirs von Isfahan."
+    },
+    {
+      "typ": "wichtig",
+      "text": "Sein „Kanon der Medizin“ fasste das gesamte medizinische Wissen seiner Zeit zusammen, ergänzt um eigene Erfahrung. Fünf Teile: Theorie, Heilmittel, Krankheiten einzelner Organe, Krankheiten des ganzen Körpers, Herstellung von Arzneien. Ins Lateinische übersetzt, blieb er in Europa über 500 Jahre lang das Standardwerk."
+    },
+    {
+      "typ": "anekdote",
+      "text": "Rund 500 Jahre nach seinem Tod hatte einer genug: Der Schweizer Arzt Paracelsus, ab 1527 Lehrer in Basel, lästerte über Ibn Sina und den antiken Arzt Galen – und verbrannte ihre Bücher. Nach wenigen Monaten musste er aus der Stadt fliehen."
+    },
+    {
+      "typ": "mythos",
+      "mythos": "„Der Medicus“ zeigt Ibn Sinas Welt, wie sie wirklich war.",
+      "wahrheit": "Leider nein. In Noah Gordons Roman lernt ein erfundener Held bei Ibn Sina in Persien. Der echte Arzt lebte zu Beginn des 11. Jahrhunderts. Das Buch beschreibt aber eher typisches Spätmittelalter, also das 14. und 15. Jahrhundert."
+    },
+    {
+      "typ": "heute",
+      "text": "Sein voller Name: Abu Ali al-Husain ibn Abd Allah ibn Sina. Europäer machten daraus einfach „Avicenna“. Heute gilt so eine Anpassung als nicht mehr korrekt – deshalb liest du meist Ibn Sina. „Der Medicus“ kam übrigens 2013 auch ins Kino."
+    }
+  ],
+  "quiz": [
+    {
+      "frage": "Wie heißt Ibn Sinas berühmtes Lehrbuch?",
+      "optionen": ["Sushruta Samhita", "Kanon der Medizin", "Corpus iuris civilis", "Vita Karoli Magni"],
+      "richtig": 1,
+      "erklaerung": "Der „Kanon der Medizin“ war in Europa über 500 Jahre lang das medizinische Standardwerk."
+    },
+    {
+      "frage": "Warum sagt man heute meist „Ibn Sina“ statt „Avicenna“?",
+      "optionen": ["Weil Avicenna ein anderer Arzt war", "Weil er sich selbst umbenannt hat", "Weil westlich angepasste Namen heute als nicht mehr korrekt gelten"],
+      "richtig": 2,
+      "erklaerung": "„Avicenna“ ist eine europäische Anpassung seines Namens – heute bevorzugt man die ursprüngliche Form."
+    },
+    {
+      "frage": "Was tat Paracelsus mit Ibn Sinas Büchern?",
+      "optionen": ["Er übersetzte sie ins Deutsche", "Er ließ sie drucken", "Er schenkte sie dem Papst", "Er verbrannte sie"],
+      "richtig": 3,
+      "erklaerung": "Paracelsus hielt die Ausbildung seiner Zeit für zu theorielastig und verbrannte in Basel die Bücher von Galen und Ibn Sina."
+    }
+  ],
+  "teaser": "Morgen: ein Papst, der einen König so in die Knie zwang, dass daraus eine Redewendung wurde."
+}

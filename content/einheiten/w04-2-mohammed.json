@@ -1,0 +1,78 @@
+{
+  "id": "w04-2-mohammed",
+  "variante": "person",
+  "person": {
+    "id": "mohammed",
+    "name": "Mohammed",
+    "kurz": "Mo",
+    "lebensdaten": "um 570–632",
+    "jahr": 622,
+    "rolle": "Prophet und Stifter des Islam",
+    "bereich": "geist",
+    "epoche": "Mittelalter",
+    "region": "Arabien",
+    "geschlecht": "m"
+  },
+  "quelle": {
+    "buch": "Kapitel 9 (Die großen Drei: Kriegsherr und Reformator)"
+  },
+  "bild": null,
+  "hook": "Er gilt als Stifter einer Weltreligion – doch seine Anhänger sehen das ganz anders.",
+  "karten": [
+    {
+      "typ": "hook",
+      "text": "Ein Waisenkind aus Mekka steht am Anfang einer der großen Weltreligionen. Sein Umzug in eine andere Stadt wird zum Startpunkt einer Zeitrechnung. Und trotzdem sagen seine Anhänger: Eine neue Religion hat er gar nicht gegründet. Wie passt das zusammen?"
+    },
+    {
+      "typ": "steckbrief",
+      "fakten": [
+        ["Lebte", "um 570–632"],
+        ["Geboren", "in Mekka, früh verwaist"],
+        ["Ehefrau", "Chadidscha, eine reiche Kaufmannswitwe"],
+        ["Bekannt für", "Prophet des Islam, Verkünder des Korans"]
+      ]
+    },
+    {
+      "typ": "passiert",
+      "text": "Mit 25 heiratete Mohammed die Witwe Chadidscha – sie glaubte als Erste an seine Lehre. Etwa ab 614 predigte er gegen die vielen Götter und Götterbilder der alten arabischen Religion. Sein Glaube kennt nur einen einzigen Gott. Den Koran überbrachte ihm, so sagte er, der Engel Gabriel."
+    },
+    {
+      "typ": "wichtig",
+      "text": "In Mekka wurde Mohammed heftig angefeindet. 622 zog er deshalb nach Medina – diese Auswanderung heißt Hidschra. Dort scharte er eine Gemeinschaft um sich, die Umma. 630 nahm er Mekka fast ohne Kampf ein. Bis zu seinem Tod 632 unterwarf er den größten Teil der Arabischen Halbinsel."
+    },
+    {
+      "typ": "anekdote",
+      "text": "Für Muslime ist Mohammeds Leben ein Vorbild. Deshalb wurden seine Worte und Taten gesammelt, die Hadithen – erst mündlich, nach 750 auch schriftlich. Wie man sie richtig auslegt, darüber diskutieren Gelehrte bis heute. Eine oberste Instanz wie den Papst gibt es im Islam nämlich nicht."
+    },
+    {
+      "typ": "mythos",
+      "mythos": "Mohammed hat eine völlig neue Religion erfunden.",
+      "wahrheit": "So sehen es Muslime nicht. Für sie besteht der Islam seit der Erschaffung der Welt; schon Adam, Noah, Abraham, Moses und Jesus hätten ihn verkündet. Mohammed gilt als letzter Prophet, der Irrtümer korrigiert hat. Seine Lehre enthält viele Elemente aus Juden- und Christentum."
+    },
+    {
+      "typ": "heute",
+      "text": "Der islamische Kalender zählt die Jahre ab der Hidschra 622. Er richtet sich nach dem Mond, ein Jahr ist rund elf Tage kürzer als bei uns. Darum wandert der Fastenmonat Ramadan durchs Jahr – mal liegt er im Sommer, mal im Winter."
+    }
+  ],
+  "quiz": [
+    {
+      "frage": "Womit beginnt die islamische Zeitrechnung?",
+      "optionen": ["Mit Mohammeds Geburt", "Mit der Einnahme Mekkas", "Mit der Auswanderung nach Medina 622", "Mit Mohammeds Tod"],
+      "richtig": 2,
+      "erklaerung": "Die Hidschra, Mohammeds Auswanderung von Mekka nach Medina im Jahr 622, ist das Jahr 1 des islamischen Kalenders."
+    },
+    {
+      "frage": "Warum sehen Muslime Mohammed nicht als Gründer einer neuen Religion?",
+      "optionen": ["Für sie gibt es den Islam seit der Erschaffung der Welt, Mohammed ist der letzte Prophet", "Weil er selbst nie gepredigt hat", "Weil der Islam erst Jahrhunderte nach ihm entstand", "Weil er sich als Christ verstand"],
+      "richtig": 0,
+      "erklaerung": "Nach muslimischer Sicht haben schon frühere Propheten den Islam verkündet – Mohammed hat ihn als letzter erneuert."
+    },
+    {
+      "frage": "Wer war Chadidscha?",
+      "optionen": ["Mohammeds Tochter", "Seine erste Frau und erste Anhängerin", "Eine Königin von Medina"],
+      "richtig": 1,
+      "erklaerung": "Die reiche Kaufmannswitwe heiratete Mohammed, als er 25 war, und glaubte als Erste an seine Lehre."
+    }
+  ],
+  "teaser": "Morgen: ein König, den ein Papst an Weihnachten zum Kaiser krönte – angeblich völlig überraschend."
+}

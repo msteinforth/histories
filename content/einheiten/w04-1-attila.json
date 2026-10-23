@@ -1,0 +1,78 @@
+{
+  "id": "w04-1-attila",
+  "variante": "person",
+  "person": {
+    "id": "attila",
+    "name": "Attila",
+    "kurz": "At",
+    "lebensdaten": "gest. 453",
+    "jahr": 451,
+    "rolle": "König der Hunnen",
+    "bereich": "macht",
+    "epoche": "Spätantike",
+    "region": "Donauraum",
+    "geschlecht": "m"
+  },
+  "quelle": {
+    "buch": "Kapitel 5 (Eroberer: Geißeln Gottes)"
+  },
+  "bild": null,
+  "hook": "Die Kirche nannte ihn „Geißel Gottes“ – doch wer ihn persönlich besuchte, erlebte etwas ganz anderes.",
+  "karten": [
+    {
+      "typ": "hook",
+      "text": "Kirchliche Chronisten nannten ihn die „Geißel Gottes“, eine Strafe des Himmels. In alten Heldensagen dagegen ist er alles andere als ein Monster. Und ein Gesandter, der ihn besuchte, war beeindruckt. Wer war dieser Mann wirklich?"
+    },
+    {
+      "typ": "steckbrief",
+      "fakten": [
+        ["Lebte", "gestorben 453"],
+        ["Volk", "die Hunnen, ein Reitervolk"],
+        ["Machtbereich", "vom heutigen Moldawien bis ins Burgenland"],
+        ["Bekannt für", "seinen Feldzug gegen Westrom 451"]
+      ]
+    },
+    {
+      "typ": "passiert",
+      "text": "Um 434 übernahm Attila mit seinem Bruder Bleda die Führung der Hunnen – Bleda ließ er Jahre später töten. Die Hunnen lebten an der Donau von Raubzügen. Oder von Tribut: Zahlte Rom, blieben sie ruhig. 450 stoppte Ostrom die Zahlungen. 451 zog Attila gegen Westrom."
+    },
+    {
+      "typ": "wichtig",
+      "text": "Attilas Erfolgsrezept: Wer sich unterwarf, durfte mitkämpfen und mitverdienen. Dafür brauchte er ständig Beute. Doch auf den Katalaunischen Feldern, vermutlich bei Troyes, stellte sich ihm der Römer Aëtius entgegen. Beide Seiten verloren viele Männer, Attila zog sich zurück. Nach seinem Tod 453 zerfiel sein Reich rasend schnell."
+    },
+    {
+      "typ": "anekdote",
+      "text": "Der Witz an der Sache: Aëtius kannte die Hunnen bestens. Er hatte als Junge einige Zeit als Geisel bei ihnen gelebt, später warb er Hunnen als Hilfstruppen an. Als er einmal entmachtet wurde, floh er zu Attilas Onkel Rua – und holte sich mit hunnischer Hilfe seinen Posten zurück."
+    },
+    {
+      "typ": "mythos",
+      "mythos": "Attila war für alle ein blutrünstiges Monster.",
+      "wahrheit": "Das Bild stammt vor allem von Chronisten der Kirche. In den germanischen Sagen ist er kein Schreckgespenst. Und der Gesandte Priscus aus Ostrom erzählte, Attila habe ihn 449 an seinem Hof sehr respektvoll empfangen. Ein Eroberer bleibt er trotzdem."
+    },
+    {
+      "typ": "heute",
+      "text": "Im Nibelungenlied, der Sage um Siegfried, heißt Attila König Etzel – Kriemhild heiratet ihn dort. Manche Details vom Hof stimmen erstaunlich gut mit der echten Geschichte überein. Und in Ungarn ist Attila bis heute ein ganz normaler Vorname."
+    }
+  ],
+  "quiz": [
+    {
+      "frage": "Wo stellte sich der Römer Aëtius Attila 451 entgegen?",
+      "optionen": ["Am Rubikon", "Auf den Katalaunischen Feldern", "Vor Konstantinopel", "Im Teutoburger Wald"],
+      "richtig": 1,
+      "erklaerung": "Auf den Katalaunischen Feldern, vermutlich bei Troyes, gab es auf beiden Seiten hohe Verluste – Attila zog sich zurück."
+    },
+    {
+      "frage": "Warum wandte sich Attila 451 vermutlich gegen Westrom?",
+      "optionen": ["Er wollte selbst römischer Kaiser werden", "Er wollte das Christentum auslöschen", "Ostrom zahlte keinen Tribut mehr, und der Balkan bot keine Beute mehr"],
+      "richtig": 2,
+      "erklaerung": "Ohne Beute konnte Attila seine Gefolgsleute nicht bei der Stange halten – also brauchte er ein neues Ziel."
+    },
+    {
+      "frage": "Unter welchem Namen taucht Attila in den germanischen Sagen auf?",
+      "optionen": ["Etzel", "Dietrich", "Siegfried", "Rüdiger"],
+      "richtig": 0,
+      "erklaerung": "Als König Etzel kommt Attila zum Beispiel im Nibelungenlied vor – und zwar keineswegs als Monster."
+    }
+  ],
+  "teaser": "Morgen: ein Mann, mit dessen Umzug in eine andere Stadt eine ganze Zeitrechnung beginnt."
+}

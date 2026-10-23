@@ -1,5 +1,5 @@
 {
-  "_hinweis": "Bildquellen für scripts/fetch_portraits.py. Nur gemeinfreie oder CC0-Dateien werden übernommen. 'fokus' = Bildmitte für den quadratischen Zuschnitt (x, y von 0 bis 1). 'zoom' < 1 schneidet enger zu (Anteil der kürzeren Bildseite).",
+  "_hinweis": "Bildquellen für scripts/fetch_portraits.py. Nur gemeinfreie oder CC0-Dateien werden übernommen. 'fokus' = Bildmitte für den quadratischen Zuschnitt (x, y von 0 bis 1). 'zoom' < 1 schneidet enger zu (Anteil der kürzeren Bildseite). Mohammed bewusst ohne Bild (Initialen), aus Respekt vor dem Bilderverbot.",
   "imhotep": {
     "kandidaten": [
       "File:Imhotep statuette, bronze - Museo Egizio, Turin C 112 p01.jpg"
@@ -74,5 +74,140 @@
       0.55
     ],
     "zoom": 0.55
+  },
+  "aischylos": {
+    "kandidaten": [
+      "File:Aischylos Büste.jpg"
+    ],
+    "suche": "Aeschylus bust"
+  },
+  "hippokrates": {
+    "kandidaten": [
+      "File:Hippocrates rubens.jpg"
+    ],
+    "suche": "Hippocrates engraving portrait"
+  },
+  "aristoteles": {
+    "kandidaten": [
+      "File:Aristotle Altemps Inv8575.jpg"
+    ],
+    "suche": "Aristotle bust"
+  },
+  "alexander": {
+    "kandidaten": [
+      "File:Alexander the Great mosaic.jpg",
+      "File:Alexander1256.jpg"
+    ],
+    "suche": "Alexander the Great bust"
+  },
+  "archimedes": {
+    "kandidaten": [
+      "File:Domenico-Fetti Archimedes 1620.jpg"
+    ],
+    "suche": "Archimedes painting"
+  },
+  "shihuangdi": {
+    "kandidaten": [
+      "File:Qinshihuang.jpg"
+    ],
+    "suche": "Qin Shi Huang portrait"
+  },
+  "caesar": {
+    "kandidaten": [],
+    "suche": "Julius Caesar bust"
+  },
+  "augustus": {
+    "kandidaten": [
+      "File:Statue-Augustus.jpg"
+    ],
+    "suche": "Augustus of Prima Porta"
+  },
+  "jesus": {
+    "kandidaten": [
+      "File:Christ Pantocrator mosaic from Hagia Sophia 2744 x 2900 pixels 3.1 MB.jpg"
+    ],
+    "suche": "Christ Pantocrator mosaic"
+  },
+  "augustinus": {
+    "kandidaten": [
+      "File:Sandro Botticelli 050.jpg"
+    ],
+    "suche": "Saint Augustine painting"
+  },
+  "attila": {
+    "kandidaten": [],
+    "suche": "Attila the Hun portrait"
+  },
+  "karl": {
+    "kandidaten": [
+      "File:Albrecht Dürer - Emperor Charlemagne - Google Art Project.jpg"
+    ],
+    "suche": "Charlemagne Dürer"
+  },
+  "ibnsina": {
+    "kandidaten": [],
+    "suche": "Avicenna portrait"
+  },
+  "gregor": {
+    "kandidaten": [],
+    "suche": "Pope Gregory VII"
+  },
+  "sophokles": {
+    "kandidaten": [],
+    "suche": "Sophocles bust"
+  },
+  "galen": {
+    "kandidaten": [],
+    "suche": "Galen portrait lithograph"
+  },
+  "perikles": {
+    "kandidaten": [
+      "File:Pericles Pio-Clementino Inv269.jpg"
+    ],
+    "suche": "Pericles bust"
+  },
+  "euklid": {
+    "kandidaten": [],
+    "suche": "Euclid portrait"
+  },
+  "hannibal": {
+    "kandidaten": [],
+    "suche": "Hannibal bust"
+  },
+  "kleopatra": {
+    "kandidaten": [],
+    "suche": "Cleopatra VII bust"
+  },
+  "nero": {
+    "kandidaten": [],
+    "suche": "Nero bust"
+  },
+  "paulus": {
+    "kandidaten": [
+      "File:Rembrandt - The Apostle Paul - WGA19122.jpg"
+    ],
+    "suche": "Apostle Paul painting"
+  },
+  "konstantin": {
+    "kandidaten": [],
+    "suche": "Constantine the Great head Capitoline"
+  },
+  "theoderich": {
+    "kandidaten": [],
+    "suche": "Theoderic the Great"
+  },
+  "justinian": {
+    "kandidaten": [
+      "File:Meister von San Vitale in Ravenna 003.jpg"
+    ],
+    "suche": "Justinian mosaic Ravenna"
+  },
+  "einhard": {
+    "kandidaten": [],
+    "suche": "Einhard"
+  },
+  "heinrichiv": {
+    "kandidaten": [],
+    "suche": "Henry IV Holy Roman Emperor"
   }
 }

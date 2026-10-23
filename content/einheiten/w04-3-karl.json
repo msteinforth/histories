@@ -1,0 +1,78 @@
+{
+  "id": "w04-3-karl",
+  "variante": "person",
+  "person": {
+    "id": "karl",
+    "name": "Karl der Große",
+    "kurz": "Ka",
+    "lebensdaten": "um 747–814",
+    "jahr": 800,
+    "rolle": "König der Franken und Kaiser",
+    "bereich": "macht",
+    "epoche": "Mittelalter",
+    "region": "Frankenreich",
+    "geschlecht": "m"
+  },
+  "quelle": {
+    "buch": "Kapitel 4 (Nationalhelden: Die drei Großen des Frankenreichs)"
+  },
+  "bild": null,
+  "hook": "Er bekam an Weihnachten eine Kaiserkrone – und soll davon völlig überrascht gewesen sein. Glaubst du das?",
+  "karten": [
+    {
+      "typ": "hook",
+      "text": "Er führte jahrzehntelang einen blutigen Krieg und holte zugleich die klügsten Köpfe seiner Zeit an den Hof. Am Weihnachtstag 800 bekam er in Rom ein Geschenk, von dem er angeblich nichts ahnte. Wer war dieser Herrscher?"
+    },
+    {
+      "typ": "steckbrief",
+      "fakten": [
+        ["Lebte", "um 747–814"],
+        ["Reich", "das Frankenreich – von ihm stark vergrößert"],
+        ["Vater", "Pippin, der den letzten Merowingerkönig absetzte"],
+        ["Bekannt für", "die Kaiserkrönung am Weihnachtstag 800"]
+      ]
+    },
+    {
+      "typ": "passiert",
+      "text": "Karl erbte das Frankenreich von seinem Vater Pippin und machte es riesig: Er eroberte das Langobardenreich in Italien, Sachsen und die Awarenmark. Die Sachsenkriege dauerten mit Pausen 32 Jahre und waren sein blutigster Feldzug. Selbst Karls Vertraute kritisierten, wie brutal er vorging."
+    },
+    {
+      "typ": "wichtig",
+      "text": "Mit der Krönung durch Papst Leo III. erhob Karl den Anspruch, das untergegangene weströmische Reich zu erneuern. Darum hieß das mittelalterliche Kaiserreich „Heiliges Römisches Reich“. Im Inneren ordnete er sein Reich neu und sorgte für eine kulturelle Blüte – mit Gelehrten wie Alkuin von York."
+    },
+    {
+      "typ": "anekdote",
+      "text": "Sein Vertrauter Einhard verrät Privates: Karl machte sich wenig aus Prunk. Am liebsten saß er mit Gelehrten und seinen Töchtern an einer Tafelrunde. Die Töchter wollte er nicht in die Fremde verheiraten – da ließ er ihnen lieber uneheliche Kinder durchgehen."
+    },
+    {
+      "typ": "mythos",
+      "mythos": "Die Kaiserkrönung war für Karl eine Überraschung.",
+      "wahrheit": "Das behauptete sein Biograf Einhard. Die Historiker sind sich aber sicher: Alles war geplant. Die Krone passte genau zu Karls Anspruch, der Nachfolger der römischen Kaiser zu sein."
+    },
+    {
+      "typ": "heute",
+      "text": "Seine achteckige Pfalzkapelle steht noch: Sie ist das Herzstück des Aachener Doms, in dem Karl auch begraben liegt. Und in Aachen wird jedes Jahr der Karlspreis verliehen – an Menschen, die sich um die Einigung Europas verdient gemacht haben."
+    }
+  ],
+  "quiz": [
+    {
+      "frage": "Wer krönte Karl am Weihnachtstag 800 zum Kaiser?",
+      "optionen": ["Papst Gregor VII.", "Sein Vater Pippin", "Der Kaiser von Byzanz", "Papst Leo III."],
+      "richtig": 3,
+      "erklaerung": "Papst Leo III. setzte Karl im Jahr 800 in Rom die Kaiserkrone auf."
+    },
+    {
+      "frage": "Welchen Anspruch verband Karl mit der Kaiserkrönung?",
+      "optionen": ["Er wollte auf weitere Eroberungen verzichten", "Er sah sich als Erneuerer des weströmischen Reichs", "Er wollte selbst Papst werden"],
+      "richtig": 1,
+      "erklaerung": "Karl wollte das untergegangene (west-)römische Reich erneuern – daher der spätere Name „Heiliges Römisches Reich“."
+    },
+    {
+      "frage": "Welcher Feldzug war Karls blutigster?",
+      "optionen": ["Der Krieg in Spanien", "Der Kampf gegen die Langobarden", "Die Sachsenkriege", "Der Zug gegen die Bretagne"],
+      "richtig": 2,
+      "erklaerung": "Die Sachsenkriege zogen sich mit Unterbrechungen 32 Jahre hin – selbst Karls Vertraute fanden sein Vorgehen zu brutal."
+    }
+  ],
+  "teaser": "Morgen: ein Arzt, dessen Lehrbuch über 500 Jahre lang Standard war – und den viele aus einem Roman kennen."
+}
