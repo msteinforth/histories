@@ -16,6 +16,8 @@ import io
 import json
 import re
 import sys
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -30,10 +32,16 @@ FREI = re.compile(r"public domain|^pd\b|^pd-|cc0", re.I)
 SIZE = 600
 
 
-def get(url):
+def get(url, versuche=5):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return r.read()
+    for i in range(versuche):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as r:
+                return r.read()
+        except urllib.error.HTTPError as e:
+            if e.code != 429 or i == versuche - 1:
+                raise
+            time.sleep(int(e.headers.get("Retry-After") or 0) or 5 * (i + 1))
 
 
 def api(**params):
@@ -125,6 +133,7 @@ def main():
     for pid, entry in quellen.items():
         if pid.startswith("_") or (args and pid not in args):
             continue
+        time.sleep(2)
         f, alle = choose(entry)
         if not f:
             fehler += 1
