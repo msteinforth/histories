@@ -1,0 +1,87 @@
+{
+  "id": "w03-5-augustinus",
+  "variante": "person",
+  "person": {
+    "id": "augustinus",
+    "name": "Augustinus von Hippo",
+    "kurz": "Ag",
+    "lebensdaten": "354–430",
+    "jahr": 400,
+    "rolle": "christlicher Theologe",
+    "bereich": "geist",
+    "epoche": "Spätantike",
+    "region": "Nordafrika",
+    "geschlecht": "m"
+  },
+  "quelle": {
+    "buch": "Kapitel 10 (Heilige: Stars ihrer Zeit), Kapitel 9 (Glaubenseifer und Gewissensqualen)"
+  },
+  "bild": null,
+  "hook": "Er schrieb offen über seine wilde Jugend – und wurde einer der mächtigsten Denker des Christentums.",
+  "karten": [
+    {
+      "typ": "hook",
+      "text": "Er schrieb ein ganzes Buch über sich selbst, als das noch niemand tat – samt seiner wilden Jugend. Danach wurde er zu einem der einflussreichsten Denker des Christentums. Manche seiner Ideen wirken bis heute verstörend."
+    },
+    {
+      "typ": "steckbrief",
+      "fakten": [
+        ["Lebte", "354–430"],
+        ["Herkunft", "Numidien, Nordafrika"],
+        ["Amt", "Bischof von Hippo, heute Annaba in Algerien"],
+        ["Bekannt für", "die „Bekenntnisse“ (Confessiones)"]
+      ]
+    },
+    {
+      "typ": "passiert",
+      "text": "Augustinus war Gelehrter und schloss sich zuerst einer Sekte an, den Manichäern. Mit 32 Jahren erlebte er seine Bekehrung. In Mailand taufte ihn Bischof Ambrosius. Später wurde er selbst Bischof von Hippo."
+    },
+    {
+      "typ": "wichtig",
+      "text": "Neben Paulus war er vielleicht der einflussreichste christliche Theologe überhaupt. Manche seiner Lehren gelten heute als problematisch: dass das Schicksal jedes Menschen vorherbestimmt sei. Oder dass ungetauft gestorbene Kinder das ewige Heil nicht erlangen. Er sprach auch von zwei Reichen: dem Reich Gottes und dem weltlichen."
+    },
+    {
+      "typ": "anekdote",
+      "text": "Mit dem britischen Mönch Pelagius lag er heftig im Streit. Pelagius meinte: Der Mensch ist von Natur aus gut und kann sich aus freiem Willen für das Gute entscheiden. Augustinus hielt dagegen: Von der Erbsünde befreien nur Gottes Gnade, Jesu Kreuzestod und die Taufe."
+    },
+    {
+      "typ": "mythos",
+      "mythos": "Über sich selbst zu schreiben ist eine moderne Erfindung.",
+      "wahrheit": "Von wegen. Augustinus’ „Bekenntnisse“ gelten als vielleicht erste Autobiografie überhaupt. Darin erzählt er ganz offen von seiner wilden Jugend und wie er zum Glauben fand. Es wurde sein beliebtestes Werk."
+    },
+    {
+      "typ": "heute",
+      "text": "Tagebuch, Memoiren, Promi-Biografie: Augustinus war einer der Ersten, die so persönlich über sich schrieben. Und nach ihm ist der Augustinerorden benannt – dem gehörte gut 1000 Jahre später ein Mönch namens Martin Luther an."
+    }
+  ],
+  "quiz": [
+    {
+      "frage": "Wo war Augustinus Bischof?",
+      "optionen": ["In Mailand", "In Hippo in Nordafrika", "In Rom", "In Jerusalem"],
+      "richtig": 1,
+      "erklaerung": "Hippo ist das heutige Annaba in Algerien – in Mailand wurde er nur getauft."
+    },
+    {
+      "frage": "Worum ging der Streit zwischen Augustinus und Pelagius?",
+      "optionen": [
+        "Ob der Mensch aus eigener Kraft gut sein kann oder Gottes Gnade braucht",
+        "Wer Bischof von Mailand werden sollte",
+        "Ob man die Bibel übersetzen darf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Pelagius glaubte an den guten Menschen mit freiem Willen, Augustinus an die Erlösung allein durch Gnade und Taufe."
+    },
+    {
+      "frage": "Was erzählt Augustinus in seinen „Bekenntnissen“?",
+      "optionen": [
+        "Die Geschichte des Römischen Reichs",
+        "Regeln für das Leben im Kloster",
+        "Von seiner wilden Jugend und seiner Bekehrung",
+        "Wie man Bischof wird"
+      ],
+      "richtig": 2,
+      "erklaerung": "Die „Confessiones“ gelten als vielleicht erste Autobiografie der Welt."
+    }
+  ],
+  "teaser": "Morgen ist Samstag: zehn Fragen zu Tonkriegern, Kaisern und Predigern. Schaffst du alle?"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "w03-1-shihuangdi",
+  "variante": "person",
+  "person": {
+    "id": "shihuangdi",
+    "name": "Shihuangdi",
+    "kurz": "Sh",
+    "lebensdaten": "259–210 v. Chr.",
+    "jahr": -221,
+    "rolle": "erster Kaiser von China",
+    "bereich": "macht",
+    "epoche": "Antike",
+    "region": "China",
+    "geschlecht": "m"
+  },
+  "quelle": {
+    "buch": "Kapitel 4 (Giganten der Geschichte und ihre Reiche), Kapitel 11 (Philosophen)"
+  },
+  "bild": null,
+  "hook": "Rund 8000 Soldaten bewachen sein Grab – und keiner von ihnen hat je geatmet.",
+  "karten": [
+    {
+      "typ": "hook",
+      "text": "Rund 8000 Soldaten halten an seinem Grab Wache, seit über 2000 Jahren. Keiner von ihnen hat je geatmet. Ihr Herr hat ein riesiges Reich geeint – und es mit eiserner Härte regiert. Wer war dieser Mann?"
+    },
+    {
+      "typ": "steckbrief",
+      "fakten": [
+        ["Lebte", "259–210 v. Chr."],
+        ["Geboren als", "Ying Zheng, Fürst von Qin"],
+        ["Titel", "„Erster erhabener Gottkaiser von Qin“"],
+        ["Bekannt für", "die Terrakotta-Armee"]
+      ]
+    },
+    {
+      "typ": "passiert",
+      "text": "Ying Zheng wuchs in der „Zeit der Streitenden Reiche“ auf: China war in rivalisierende Staaten zerfallen. Als Fürst von Qin unterwarf er einen Nachbarn nach dem anderen. 221 v. Chr. war er am Ziel und nannte sich fortan Qin Shi Huang Di."
+    },
+    {
+      "typ": "wichtig",
+      "text": "Er vereinheitlichte vieles und baute die Infrastruktur aus. Doch seine Ordnung wurde total: Er schrieb sogar Frisur und Kleidung vor. Fast alle Philosophien, auch die von Konfuzius, wurden verboten. Bücher brannten, Gelehrte wurden verfolgt und getötet. Für seine Bauten mussten einfache Leute Zwangsarbeit leisten."
+    },
+    {
+      "typ": "anekdote",
+      "text": "Der Philosoph Han Fei hielt Menschen für von Natur aus schlecht. Helfen würden nur strenge Gesetze, harte Strafen und ständige Überwachung. Nach der Eroberung seiner Heimat wurde er wohl nach Qin verschleppt und dort umgebracht. Und der Fürst von Qin? Regierte genau nach Han Feis Rezept."
+    },
+    {
+      "typ": "mythos",
+      "mythos": "Mit dem Tyrannen verschwand auch sein Reich.",
+      "wahrheit": "Nur seine Gewaltherrschaft. Schon unter seinem Sohn brach sie zusammen: Rebellen zwangen ihn 207 v. Chr. in den Selbstmord und gründeten die Han-Dynastie. Das geeinte Reich aber, das Shihuangdi geschaffen hatte, blieb bestehen."
+    },
+    {
+      "typ": "heute",
+      "text": "Die Tonsoldaten bei Xi’an hast du bestimmt schon auf Fotos gesehen. Dabei ist von seinem Grab bisher nur diese Armee ausgegraben. Auch an der Chinesischen Mauer ließ er bauen – die Abschnitte, die Touristen heute besuchen, sind aber meist viel jünger."
+    }
+  ],
+  "quiz": [
+    {
+      "frage": "Aus wie vielen Figuren besteht die bisher ausgegrabene Terrakotta-Armee ungefähr?",
+      "optionen": ["800", "8000", "80.000", "800.000"],
+      "richtig": 1,
+      "erklaerung": "Rund 8000 Tonsoldaten bewachen das Grab – und das Mausoleum selbst ist noch gar nicht ausgegraben."
+    },
+    {
+      "frage": "Wessen Ideen entsprach Shihuangdis Art zu regieren?",
+      "optionen": [
+        "Denen von Konfuzius",
+        "Denen von Buddha",
+        "Denen von Han Fei: strenge Gesetze, harte Strafen, Überwachung"
+      ],
+      "richtig": 2,
+      "erklaerung": "Er regierte wie der Legalist Han Fei es empfahl – Konfuzius’ Lehre ließ er dagegen verbieten."
+    },
+    {
+      "frage": "Was geschah nach Shihuangdis Tod?",
+      "optionen": [
+        "Rebellen stürzten seine Familie, doch das geeinte Reich blieb",
+        "Sein Sohn regierte noch 50 Jahre",
+        "China zerfiel wieder in Streitende Reiche",
+        "Die Terrakotta-Armee wurde zerstört"
+      ],
+      "richtig": 0,
+      "erklaerung": "Rebellen zwangen seinen Sohn in den Selbstmord und gründeten die Han-Dynastie – das Reich selbst bestand weiter."
+    }
+  ],
+  "teaser": "Morgen: ein Römer, der einen verbotenen Fluss überquerte – und dessen Name bis heute in einem deutschen Wort steckt."
+}

@@ -1,0 +1,82 @@
+{
+  "id": "w03-4-jesus",
+  "variante": "person",
+  "person": {
+    "id": "jesus",
+    "name": "Jesus von Nazareth",
+    "kurz": "Je",
+    "lebensdaten": "um 7 v. Chr.–30 n. Chr.",
+    "jahr": 28,
+    "rolle": "Stifter des Christentums",
+    "bereich": "geist",
+    "epoche": "Antike",
+    "region": "Palästina",
+    "geschlecht": "m"
+  },
+  "quelle": {
+    "buch": "Kapitel 9 (Die bunte Riege der Religionsgründer), Kapitel 10 (Heilige)"
+  },
+  "bild": null,
+  "hook": "Die halbe Welt zählt die Jahre nach seiner Geburt – und hat sich dabei wohl verrechnet.",
+  "karten": [
+    {
+      "typ": "hook",
+      "text": "Die halbe Welt zählt ihre Jahre nach seiner Geburt. Trotzdem kam er wahrscheinlich nicht im Jahr 1 zur Welt – und vermutlich auch nicht in einem Stall. Was weiß die Forschung eigentlich über diesen Wanderprediger?"
+    },
+    {
+      "typ": "steckbrief",
+      "fakten": [
+        ["Lebte", "um 7 v. Chr.–30 n. Chr."],
+        ["Herkunft", "Nazareth, Sohn eines Bauhandwerkers"],
+        ["Gefolge", "zwölf Apostel und eine Gruppe von Frauen"],
+        ["Quellen", "vier Evangelien, um 70–100 n. Chr."]
+      ]
+    },
+    {
+      "typ": "passiert",
+      "text": "Mit etwa 30 Jahren zog Jesus als Wanderprediger los. Seine Botschaft: Gott habe ihn gesandt, damit die Menschen umkehren. Ewiges Leben erlange, wer Hungrige speist und Kranke und Gefangene besucht. Er verlangte sogar, die eigenen Feinde zu lieben – und sich dem Bösen zu widersetzen, aber nie mit Gewalt."
+    },
+    {
+      "typ": "wichtig",
+      "text": "Am Ende verurteilte ihn der römische Statthalter Pontius Pilatus als Aufrührer zum Tod am Kreuz. Die Evangelien sehen vor allem die jüdische Tempelpriesterschaft als treibende Kraft. Die Forschung meint dagegen, dass die Verantwortung eher bei den Römern lag. Aus seiner Lehre wurde später eine Weltreligion."
+    },
+    {
+      "typ": "anekdote",
+      "text": "Wer schrieb die Evangelien? Die Kirchenväter nannten Matthäus und Johannes, zwei der zwölf Apostel, sowie Markus und Lukas, zwei Begleiter des Paulus. So wirkten die Texte wie Berichte aus erster Hand. Die Forschung hält keine dieser Zuordnungen für überzeugend."
+    },
+    {
+      "typ": "mythos",
+      "mythos": "Jesus wurde im Jahr 1 in einem Stall in Bethlehem geboren.",
+      "wahrheit": "Die Forschung setzt seine Geburt zwischen 7 und 4 v. Chr. an. Und die Geburt im Stall bei Bethlehem gilt als eher unwahrscheinlich: Die Erzählung sollte wohl zu einer Prophezeiung aus dem Alten Testament passen."
+    },
+    {
+      "typ": "heute",
+      "text": "Jedes Mal, wenn du ein Datum schreibst, zählst du ab seiner Geburt – auch wenn der Startpunkt verrutscht ist. Weihnachten erinnert an seine Geburt, Ostern an seinen Tod und die Auferstehung, an die Christen glauben."
+    }
+  ],
+  "quiz": [
+    {
+      "frage": "Wann wurde Jesus nach heutiger Forschung vermutlich geboren?",
+      "optionen": ["Im Jahr 1", "Im Jahr 0", "Um 30 v. Chr.", "Zwischen 7 und 4 v. Chr."],
+      "richtig": 3,
+      "erklaerung": "Unsere Zeitrechnung orientiert sich an seinem mutmaßlichen Geburtsjahr – das aber wohl ein paar Jahre früher lag."
+    },
+    {
+      "frage": "Wer trug laut heutiger Forschung eher die Verantwortung für Jesu Hinrichtung?",
+      "optionen": [
+        "Die römischen Behörden",
+        "Seine eigenen Apostel",
+        "Das Volk von Nazareth"
+      ],
+      "richtig": 0,
+      "erklaerung": "Verurteilt hat ihn der römische Statthalter Pontius Pilatus – die Forschung sieht die Verantwortung eher bei den Römern."
+    },
+    {
+      "frage": "Wann entstanden die vier Evangelien?",
+      "optionen": ["Noch zu Jesu Lebzeiten", "Im Mittelalter", "Zwischen 70 und 100 n. Chr.", "Um 300 n. Chr."],
+      "richtig": 2,
+      "erklaerung": "Sie wurden nicht lange nach seinem Tod verfasst und sind historisch-kritisch gründlich erforscht."
+    }
+  ],
+  "teaser": "Morgen: ein Mann mit wilder Jugend, der die vielleicht erste Autobiografie der Welt schrieb – und Bischof wurde."
+}

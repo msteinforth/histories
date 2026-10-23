@@ -1,0 +1,87 @@
+{
+  "id": "w03-3-augustus",
+  "variante": "person",
+  "person": {
+    "id": "augustus",
+    "name": "Augustus",
+    "kurz": "Au",
+    "lebensdaten": "63 v. Chr.–14 n. Chr.",
+    "jahr": -27,
+    "rolle": "erster römischer Kaiser",
+    "bereich": "macht",
+    "epoche": "Antike",
+    "region": "Rom",
+    "geschlecht": "m"
+  },
+  "quelle": {
+    "buch": "Kapitel 4 (Giganten der Geschichte und ihre Reiche), Kapitel 5, Kapitel 17 (Literaten)"
+  },
+  "bild": null,
+  "hook": "Er schaffte die Republik ab – und ließ sich genau dafür als ihr Retter feiern.",
+  "karten": [
+    {
+      "typ": "hook",
+      "text": "Er hat die Römische Republik beendet – und sich dafür als ihr Retter feiern lassen. Erst war er ein rücksichtsloser Machtpolitiker, dann ein „Friedenskaiser“. Und einen Monat im Jahr trägt sein Name bis heute."
+    },
+    {
+      "typ": "steckbrief",
+      "fakten": [
+        ["Lebte", "63 v. Chr.–14 n. Chr."],
+        ["Eigentlich", "Gaius Octavius"],
+        ["Familie", "Großneffe von Caesar"],
+        ["Bekannt für", "erster römischer Kaiser"]
+      ]
+    },
+    {
+      "typ": "passiert",
+      "text": "Nach Caesars Ermordung kämpfte Octavius gegen die Mörder und drängte sich Schritt für Schritt nach vorn. Nach dem Sieg bei Philippi 42 v. Chr. teilte er die Macht mit Marcus Antonius. Dessen Affäre mit Kleopatra nutzte er später, um ihn als Verräter auszuschalten. Ägypten wurde römisch."
+    },
+    {
+      "typ": "wichtig",
+      "text": "Im Januar 27 v. Chr. ließ er sich die Alleinherrschaft und den Titel „Augustus“ übertragen: der Erhabene. Damit beginnt für uns das Kaiserreich – offiziell abgeschafft wurde die Republik aber nie. Danach sorgte er für Stabilität, Reformen und eine Blüte von Kultur und Wirtschaft."
+    },
+    {
+      "typ": "anekdote",
+      "text": "Augustus wusste, was gute Geschichten wert sind. Vergils „Aeneis“, das Nationalepos der Römer, soll auf seinen Wunsch entstanden sein. Weniger Glück hatte Ovid: Ihn verbannte Augustus 8 n. Chr. ans Schwarze Meer. Ovid selbst schob es auf sein freches Gedicht über die „Liebeskunst“."
+    },
+    {
+      "typ": "mythos",
+      "mythos": "Die „Pax Romana“ war einfach eine friedliche Zeit.",
+      "wahrheit": "Zum Teil war sie Werbung: Den Slogan erfand Augustus selbst, als „Pax Augusta“. Trotzdem meinen viele Historiker, dass es in so einem Großreich wirklich weniger Gewalt gab als dort, wo Stämme sich ständig mit Nachbarn befehdeten."
+    },
+    {
+      "typ": "heute",
+      "text": "Der Monat August ist nach ihm benannt, die Stadt Augsburg ebenfalls. Und seine Nachfolger nannten sich meist „Imperator Caesar Augustus“. Aus „Imperator“, also Befehlshaber, wurde das englische „emperor“."
+    }
+  ],
+  "quiz": [
+    {
+      "frage": "Wie hieß Augustus eigentlich?",
+      "optionen": ["Gaius Octavius", "Marcus Antonius", "Marcus Iunius Brutus", "Gnaeus Pompeius"],
+      "richtig": 0,
+      "erklaerung": "Gaius Octavius war Caesars Großneffe – „Augustus“ war ein Ehrentitel."
+    },
+    {
+      "frage": "Was war das Besondere am Staatsakt im Januar 27 v. Chr.?",
+      "optionen": [
+        "Rom wurde offiziell zur Monarchie erklärt",
+        "Der Senat wurde aufgelöst",
+        "Augustus bekam die Alleinherrschaft, aber die Republik bestand offiziell weiter"
+      ],
+      "richtig": 2,
+      "erklaerung": "Er herrschte allein, schaffte die Republik aber nie ab – und ließ sich als ihr Retter feiern."
+    },
+    {
+      "frage": "Wie nutzte Octavius die Liebschaft von Marcus Antonius mit Kleopatra?",
+      "optionen": [
+        "Er verbündete sich mit Kleopatra",
+        "Er warf Antonius Verrat vor und schaltete ihn aus",
+        "Er floh nach Ägypten",
+        "Er ignorierte sie"
+      ],
+      "richtig": 1,
+      "erklaerung": "Er stempelte Antonius zum Verräter, besiegte ihn und machte Ägypten zum Teil des Römischen Reichs."
+    }
+  ],
+  "teaser": "Morgen: ein Wanderprediger, nach dessen Geburt wir die Jahre zählen – wahrscheinlich ein paar Jahre daneben."
+}

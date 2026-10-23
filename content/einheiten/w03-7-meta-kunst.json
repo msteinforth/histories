@@ -1,0 +1,22 @@
+{
+  "id": "w03-7-meta-kunst",
+  "variante": "meta",
+  "titel": "Wenn aus Geschichte Kunst wird",
+  "kurz": "✎",
+  "bereich": "meta",
+  "quelle": { "buch": "Kapitel 2 (Wenn aus Geschichte Kunst wird), Kapitel 6" },
+  "hook": "Hat Caesar für dich eine Hakennase? Dann weißt du, wie stark Kunst unser Bild von Geschichte prägt.",
+  "karten": [
+    { "typ": "hook", "text": "Stell dir Caesar vor. Hat er eine Hakennase? Und Kleopatra – sieht sie aus wie eine Hollywood-Diva? Unser Bild von Menschen der Geschichte stammt oft gar nicht aus Geschichtsbüchern, sondern aus Dramen, Romanen, Gemälden und Filmen." },
+    { "typ": "text", "titel": "Dichtung bleibt hängen", "text": "Wer prüft schon Fakten beim Filmschauen? Und selbst wenn: Die erfundene Version wirkt oft stärker. Ein Autor muss dafür nicht einmal lügen. Es reicht, die Lücken zu füllen – Gefühle, Motive. So entsteht eine Kunstfigur, die mit dem echten Menschen kaum mehr teilt als den Namen." },
+    { "typ": "text", "titel": "Die Zutaten einer guten Story", "text": "Von mehreren Möglichkeiten wird die spektakulärste gewählt. Alles dreht sich um Liebe, Hass, Eifersucht oder Rache. Es gibt einen klaren Bösewicht und einen deutlichen Schluss. Faustregel: Je besser eine Geschichte klingt, desto skeptischer solltest du sein." },
+    { "typ": "text", "titel": "Shakespeares Schurke", "text": "Bei Shakespeare ist Richard III. ein buckliges Ungeheuer. Praktisch für den Dichter: Die Königin seiner Zeit, Elisabeth I., war die Enkelin des Mannes, der Richard 1483 besiegt hatte. 2012 fand man Richards Skelett. Bucklig war er nicht – aber seine Wirbelsäule war verkrümmt." },
+    { "typ": "text", "titel": "Hollywood verstärkt alles", "text": "Filme sind kurz, also wird noch stärker gestrafft. Action und Liebe lassen sich gut zeigen, Abwarten und Beratungen kaum. Und anders als beim Lesen entsteht kein eigener Film im Kopf: Alles ist fertig vorgegeben. Genau deshalb prägen Filme so stark." },
+    { "typ": "text", "titel": "Und diese Woche?", "text": "„Auch du, mein Sohn Brutus?“ – wohl erfunden. Aber nicht alles ist falsch: In Shakespeares „Julius Caesar“ dreht Marcus Antonius mit einer Trauerrede die Stimmung im Volk. Laut dem antiken Autor Appian lief das tatsächlich ungefähr so. Kunst ist nicht automatisch falsch – nur eben nicht automatisch wahr." }
+  ],
+  "quiz": [
+    { "frage": "Warum stellte Shakespeare Richard III. wohl als Ungeheuer dar?", "optionen": ["Richard hatte sein Theater geschlossen", "Königin Elisabeth I. war die Enkelin von Richards Bezwinger", "So stand es in Richards Tagebuch", "Richard war tatsächlich bucklig"], "richtig": 1, "erklaerung": "Shakespeare war auf das Wohlwollen von Elisabeth I. angewiesen – und Richards Gegner war ihr Großvater." },
+    { "frage": "Welche Faustregel gilt für historische Geschichten?", "optionen": ["Filme sind genauer als Romane", "Je besser die Story, desto eher stimmt sie", "Je besser die Story, desto skeptischer solltest du sein"], "richtig": 2, "erklaerung": "Gute Storys folgen eigenen Regeln – meist ist die unspektakulärste Version die wahrscheinlichste." }
+  ],
+  "teaser": "Nächste Woche: Völkerwanderung und frühes Mittelalter – ein gefürchteter Reiterkönig, ein Religionsstifter, ein Kaiser mit Bart, ein persischer Arzt und ein Papst, der sich mit einem König anlegt."
+}

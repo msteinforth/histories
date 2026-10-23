@@ -1,0 +1,87 @@
+{
+  "id": "w03-2-caesar",
+  "variante": "person",
+  "person": {
+    "id": "caesar",
+    "name": "Gaius Iulius Caesar",
+    "kurz": "Ca",
+    "lebensdaten": "100–44 v. Chr.",
+    "jahr": -49,
+    "rolle": "römischer Feldherr und Politiker",
+    "bereich": "macht",
+    "epoche": "Antike",
+    "region": "Rom",
+    "geschlecht": "m"
+  },
+  "quelle": {
+    "buch": "Kapitel 5 (Mit Schwertern und Kanonen), Kapitel 2, Kapitel 4"
+  },
+  "bild": null,
+  "hook": "Er schrieb seine Heldentaten gleich selbst auf – und Schüler übersetzen sie bis heute.",
+  "karten": [
+    {
+      "typ": "hook",
+      "text": "Er eroberte ein riesiges Gebiet, gewann einen Bürgerkrieg und schrieb seine Heldentaten gleich selbst auf. Sein Name steckt in einem Wort, das du kennst. Und seine berühmten letzten Worte? Die hat er vermutlich nie gesagt."
+    },
+    {
+      "typ": "steckbrief",
+      "fakten": [
+        ["Lebte", "100–44 v. Chr."],
+        ["Stadt", "Rom"],
+        ["Job", "Feldherr, Politiker, zuletzt Diktator auf Lebenszeit"],
+        ["Bekannt für", "Gallischer Krieg, Rubicon, Iden des März"]
+      ]
+    },
+    {
+      "typ": "passiert",
+      "text": "Caesar verbündete sich mit Pompeius und dem steinreichen Crassus. Dafür bekam er für zehn Jahre die Provinz Gallien. Statt sich nur zu bereichern, eroberte er in einem verlustreichen Krieg auch das restliche Frankreich und Belgien. Dann zog er mit seinem Heer über den Rubicon nach Italien – streng verboten."
+    },
+    {
+      "typ": "wichtig",
+      "text": "Es folgte ein Bürgerkrieg, der große Teile des Imperiums erschütterte. 45 v. Chr. hatte Caesar gewonnen und wurde Diktator auf Lebenszeit. Er packte überfällige Reformen an – und zerstörte zugleich die Republik. Großer Gestalter oder Machträuber? Darüber kann man bis heute streiten."
+    },
+    {
+      "typ": "anekdote",
+      "text": "Caesar war sein eigener Pressesprecher: Die wichtigsten Bücher über seine Taten schrieb er selbst – so etwas hatte es vorher nicht gegeben. Sein Bericht über den Gallischen Krieg war so klar und präzise, dass ihn schon der große Redner Cicero lobte."
+    },
+    {
+      "typ": "mythos",
+      "mythos": "Caesar starb mit den Worten „Auch du, mein Sohn Brutus?“",
+      "wahrheit": "Glaub das lieber nicht. Belegt ist: Am 15. März, den Iden, erstachen ihn Senatoren um Brutus mitten in einer Senatssitzung – mit 23 Stichen. Brutus war ein früherer Vertrauter, aber keineswegs Caesars Ziehsohn."
+    },
+    {
+      "typ": "heute",
+      "text": "Aus „Caesar“ wurde unser Wort „Kaiser“. Wer etwas tut, nach dem es kein Zurück gibt, „überschreitet den Rubikon“. Und falls du Latein hast: „De bello Gallico“ ist bis heute eine der beliebtesten Lektüren im Unterricht."
+    }
+  ],
+  "quiz": [
+    {
+      "frage": "Welchen Fluss überquerte Caesar verbotenerweise mit seinem Heer?",
+      "optionen": ["Tiber", "Rhein", "Rubicon", "Nil"],
+      "richtig": 2,
+      "erklaerung": "Mit dem Zug über den Rubicon nach Italien begann der Bürgerkrieg."
+    },
+    {
+      "frage": "Warum zog Caesar überhaupt mit seinem Heer nach Italien?",
+      "optionen": [
+        "Er wollte Kleopatra in Rom treffen",
+        "Er fürchtete, ohne Heer in Rom entmachtet zu werden",
+        "Gallier griffen Rom an"
+      ],
+      "richtig": 1,
+      "erklaerung": "Er traute sich nicht allein nach Rom zurück, weil er – zu Recht – seine Entmachtung fürchtete."
+    },
+    {
+      "frage": "Wer war Brutus?",
+      "optionen": [
+        "Caesars Ziehsohn",
+        "Caesars Großneffe",
+        "Ein gallischer Fürst",
+        "Ein früherer Vertrauter Caesars"
+      ],
+      "richtig": 3,
+      "erklaerung": "Brutus war ein früherer Vertrauter – der Ziehsohn ist eine Legende, genau wie der berühmte letzte Satz."
+    }
+  ],
+  "teaser": "Morgen: Caesars Großneffe. Er schaffte die Republik ab – und ließ sich als ihr Retter feiern."
+}

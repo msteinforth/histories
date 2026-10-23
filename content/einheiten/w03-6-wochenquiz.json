@@ -1,0 +1,14 @@
+{
+  "id": "w03-6-wochenquiz",
+  "variante": "wiederholung",
+  "titel": "Wochen-Quiz",
+  "kurz": "?",
+  "bereich": "quiz",
+  "hook": "Tonkrieger, Iden des März, ein Wanderprediger: Zehn Fragen zu deiner Woche.",
+  "karten": [
+    { "typ": "hook", "text": "Shihuangdi, Caesar, Augustus, Jesus, Augustinus: Diese Woche ging es von China bis Nordafrika, vom ersten Kaiser Chinas bis zu einem Bischof der Spätantike. Jetzt kommen zehn Fragen – keine Noten, kein Druck. Was du falsch hast, taucht einfach später wieder auf." }
+  ],
+  "einheiten": ["w03-1-shihuangdi", "w03-2-caesar", "w03-3-augustus", "w03-4-jesus", "w03-5-augustinus"],
+  "anzahl": 10,
+  "teaser": "Morgen: Warum hat Kleopatra für viele das Gesicht eines Filmstars?"
+}
