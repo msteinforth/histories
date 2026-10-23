@@ -40,13 +40,17 @@ body {
   -webkit-tap-highlight-color: transparent;
 }
 body.viewer-open { overflow: hidden; }
+/* Feste App-Hülle: nur der Inhalt scrollt, damit Browserleisten und Tab-Leiste beim Tab-Wechsel nicht springen. */
+html, body { height: 100%; overflow: hidden; }
+#app { position: fixed; inset: 0; display: flex; flex-direction: column; }
 a { color: inherit; text-decoration: none; }
 button { font: inherit; color: inherit; }
 svg { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
 h2 { font-size: 15px; font-weight: 600; margin: 0 0 8px; }
 small { font-size: 13px; color: var(--muted); }
 
-.page { max-width: 480px; margin: 0 auto; padding: calc(var(--safe-top) + 4px) 0 calc(76px + var(--safe-bottom)); }
+.page { flex: 1; min-height: 0; overflow-y: auto; overscroll-behavior-y: contain; -webkit-overflow-scrolling: touch; }
+.page-inner { max-width: 480px; margin: 0 auto; padding: calc(var(--safe-top) + 4px) 0 24px; }
 
 /* Kopfzeile */
 .top { display: flex; align-items: center; justify-content: space-between; padding: 10px 16px; position: sticky; top: 0; z-index: 5; background: rgba(0,0,0,.88); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); }
@@ -76,9 +80,10 @@ small { font-size: 13px; color: var(--muted); }
 /* Story-Leiste */
 .storybar { display: flex; gap: 14px; overflow-x: auto; padding: 8px 16px 14px; border-bottom: 1px solid var(--line); scrollbar-width: none; }
 .storybar::-webkit-scrollbar { display: none; }
-.story-item { display: flex; flex-direction: column; align-items: center; gap: 5px; width: 66px; flex: none; font-size: 12px; color: var(--muted); }
-.story-item span:last-child { max-width: 66px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.story-item.neben .avatar { --s: 50px; }
+.story-item { display: flex; flex-direction: column; align-items: center; justify-content: flex-start; gap: 6px; width: 68px; flex: none; }
+.story-item .ring { width: 66px; height: 66px; align-items: center; justify-content: center; }
+.story-item .avatar { --s: 56px; }
+.story-label { display: block; width: 100%; text-align: center; font-size: 12px; line-height: 16px; color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
 /* Hinweis-Banner */
 .banner { margin: 12px 16px 0; padding: 12px 14px; border-radius: 14px; background: var(--surface-2); display: flex; gap: 12px; align-items: center; justify-content: space-between; font-size: 15px; }
@@ -131,7 +136,7 @@ small { font-size: 13px; color: var(--muted); }
 .status.locked { color: var(--faint); }
 
 /* Tab-Leiste */
-.tabbar { position: fixed; left: 0; right: 0; bottom: 0; z-index: 10; display: flex; justify-content: space-around; padding: 6px 0 calc(6px + var(--safe-bottom));
+.tabbar { flex: none; z-index: 10; display: flex; justify-content: space-around; padding: 6px 0 calc(6px + var(--safe-bottom));
   background: rgba(0,0,0,.92); border-top: 1px solid var(--line); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); }
 .tabbar a { display: flex; flex-direction: column; align-items: center; gap: 2px; font-size: 11px; color: var(--faint); padding: 4px 18px; }
 .tabbar a.on { color: var(--text); }

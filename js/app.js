@@ -31,7 +31,7 @@ function renderMain() {
   }[mainView]();
   const activeTab = mainView === 'einstellungen' ? 'album' : mainView;
   app.innerHTML = `
-    <main class="page">${body}</main>
+    <main class="page"><div class="page-inner">${body}</div></main>
     <nav class="tabbar">${TABS.map(([id, href, icon, label]) => `<a href="${href}" class="${activeTab === id ? 'on' : ''}">${icon}<span>${label}</span></a>`).join('')}</nav>`;
 }
 
@@ -99,7 +99,6 @@ function route() {
   closeViewer();
   mainView = ['stories', 'album', 'einstellungen'].includes(a) ? a : 'feed';
   renderMain();
-  window.scrollTo(0, 0);
 }
 
 // Ereignisse per Delegation – Views werden als HTML-Strings neu gerendert.

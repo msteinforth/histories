@@ -20,13 +20,13 @@ function storyBar() {
   const items = [];
   if (cur && logic.isUnlocked(cur)) {
     const inf = logic.info(cur.unit);
-    items.push(`<a class="story-item" href="#/${cur.datum}">${ring(inf, { seen: logic.isDone(cur) })}<span>Heute</span></a>`);
+    items.push(`<a class="story-item" href="#/${cur.datum}">${ring(inf, { seen: logic.isDone(cur), size: 'md' })}<span class="story-label">Heute</span></a>`);
   }
   for (const st of logic.storyQueue()) {
     // Die Bonus-Story der heutigen Person erst nach der Tageseinheit zeigen (Link auf der Abschluss-Karte).
     if (st.typ === 'haupt' && cur && st.freischaltung === cur.unit.id && !logic.isDone(cur)) continue;
     const inf = logic.storyInfo(st);
-    items.push(`<a class="story-item ${st.typ}" href="#/story/${esc(st.id)}">${ring(inf, { seen: s().seen[st.id] })}<span>${esc(inf.name.split(' ')[0])}</span></a>`);
+    items.push(`<a class="story-item ${st.typ}" href="#/story/${esc(st.id)}">${ring(inf, { seen: s().seen[st.id], size: 'md' })}<span class="story-label">${esc(inf.name.split(' ')[0])}</span></a>`);
   }
   if (!items.length) return '';
   return `<nav class="storybar" aria-label="Stories">${items.join('')}</nav>`;
