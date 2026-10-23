@@ -33,7 +33,7 @@ jobs:
       - name: Porträts holen
         env:
           MODUS: ${{ inputs.modus }}
-          PERSONEN: $PERSONEN
+          PERSONEN: ${{ inputs.personen }}
         run: |
           if [ "$MODUS" = "pruefen" ]; then
             python scripts/fetch_portraits.py --nur-pruefen $PERSONEN
