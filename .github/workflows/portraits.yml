@@ -1,0 +1,57 @@
+name: Porträts laden
+
+# Lädt gemeinfreie Porträts von Wikimedia Commons (scripts/fetch_portraits.py).
+# "pruefen" listet nur Kandidaten und Lizenzen, "laden" speichert die Bilder,
+# committet sie und stößt danach die Veröffentlichung an.
+on:
+  workflow_dispatch:
+    inputs:
+      modus:
+        description: "pruefen oder laden"
+        required: true
+        default: pruefen
+        type: choice
+        options: [pruefen, laden]
+      personen:
+        description: "Person-IDs mit Leerzeichen getrennt (leer = alle)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  portraits:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - name: Porträts holen
+        env:
+          MODUS: ${{ inputs.modus }}
+          PERSONEN: $PERSONEN
+        run: |
+          if [ "$MODUS" = "pruefen" ]; then
+            python scripts/fetch_portraits.py --nur-pruefen $PERSONEN
+          else
+            python scripts/fetch_portraits.py $PERSONEN || echo "::warning::Nicht für alle Personen wurde ein freies Bild gefunden."
+          fi
+      - name: Prüfen
+        if: inputs.modus == 'laden'
+        run: node scripts/validate.mjs
+      - name: Committen und veröffentlichen
+        if: inputs.modus == 'laden'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then echo "Keine Änderungen."; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content
+          git commit -m "Gemeinfreie Porträts von Wikimedia Commons"
+          git push
+          gh workflow run pages.yml --ref "${GITHUB_REF_NAME}"

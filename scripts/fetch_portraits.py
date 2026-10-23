@@ -134,6 +134,9 @@ def main():
             continue
         print(f"✓ {pid}: {f['titel']} [{f['lizenz']}] {f['seite']}")
         if nur_pruefen:
+            for x in alle[:15]:
+                frei = "frei" if FREI.search(x["lizenz"]) else "    "
+                print(f"    {frei} {x['lizenz'] or '?':28} {x['titel']}")
             continue
         save(get(f["thumb"]), BILDER / f"{pid}.jpg", entry.get("fokus", [0.5, 0.35]))
         eintragen(pid, {"datei": f"{pid}.jpg", "credit": credit(f), "quelle": f["seite"]})
