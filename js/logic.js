@@ -109,20 +109,21 @@ export function openDays() {
 
 function questionsOf(unit) {
   const name = info(unit).name;
-  return (unit.quiz || []).map((q, i) => ({ ...q, id: `${unit.id}#${i}`, von: name }));
+  const datum = content.days.find((d) => d.unit.id === unit.id)?.datum;
+  return (unit.quiz || []).map((q, i) => ({ ...q, id: `${unit.id}#${i}`, von: name, vonDatum: datum }));
 }
 
-// Quizfrage 3 kommt aus früheren Einheiten: zuerst falsch beantwortete Fragen,
-// sonst abwechselnd ca. 1 Tag, 1 Woche, 1 Monat zurück.
+// Quizfrage 3 wiederholt eine Einheit, die schon abgeschlossen ist (nie eine Person, die sie noch
+// nicht kennt): zuerst falsch beantwortete Fragen, sonst abwechselnd ca. 1 Tag, 1 Woche, 1 Monat zurück.
 function repeatQuestion(day) {
-  const answers = store.get().answers;
-  const earlier = content.days.filter((d) => d.datum < day.datum && d.unit.variante === 'person');
-  if (!earlier.length) return null;
-  const wrong = earlier.flatMap((d) => questionsOf(d.unit)).find((q) => answers[q.id]?.right === false);
+  const { answers, done } = store.get();
+  const learned = content.days.filter((d) => d.unit.variante === 'person' && d.unit.id !== day.unit.id && done[d.unit.id]);
+  if (!learned.length) return null;
+  const wrong = learned.flatMap((d) => questionsOf(d.unit)).find((q) => answers[q.id]?.right === false);
   if (wrong) return { ...wrong, wiederholung: true };
   const offset = [1, 7, 30][day.index % 3];
   const target = addDays(day.datum, -offset);
-  const src = [...earlier].reverse().find((d) => d.datum <= target) || earlier[0];
+  const src = [...learned].reverse().find((d) => d.datum <= target) || learned[learned.length - 1];
   const qs = questionsOf(src.unit);
   const q = qs.find((x) => !answers[x.id]) || qs[day.index % qs.length];
   return { ...q, wiederholung: true };
@@ -132,7 +133,10 @@ function reviewQuestions(day) {
   const unit = day.unit;
   const answers = store.get().answers;
   const rand = seededRandom(day.datum);
-  const pool = unit.einheiten.flatMap((id) => (content.units[id] ? questionsOf(content.units[id]) : []));
+  // Nur Personen der Woche, die schon dran waren – solange überhaupt eine abgeschlossen ist.
+  const ids = unit.einheiten.filter((id) => content.units[id]);
+  const learnedIds = ids.filter((id) => store.get().done[id]);
+  const pool = (learnedIds.length ? learnedIds : ids).flatMap((id) => questionsOf(content.units[id]));
   const earlierWrong = content.days
     .filter((d) => d.datum < day.datum && d.unit.variante === 'person' && !unit.einheiten.includes(d.unit.id))
     .flatMap((d) => questionsOf(d.unit))

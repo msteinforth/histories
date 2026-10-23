@@ -1,6 +1,6 @@
 // Kartenbausteine für Tageseinheiten und Bonus-Stories.
 import * as logic from './logic.js';
-import { esc, fmtLong } from './util.js';
+import { esc, fmtDay, fmtLong } from './util.js';
 import { avatar, icons, rich } from './ui.js';
 
 const LABELS = {
@@ -94,7 +94,7 @@ function quizCard(questions, onFinish) {
         el.innerHTML = `
           <div class="card card-quiz">
             <div class="label">Quiz · Frage ${qi + 1} von ${total}</div>
-            ${q.wiederholung ? `<div class="chip">Wiederholung · ${esc(q.von)}</div>` : ''}
+            ${q.wiederholung ? `<div class="chip">Wiederholung · ${esc(q.von)}${q.vonDatum ? ` (${esc(fmtDay(q.vonDatum))})` : ''}</div>` : ''}
             <h2 class="question">${esc(q.frage)}</h2>
             <div class="options">${q.optionen.map((o, k) => `<button class="opt" data-k="${k}">${esc(o)}</button>`).join('')}</div>
             <div class="explain" hidden></div>

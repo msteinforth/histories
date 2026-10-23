@@ -42,7 +42,7 @@ body {
 body.viewer-open { overflow: hidden; }
 /* Feste App-Hülle: nur der Inhalt scrollt, damit Browserleisten und Tab-Leiste beim Tab-Wechsel nicht springen. */
 html, body { height: 100%; overflow: hidden; }
-#app { position: fixed; top: 0; left: 0; right: 0; height: var(--app-h, 100%); display: flex; flex-direction: column; }
+#app { position: fixed; top: 0; left: 0; right: 0; bottom: 0; display: flex; flex-direction: column; }
 a { color: inherit; text-decoration: none; }
 button { font: inherit; color: inherit; }
 svg { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
@@ -191,11 +191,11 @@ small { font-size: 13px; color: var(--muted); }
 .about small { line-height: 1.5; }
 
 /* Story-Viewer */
-.viewer { position: fixed; top: 0; left: 0; right: 0; height: var(--app-h, 100%); z-index: 20; display: flex; flex-direction: column; color: #fff;
+.viewer { position: fixed; inset: 0; z-index: 20; display: flex; flex-direction: column; color: #fff;
   background: radial-gradient(110% 70% at 0% 0%, color-mix(in srgb, var(--a1) 55%, transparent), transparent 60%), linear-gradient(170deg, var(--a2), #050505 70%);
   animation: rise .22s ease-out; }
 @keyframes rise { from { opacity: 0; transform: translateY(14px); } }
-@media (min-width: 560px) { .viewer { left: 50%; width: 440px; margin-left: -220px; top: 12px; height: auto; bottom: 12px; border-radius: 18px; overflow: hidden; box-shadow: 0 0 0 100vmax rgba(0,0,0,.85); } }
+@media (min-width: 560px) { .viewer { left: 50%; width: 440px; margin-left: -220px; top: 12px; bottom: 12px; border-radius: 18px; overflow: hidden; box-shadow: 0 0 0 100vmax rgba(0,0,0,.85); } }
 .v-top { padding: calc(var(--safe-top) + 10px) 12px 6px; }
 .v-progress { display: flex; gap: 4px; }
 .v-progress span { flex: 1; height: 3px; border-radius: 3px; background: rgba(255,255,255,.3); overflow: hidden; }

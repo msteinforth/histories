@@ -1,8 +1,4 @@
-// Homescreen-Installation und App-Höhe.
-//
-// iOS meldet in Homescreen-Web-Apps mit durchscheinender Statusleiste eine um die Statusleiste
-// zu kleine Fensterhöhe – fixierte Elemente mit bottom: 0 landen dann zu hoch. Deshalb wird die
-// App-Höhe im Standalone-Modus aus der echten Bildschirmhöhe gesetzt (--app-h).
+// Homescreen-Installation: Hinweis beim ersten Öffnen (iOS: Anleitung, Android: Installieren-Knopf).
 import * as store from './store.js';
 import { icons } from './ui.js';
 
@@ -12,22 +8,9 @@ export const isStandalone = () =>
 const isIOS = () =>
   /iphone|ipad|ipod/i.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
 
-function setAppHeight() {
-  let h = '100%';
-  if (isStandalone() && isIOS()) {
-    const portrait = window.innerHeight >= window.innerWidth;
-    const screenH = portrait ? Math.max(screen.height, screen.width) : Math.min(screen.height, screen.width);
-    h = `${Math.max(screenH, window.innerHeight)}px`;
-  }
-  document.documentElement.style.setProperty('--app-h', h);
-}
-
 let deferredPrompt = null;
 
 export function initInstall() {
-  setAppHeight();
-  window.addEventListener('resize', setAppHeight);
-  window.addEventListener('orientationchange', () => setTimeout(setAppHeight, 300));
   // Android/Chrome: eigenen Installieren-Knopf statt Browser-Leiste anbieten.
   window.addEventListener('beforeinstallprompt', (e) => {
     e.preventDefault();

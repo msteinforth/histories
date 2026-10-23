@@ -1,6 +1,6 @@
 // Offline-Fähigkeit: App-Hülle aus dem Cache (im Hintergrund aktualisiert),
 // Inhalte zuerst aus dem Netz, damit neue Tage sofort erscheinen.
-const CACHE = 'histories-v4';
+const CACHE = 'histories-v5';
 const SHELL = [
   './', 'index.html', 'manifest.webmanifest', 'css/app.css',
   'js/app.js', 'js/logic.js', 'js/store.js', 'js/views.js', 'js/cards.js', 'js/viewer.js', 'js/ui.js', 'js/util.js', 'js/install.js',
