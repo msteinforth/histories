@@ -112,6 +112,9 @@ if (stories) {
     if (!units[s.freischaltung]) err(where, `Freischaltung "${s.freischaltung}" ist keine bekannte Einheit`);
     if (!s.person || !s.person.name || !BEREICHE.includes(s.person.bereich)) err(where, 'person.name / person.bereich fehlt');
     if (!s.karten || s.karten.length < 2 || s.karten.length > 5) err(where, '2–5 Karten erwartet');
+    const b = s.person && s.person.bild;
+    if (b && !existsSync(join(root, 'content/bilder', b.datei))) err(where, `Bild ${b.datei} fehlt in content/bilder/`);
+    if (b && !b.credit) err(where, 'Bild ohne Quellenangabe');
     (s.karten || []).forEach((k, j) => {
       const n = words(k.text);
       if (n > LIMITS.storyKarte) err(where, `karten[${j}] hat ${n} Wörter – erlaubt sind ${LIMITS.storyKarte}`);

@@ -1,0 +1,39 @@
+{
+  "_hinweis": "Bildquellen für scripts/fetch_portraits.py. Nur gemeinfreie oder CC0-Dateien werden übernommen. 'fokus' = Bildmitte für den quadratischen Zuschnitt (x, y von 0 bis 1).",
+  "imhotep": {
+    "kandidaten": ["File:Imhotep-Louvre.JPG", "File:Imhotep - Louvre.jpg"],
+    "suche": "Imhotep statuette bronze"
+  },
+  "nebukadnezar": {
+    "kandidaten": ["File:William Blake - Nebuchadnezzar (Tate Britain).jpg"],
+    "suche": "Nebuchadnezzar II"
+  },
+  "kyros": {
+    "kandidaten": ["File:Cyrus II le Grand et les Hébreux.jpg"],
+    "suche": "Cyrus the Great"
+  },
+  "siddhartha": {
+    "kandidaten": ["File:Gandhara Buddha (tnm).jpeg"],
+    "suche": "Gandhara Buddha statue"
+  },
+  "konfuzius": {
+    "kandidaten": ["File:Konfuzius-1770.jpg", "File:Confucius Tang Dynasty.jpg"],
+    "suche": "Confucius portrait"
+  },
+  "laotse": {
+    "kandidaten": ["File:Zhang Lu-Laozi Riding an Ox.jpg"],
+    "suche": "Laozi riding ox painting"
+  },
+  "platon": {
+    "kandidaten": ["File:Plato Silanion Musei Capitolini MC1377.jpg"],
+    "suche": "Plato bust Silanion"
+  },
+  "dareios": {
+    "kandidaten": [],
+    "suche": "Darius I relief Persepolis"
+  },
+  "diogenes": {
+    "kandidaten": ["File:Jean-Léon Gérôme - Diogenes - Walters 37131.jpg", "File:Waterhouse-Diogenes.jpg"],
+    "suche": "Diogenes painting"
+  }
+}
